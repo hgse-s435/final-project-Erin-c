@@ -1,0 +1,2 @@
+I'd like to see immutablevalues in Scratch so we could define Pi for example. I find that Scratch programs contain many "magic numbers". Good practice would be to define these as a variable but even better would be to define them as immutable/constant etc so that they then couldn't be changed. Regards, Mark
+

@@ -1,0 +1,4 @@
+Will links to projects such as http://scratch.mit.edu/projects/Kinderlabor/2542324still work in Scratch 2.0? Andwill it bepossible to update old projects in Scratch 2.0, keeping theirlink intact? I'm asking since Iwant to publish such linkson a CDto be burned in early December, and obviously, I want the links to work also next year. Thanks, and all the best, Bernd.
+
+Yes - we plan to redirect URLs likehttp://scratch.mit.edu/projects/Kinderlabor/2542324to the new scheme (http://scratch.mit.edu/projects/2542324). So links made earlier will continue to work. Updating should also continue to work.
+

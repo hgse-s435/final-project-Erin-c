@@ -1,0 +1,6 @@
+I've put together a Prezi that features some Scratch scripts with explanations / teaching notes. It includes some stuff about project euler. Here's a link to the prezi: If you are not a prezi user, you can download the presentation here. It has averages, factorial, fibonacci, square roots, prime numbers, newton's method for quadratic equations and the arctan way of calculating Pi.
+
+Hi Mark, Great presentation, and lots of great ideas! This would be a great resource for Math educators. Would you consider posting this as a ScratchEd resourceas well? Thanks, Michelle, on behalf of the ScratchEd Team
+
+Hi Michelle, Many thanks for noticing this. I would be happy to share it on ScratchEd.
+

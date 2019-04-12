@@ -1,0 +1,42 @@
+Do you work with children ages 5-7? Then you might be interested in ScratchJr, a new version of Scratch that we're designing specifically for younger children. You can learn more about ScratchJr through theKickstarter campaignthat we launched earlier today (http://bit.ly/scratch-jr). We've been testing ScratchJr prototypes in classrooms during the past year. We hope to release an iPad version of ScratchJr this summer, and an Android version later this year. To get updates about the release of ScratchJr, sign upfor the ScratchJr mailing list. (ScratchJr is a joint project of the MIT Media Lab, Tufts University, and Playful Invention Company.)
+
+Thank you so much for making this announcement! I'll make sure to spread the word in my workshop at the Big bang-konference this week in Denmark. Perfect timing:)
+
+This is great news!! I cannot wait to see it in action!
+
+Congrats on successful funding with kickstart. I am a backer. I am wondering if there will be a desktop version of Scratch Jr. I understand why you are making Scratch Jr first for the ipad and I see you looking to extended it to Androids, however In my lab I do not have tablets. I have been campaining to get lab tablets but without success. I am hoping you will consider making Scratch Jr accessiable to all platforms. Thanks!
+
+Thanks for your support of ScratchJr! After iPad and Android, we hope to work on a web-based version (but I'm not sure of timetable).
+
+Are you launching ScratchJr on Scratch Day this year? I am looking forward to coding with ScratchJr. Keep up the great work!
+
+We plan to launch the iPad version of ScratchJr sometime this summer. Thanks for your interest!
+
+hello, Will Scratch Jr be released at the scratch@MIT conference this year?
+
+We are hoping to release ScratchJr (for the iPad) sometime in July -- so it will be available before the Scratch@MIT conference in August. Thanks for your interest in ScratchJr!
+
+Sounds great! Looking forward to it. Will we get a notification that it has been released?
+
+Could/should Scratch Jr be translated multilingual? Or maybe its not necessary...
+
+The ScratchJr programming blocks do not have any text, so they do not need any translation. But the help and information screens are currently only in English. We hope to translate them eventually, but not in time for the initial release. Also, the user-generated text (e.g., for "talk balloons" and titles) does not support multiple language character sets at this time. We hope to support other language character sets in the future.
+
+Hi Mitch ! Congrats! I think that starting with a simple, graphic and almst intuitive version version of scratch casn help young learners to familiarize with scratch and the thinking processes that later will be developed at a higher level with full scratch . But the most important thing will be that teachers (not just IT teachers or geeks like me ) will be introduced to scratch in a playful way and learn about coding without being afraid. Once we , common teachers, realize of what happens inside our student's little heads while they "play" with scratch and how this will improve their learning in other areas, then coding will take the role in deserves in the school curriculum. Thank You!
+
+This is wonderful! The tablet is perfect for little hands.
+
+WEB PLATFORM AND ANDROID PLATFORMS ARE USED IN AISAN CONTRIES HOPE THESE VERSIONS ARE ALSO DEVELOPED FAST ENOUGH BEST WISHES TO THE TEAM
+
+Also in Italy we need ANDROID version of ScratchJr. Is the Team working at it.... I hope? Have I to ask my sons to be "beta tester" :-) Roberto from Padua (close to Venice)
+
+We are working on an Android version of ScratchJr, and it should be available later this year. Next year, we hope to work on a web version of ScratchJr. To learn about the latest ScratchJr developments, you can sign up for the ScratchJr mailing list. Thanks for your interest in ScratchJr!
+
+If you're interested in becoming a beta tester for the Android version of ScratchJr, you should join the Google+ community for ScratchJr Android beta testers.
+
+New to ScratchJr., Scratch and ScratchEd. Teaching ScratchJr. starting next week to my students. Would appreciated any tips but mostly I wanted to know why you cannot import images as characters or backgrounds. Also there is no eraser in the Paint Editor. Help!
+
+Colour me in the same camp as Lori. I've just started working with Scratch Jr and the kids want to add their own characters to their narratives. Is this doable? How? Love the program, but I can see me migrating my kids to Scratch proper pretty soon as they bump up against the limitations of Scratch jr.
+
+In ScratchJr, you can create characters in the paint editor -- which includes the ability to grab images from the camera. So you can take a photo of the classroom or the playground, and use it as the background for your ScratchJr story. Or you can take a photo of someone's face and put it inside the head of a ScratchJr character.But if you want to import an image from the web or another app, you'll need to switch to Scratch.
+

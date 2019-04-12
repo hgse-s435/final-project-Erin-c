@@ -1,0 +1,8 @@
+I'ld like to suggest consistently using first person singular in Hat blocks. So, the "when I receive " block is great, but the "when clicked" block should be the "when I am clicked block"
+
+Hi Anne, I agree with your suggestion to use "When I am clicked" in HatBlocks, and in fact that's how I did it in Snap (http://snap.berkeley.edu/run), but now I'm getting unsure about it, because maybe kids will think that the first person "I" refers to the *HatBlock* itself rather than (also) to the sprite. What do you think, could this perhaps be an issue?
+
+This is an interesting idea and thought; and even more interesting that in Scratch the "also" exists and clicking on the block itself executes code that when read makes it seem like it should only execute if the sprite itself is clicked. Sometimes I think I overthink ideas like this, my students tend to adjust pretty quickly to whatever it is as long as they are given experimentation time to understand how it works.
+
+Hi Jens, I see that you have, which is great. It could be an issue, but one which I suspect students would rapidly get past. My worry about the "when Sprite1 clicked block" is that students will not understand that the text is changed to "when Sprite2 is clicked" when cloning occurs. That is something that will cause more trouble than the confusion that you are suggesting may occur. How about "when this sprite is clicked" and "when this sprite receives"? That would be consistent and avoid that particular possible confusion. - mulhern
+

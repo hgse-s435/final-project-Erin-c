@@ -1,0 +1,14 @@
+As part of one of my math classes we are learning about scratch. I was asked to write a scratch procedure that would allow me to produe a regular polygons that have a fixed perimeter of "420 sprite steps." I was wondering if anyone can help me get started on this. Thank you in advance for any help you can give!
+
+If you know the perimeter (420) and the number of sides (taken as input), then you can calculate the length of each side and the interior angle (http://www.coolmath.com/lesson-interior-angles-of-polygons-1.htm), which is all you need to draw the polygon. Does that help?
+
+A little.I guess I just don't understand how you can set your perimeter where it has to be 420 and will not change on scratch. If that makes any sense!
+
+In my program, I used variables. I created a variable called perimeter and set it to 420. I then used an ask block to get the number of sides from the user, so that the answer block stores the number of sides. Using that andperimeter, I can figure out the length of each side. (E.g. if the perimeter is 420, a triangle will have sides of length 420/3=140 and a square will have sides of length 420/4=105). Using the number of sides (in the answerblock), I can determine the interior angle (the link from my earlier post). Next, I draw the polygon using pen down, repeat, turn, and moveblocks. Does that make more sense?
+
+If you don't mind a spoiler, I can post my project. But I'm also happy to help debug. :)
+
+Thanks for all the help! After tons of hours of thinking of it I finally got it. I think I was just over thinking it!! I did it pretty much the same way!!! Thanks again!
+
+That's awesome! I'm happy to hear that you got it worked out! :)
+

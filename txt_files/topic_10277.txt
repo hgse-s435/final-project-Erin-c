@@ -1,0 +1,10 @@
+Want to build up your own game? You've seentheScratch cardsandvideo tutorials, as well as theLet's play projects handouts. Here are a few other resources: Workshop sample projects: Check out thiscurated collection of gamescreated by young people on the Scratch website. Download the projects and see how they were made. Explore the sample projects that come with Scratch (File -> Open -> Examples). Browse the Scratch website and find a project that you like. Download the project and play with it. I hope that gets you started. If there's anything you need, please don't hesitate to let us know. Sincerely, Karen, on behalf of the Creative Computing organizing team
+
+I'll be teaching Scratch at Spirit of Knowledge Charter School in Worcester this fall. I guarantee that games will be part of it. I'll have the kids post their results to the Scratch website.
+
+I definitely will be using games when I re-write my introduction to programming unit. I think creating a game will be the culminating project. I think most students will really enjoy that type of project and it allows for so much creativity.
+
+I like this. I am wondering if there are any ways in scratch to create games where you can have more than one player. This would be really appealing as well.
+
+Creating Scratch games is so much fun that I am almost worried that once I introduce this in my classes, the kids may not want to work with other applications!!!
+

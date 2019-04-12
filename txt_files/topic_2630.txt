@@ -1,0 +1,6 @@
+Is it possible and permissible to upload Scratch projects to websites other than MIT's Scratch website?
+
+Yes, definitely. Check out this other discussion topic about this very issue --http://scratched.media.mit.edu/discussions/how-do-i/set-scratch-server-- or the Scratch website FAQ --http://info.scratch.mit.edu/Support/Scratch_FAQ#Embed
+
+Thank you!
+

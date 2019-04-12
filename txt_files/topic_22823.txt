@@ -1,0 +1,2 @@
+Hi, Is there support within Scratch 2.0 directly for controlling NXT Robotics devices, or should I be investigating the Enchanting mod? I wonder if the Enchanting mod is yet ported to support Scratch 2.0 - actually I'm not sure how that would work for the online version of Scratch 2.0. Any advice greatly appreciated. Thanks Graeme
+

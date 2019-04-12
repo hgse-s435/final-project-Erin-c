@@ -1,0 +1,14 @@
+I'm starting an online class next week, and I'll be teaching some basic programming concepts with Scratch. I'm still trying to figure out the best way to have the students "turn in" their work, though. I've got a few options: *Students save and email the file to me. *Students save the file in a shared location so I can access them directly *Students upload the file to the scratch site, and I find it by... - them sending me a link - having them in a friend list and hunting the projects down myself - having them use a specific tag - using a gallery What's the best way? Ineed a method that's easy for the students to do correctly, and easy for me to find the projects once they're done.
+
+I've been a teaching assistant for Mitch Resnick in "Technologies for Creative Learning" for a few years and the students make Scratch projects. I've always found a gallery easiest. Here's a link to the activity, with instructions about how students can add themselves to the gallery:http://mas714.media.mit.edu/node/64 Hope that helps! K
+
+I've been using Dropbox for sharing some of the Scratch projects that my staff have created as samples. It should just be an .exe installation because I was able to install it on computers that I didn't have admin rights on.
+
+This is helpful! But, how do I create the gallery for them to load into? Thanks!
+
+You can create at gallery athttp://scratch.mit.edu/galleries/create
+
+I have been usinghttps://filestork.net/ in combination with dropbox pretty successfully.
+
+My only concern with using a gallery is the prospect of cheating, in that students can see what other students have gone before the submission deadline. This is precisely when I wish that we could disable the "view inside" option.
+

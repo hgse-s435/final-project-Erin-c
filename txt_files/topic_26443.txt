@@ -1,0 +1,6 @@
+I would like to use a scratch car and then put a scratch person inside that car. Using two different scratch sprites into one costume. How do I do this?
+
+In the sprite editor add your person as costume 1 and then the car as costume 2. Select the person. so they appear in the main editing area, and drag the car icon into the main area. Select each costume and scale as required by dragging the corners. Drag a square around both costumes and click the Group button (bottom of right hand column) which is only available with the costumes selected...
+
+Thank you very much! I could not drag another sprit into one, but after I updated to the latest version it worked. I am using an Apple computer and it does not have the last 3 icons in the editor, but it automatically grouped when I selected all.
+

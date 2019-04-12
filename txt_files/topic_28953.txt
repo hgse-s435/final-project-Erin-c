@@ -1,0 +1,6 @@
+Are there large .png files available (similar to this: http://day.scratch.mit.edu/sites/default/files/resources/promotion/logos/ScratchCat-Large.png )for the sprites in Scratch Jr. or any of the sprites or blocks from Scratch 2.0? Thanks.
+
+Hi Lorraine, You can get the 2.0 blocks in vectorformat (svg) here: http://scratched.gse.harvard.edu/resources/vector-scratch-blocks
+
+Anders, Thank you for sharing the URL for the 2.0 blocks in vectorformat. This will be very helpful!
+

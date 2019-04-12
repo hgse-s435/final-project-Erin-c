@@ -1,0 +1,8 @@
+As a tech integrator I have as many as 15 classes working on Scratch during a school year. At the beginning of the next school year I have the same teachers, but each one has different students. I don't want to "end" a previous class because students can no longer access their accounts, which they will need to do with their next teacher. I also want them to be able to go back in and continue exploring and creating, even if they have moved up to their next school. Any suggestions on how I can manage moving students from one class to another? To keep student accounts open I can just create an "archived" class for students who move to the middle school. That way they can maintain their student accounts.
+
+Hi Martha. Thanks for the question. I'm afraid it is currently not possible to move student accounts from one class to another. This is something we are looking into for future iterations of Scratch Teacher Accounts. In the meantime, your idea to keep the classes open makes sense. You can also suggest that students download their favorite projects so they can upload them into personal or new student accounts in the fall.
+
+Martha, My working solution to this problem is to create "Class of" classes that represent an entire grade level like theClass of 2024 . That way it doesn't matter what grade they are in. To sort specific classrooms within the "Class of" grade level, I create studios for each classroom. T-
+
+Hi all I continue to to have this issue with students moving from class to class or even school to school/college. Has this been solved or are there methords that have been developed to move accounts or add existing accounts to a class?
+

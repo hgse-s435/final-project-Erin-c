@@ -1,0 +1,6 @@
+My students are working on Scratch projects in the lab and many ofthe Windows based PC's keep freeezing while they are working and they have to wait quite a while before they can move code blocks at all. Does anyone have any suggestons for fixing this or why its happening?
+
+Hi Kerry! There is a discussion about this happening on the Teaching With Scratch Facebook Group. It seems like people's solution has been to use the program offline. I imagine the Scratch Team has been notified of the issue and is on it! Feel free to join the conversation on the facebook page! Best, Alexa
+
+Happens due to a flash issue and the page freezes. There is a thread on the Scratch website. It is actually easy to fix once you realize what is happening. All you should have to do it restore down (the double boxes next to the 'x' to close the browser). and then click it back to full and the Scratch page will be back to normal.
+

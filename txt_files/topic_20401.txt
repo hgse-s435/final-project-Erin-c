@@ -1,0 +1,12 @@
+Anyone have a good Scratch 2.0 curriculum they have developed or found? Everything I have is for the old version. I primarily have used the lessons that used to be found at http://www.eastonhome.co.uk/Scratch/index.htm (which seems to have disappeared) and am trying to avoid rerecording the videos myself. Thanks. I teach a middle school Video Game Design class (really an Intro to Programming class) and use Scratch extensively. I'm really looking for a recorded set of video tutorials that the students can go through to learn the basics (after an intro on the concept from me) and then every couple lessons, do a project on their own to apply the new concepts. Here is what I am doing now (minus the from-scratch projects) http://scratch.tigerteched.com/ This is my class site Anyone have something they would share?
+
+Hi Jon, Have you checked out the Creative Computing Online Workshop curriculum? It consists of six weeks of activities and resources for Scratch 2.0. -https://creative-computing.appspot.com/preview The video tutorials for the online workshop are also available online. -https://creative-computing.appspot.com/videosAnd there are also Scratch 2.0 video tutorials available on the Scratch website. Hope that helps! I'd love to hear how the design class works out this year. Maybe you'll post an update? Sincerely, Michelle, on behalf of the ScratchEd Team
+
+I am just developing some lesson plans for our 3rd-6th graders. I have adapted some of the #CCOW lessons too. sites.google.com/a/technocage.com/stemaniacs/home
+
+There is also a new comic book for use in the classroom. nostarch.com/scratch
+
+These lessons look great. Thanks for sharing!
+
+I have put together a web site of lesson plans using a lot of the creative compuing resources and many other resources. http://technologypainting.com
+

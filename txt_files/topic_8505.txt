@@ -1,0 +1,6 @@
+Does anyone know a way to import a folder of photos without importing one by one?
+
+Open the folder where all the images are on your machine. Open Scratch -- go to costumes; then select all the images from the folder and drag and drop them into the costumes area. You can also do this with sprites.
+
+Brilliant! easy. Thanks so much Susan.
+

@@ -1,0 +1,2 @@
+I teach primarily 10-12 grade students. Last year for about the last 6 weeks of school, I started my students on Scratch. This year, I will be teaching Game Design. I noticed in the curriculum it suggests the usage of a Notebook for students. Was wondering how others have used the Notebook as part of the curriculum? I know in the old days, I used to do flowcharts but, something tells me that there is more efficient use of notebooks than flowcharts. I also know, that my students had problems with forever and If then blocks as well as nested loops.
+

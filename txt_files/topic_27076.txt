@@ -1,0 +1,4 @@
+I am creating a game for my year 12 Industrial Technology Multimedia major and the resolution of the images is not that great. I wanted to know if there is anyway I can make the images/sprites resolution look better on scratch?
+
+It might be that you are using the image editor in bitmap mode. On the bottom-right, make sure that "Vector Mode" is clicked. Hope that helps! M
+

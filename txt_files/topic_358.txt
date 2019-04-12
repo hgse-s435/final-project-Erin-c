@@ -1,0 +1,6 @@
+I just noticed something when trying to direct someone to a specific page at Scratch ed, in the regular Scratch forums. The pages all have the same URL? Being able to give a particular resource's address is handy, or is there another way to link to a specific section of this site?
+
+I notice that you're using scratch-ed.com as the primary address. Try using scratched.media.mit.edu -- and the address hiding problem should be avoided. Let me know how it goes!
+
+Got it and that fixed the problem.
+

@@ -1,0 +1,14 @@
+Hello all, Just bought a couple of PICO boards to test out with my students, but I am having trouble getting them working. When I open the scratch example projects with sensors and try to use them they don't seem to work. Tried restarting computer, and nothing changed. Any thoughts as to why this is happening and/or how to work them? Thanks!
+
+A really basic test would be to just use the ScratchBoard watcher. 1. Plug in the board. 2. Start up Scratch. 3. Go to the "Sensing" category. 4. Right-click (or control-click on a Mac) the "slider sensor value" block. 5. Select "show ScratchBoard watcher" from the menu that appears. 6. A widget should appear on the stage that displays the state of the attached board. Hope that helps -- please let me know if you have any question! K
+
+That gave me a little more info, but it didn't get the sensor to work. The gray block says "off" t the top, and I did change "disable remote sensor connections" to "enable" but that didn't seem to change anything. Any other thoughts?? Thanks, Karen! Jen
+
+What type of computer are you connecting to? Do you have any necessary drivers installed?http://www.picocricket.com/picoboardsetupUSB.html K
+
+Sometimes when I connect a Picoboard (Windows XP) I have to figure out the Serial COM port first and then manually choose the Serial COM port. Rightclick on the Picoboard Widget (Off?) and then select the serial/USB port number that you have seen before. Maybe not the answer but worth trying... /Anders
+
+Thank you, Karen! I knew there was a step I missed. Feeling a little silly but so glad I will be able to work with it now! Jennifer
+
+Definitely no need to feel silly! I hope everything is smooth sailing from now on -- but do let me know if that isn't the case...
+

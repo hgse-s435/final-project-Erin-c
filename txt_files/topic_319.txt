@@ -1,0 +1,14 @@
+In case you haven't yet heard, the latest version of Scratch is now available for download! New features include: keyboard input with the ask block webcam integration string manipulators LEGO WeDo support support for smaller screens (like on netbooks) Have you tried it already?
+
+thanks is it possible to upgrade from the previous version or it should be installed anew ?
+
+As far as I know, you need to install the next version. (Not really "upgrading"...)
+
+thank you ! ps: i've posted few questions and comments in http://scratch.mit.edu/forums/viewforum.php?id=7 the scratch site forum for educators should i re-post them in ScratchEd ? is cross-posting allowed between that forum and ScratchEd ?
+
+ScratchEd has just started (it's only been up for a month)-- and I'm gradually announcing it to different people and in different venues, which is why there hasn't been an announcement about ScratchEd in the Scratch educators forum yet. You're definitely welcome to re-post questions/comments! Thanks for joining ScratchEd and posting...
+
+Thanks - just started using Scratch with my class - they are mad about it. Can i distribute it to my class, for them for use at home, or does it require a separate intallation?
+
+You're welcome to distribute Scratch to your students. Each student will need to install it on their home computers (or run it from a USB drive). Does that answer your question? Thanks, K
+

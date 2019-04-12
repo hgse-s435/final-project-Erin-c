@@ -1,0 +1,6 @@
+When I save a project with a sprite X selected in the sprite window, the selectionmayapparently get lost. Inmy case, it's the *stage* that is selected after reloading. This is a bit inconvenient, sinceI would like to control whose scriptsthekids see when they load the project.Any help would be appreciated! Thanks a lotfrom Kinderlabor.ch
+
+I asked the lead developers of Scratch and here's what they told me: "I believe Scratch automatically select the sprite with the most scripts. So, you could fake it out by adding a bunch of empty hat blocks to the sprite you want to have selected." Hope that helps! K
+
+Thank youfor pointing out this workaround, Karen! Actually, I want the kids to see the sprite with the fewest (zero)scripts, since I want them to program it.So I will justtell them to select it first. Thanks! Bernd.
+

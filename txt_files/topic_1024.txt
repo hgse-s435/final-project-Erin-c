@@ -1,0 +1,8 @@
+How can I count sprites in project? Or may be it possible to ask ID of each sprite?
+
+Counting the sprites is a snap. Create a "Counter" sprite to do the counting. Add this script to it: when counter clicked-> broadcast "count sprites" Then create a variable for for all all sprites called "Number of Sprites" Then for each sprite that you wish to count, add this script: when I receive "count sprites"->change "Number of Sprites by 1. You can modify that foundation to suite your needs.
+
+Generating an ID for each Sprite is also possible but how you do it depends a lot on how you intend to use the IDs. I'll send a few examples this evening.
+
+I'm curious -- what are you trying to do in the project?
+

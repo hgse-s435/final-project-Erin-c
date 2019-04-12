@@ -1,0 +1,22 @@
+When will Scratch 2.0 include the motor blocks so we can use the Lego WeDo sensors and motors?
+
+Hi Barb! Yes, the MIT Scratch Team hopesto develop an interface that will make it easier to connect different types of hardware with Scratch (including WeDo and Scratchboards). Unfortunately, no news yet on a possible release date. M
+
+Hi Michelle - Hope all is well. Thanks for the reply - I might just use the Makey Makey boards instead, but I love my old WeDo projects so will probably go back and just use 1.4... Best, Barb
+
+I have the same question: when can we have the blocks for WeDO's motor and sensors? I'm going back to 1,4 like Barb... Dona
+
+Hi Donatella, The interface for connecting hardware to Scratch 2.0 is still in development, which the MIT Scratch Team hopes to launch in 2014. We will keep you posted on when the release date becomes more definitive. Sorry for the inconvenience. Thanks, Michelle Chung, on behalf of the ScratchEd Team
+
+Hi Michelle, When will support for the Picoboard/Scratchboard be available?
+
+We recently received an update about Scratch + hardware that I shared athttp://scratched.media.mit.edu/node/25315. Thanks, M
+
+I successfully loaded the PC plugin using IExplorer but NOT on Chrome on a Windows 8 machine. The sensor and motor worked. Thanks in advance for all the great work. Two questions: 1. Will this ever work on Chromebooks? 2. I want to use my magnetic lego blocks (refrigerator magnets) to set up pulleys, etc for a classroom demo. Any idea if I will mess up the the Hub, the Distance Sensor, or especially the motor? Thanks again, Howard HTS
+
+LEGO WeDo works fine with Scratch 2.0 in Windows and Mac. In my school we use Linux/Ubuntu so I've got 6 WeDo kits that can not be used. Do you have any news on when the Scratch Extension Plugin will be available for Linux? Thanks
+
+hello Frank see this page http://www.picaxe.com/Teaching/Other-Software/Scratch-Helper-Apps/ I have never tested with wedo but it is ok for me with a Sphero Easy , quick , functional and efficacious ... I work on puppy linux and linux mint systems Alain
+
+To whomever can help me! I am trying to get my new school to be allowed to install the WeDo extension so we can use our new WeDo equipment. They need the answers to the following question: Will the extension work if it is installed in the account library and not the main library? Macintosh HD/Library/Internet-Plug-Ins: vs ~/Library/Internet Plug-Ins: Is there a complete spec sheet posted somewhere for the extension? -- Barbara Tennyson Instructional Technology Specialist Broadmeadow Elementary School 120 Broad Meadow Rd Needham, Ma 02492781-455-0448
+

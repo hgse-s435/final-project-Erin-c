@@ -1,0 +1,14 @@
+Hi, I am the person responsible for "The Scratch Patch" - the articles on Scratch in the MagPi magazine for the Raspberry Pi. I am very grateful to some of the ScratchEd users who have helped me with comments and suggestions on another thread, but I thought I'd make a new one. If you haven't seen the MagPi, you can find it here: http://www.themagpi.com/ The projects that I have featured are all available in my area on the Scratch Forum (I am racypy): http://scratch.mit.edu/galleries/view/169901 The "bases" script will be featured in the November edition. Anyway, the reason I am posting this here is that if anyone has any suggestions for ways in which I can improve the Scratch Patch, or ideas for future projects ... I am all ears. mark
+
+Hi Mark, Most of my projects tend to start when I'm trying to think of ways to show how certain blocks or categories of blocks can be used. I'd like to see the Scratch patch move away from the ask, say routines and be a bit more graphical. How about doing some drawing with the Pen? Look at my patterns project. It's really simple as I guess you're pushed for space but the effext is quite nice andcan lead to experimenting with different values to produce further patterns. In my favourites there's a project called snow which might be good for the December issue! If you need more help then let me know and I'll see what Ican do, Mark
+
+Hi Mark, thanks for your comments. Yes, I should probably go for something more graphical next time. I'll check out your pattern project. I am rather short on space - they only give me 2 pages ... mark
+
+Patterns is very short! For bigger projects maybe you should serialise it?...leave some cliff hangers....coming next month etc!
+
+Have remixed the snow project and called it xmaspi. Project could be shortened by removing drifts and reducing number of snow sprites. Just an idea!
+
+Just one caveat - Make sure any projects run OK on the Pi e.g avoid displaying variables, don't use sensing key-presses and remember that you can't load any jpg background images. Although there are some fixes for these issues - they've not been released and anyone just using the standard Raspbian image will have these bugs . Simon
+
+Thanks Simon, I will do that. Here's something I am working on ... a Julia set fractal image that I made in Scratch. It's VERY slow at this level of detail, so I may try to "optimize" it before I share it with the world ...
+

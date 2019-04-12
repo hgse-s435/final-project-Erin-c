@@ -1,0 +1,4 @@
+Hi, I feel stupid asking for this but I useScratchfor my Intro class and am having a problem accessing my teacher account. I have done password resets, looked in spam, etc. but I get no emails. I also have emailed their help contact and teacher account contact multiple times. I think email from their site may be blocked on my schools end. Anyhow I was wondering if anyone had a contact at MIT for someone they know who works in theScratchproject who I could contact to help. If so please email me atbarront@fpsct.org Thank you much!!!
+
+Hi Timothy, Ifteacher-accounts@scratch.mit.eduis not working for your school email, I'd recommend reaching out to the Teaching with Scratch Facebook Group, where we've migrated most of our discussions. Folks on there are pretty good at solving most issues on Scratch! Best, Alexa
+

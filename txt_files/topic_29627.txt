@@ -1,0 +1,10 @@
+Hi everybody, I'm an italian teacher (primary school) reading "New frameworks for studying and assessing the development of computational thinking" (Brennan, Resnick, 2012) I found this interesting tool for assessing projects: http://happyanalyzing.com/ But it seems to work only with version 1.4. Is therea tool similar to Scrape for version 2.0 of Scratch? thanks Alessandro Rabbone, Torino, Italia
+
+Hey Alessandro. We are currently trying to set up an assessment tool with my supervisor. Unfortunately, it is very difficult to automately assess Scratch projects. Still, there are some possibilities to assess Scratch, e.g. Hairball[1]. Boe, B., Hill, C., Len, M., Dreschler, G., Conrad, P., & Franklin, D. (2013, March). Hairball: Lint-inspired static analysis of scratch projects. InProceeding of the 44th ACM technical symposium on Computer science education(pp. 215-220). ACM. Best, Jan
+
+Jan ...thanks so much. I will readwith great interest Alessandro
+
+Hey again. This one is also available: http://drscratch.programamos.es/ Best, Jan
+
+This is exactly what I was looking for A quick and easy tool Again... thank you very much You've been very kind! Alessandro
+

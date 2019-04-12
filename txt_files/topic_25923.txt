@@ -1,0 +1,6 @@
+Hi, does anybody have any ideas or experience measuring how children are doing in their learning of code. For me I need to know for writing reports but also it's just useful to see how well the children are learning. I teach scratch to primary school age so 6 to 12 years. A typical class is 30 children two to a computer. As they are in pairs this is an added problem measuring on an individual basis. Any help or advice appreciated.
+
+Hi, have you had any feedback on this? Did you come up with a suitable workplan?
+
+hi http://scratch.mit.edu/projects/19415133/#editor I use project based approach. like the project above 1.do they have the score increment? 2. can they change the background 3. what did they learn? have them start with a 'broken' version of this game have them solve it..for the younger kids you walk thru it bit by bit 1- what is the goal? kick the ball in the goal 2. who will do that? kicker 3. how do they do that? glide and give them 20-40 min to fix the broken game then have each come up and show their game to the class on the projector so you can fully assess who gets it and who is lagging and pair the stronger and weaker coders together for the next project. Greg
+

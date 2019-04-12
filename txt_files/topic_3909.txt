@@ -1,0 +1,16 @@
+We're really excited to be hosting the CS4HS / Creative Computing workshop again this year, July 22-24 at MIT Media Lab. At the workshop,we'll explore new educational technologies and instructional strategies to engage students in creative design activities -- and, in the process, help students develop as computational thinkers and computational creators. You can read about our 2009 workshop in this ScratchEd story. For more information, please visithttp://cs4hs.media.mit.edu/
+
+The CS4HS/Creative Computing workshop topics seem like they might be interesting for teachers at the K-6 level as well. Is there a similar workshop geared for K-6 teachers?
+
+Last year we had K-6 teachers apply and were accepted. If you're interested, I encourage you to apply!
+
+I am so excited to be attending this workshop. I'm looking forward to learning ways to bring this great resource to both students and teachers at my school. I'm ready to soak up the energy, ideas and info. Can't wait!
+
+I am very, very excited for this workshop! I can't wait to see how some others are using or plan to use scratch in the classroom. I am looking forward to some discussion on students' posting their work online. -Megan
+
+Day 1 of the workshop complete - what a day! Such great ideas, enthusiastic participants, and a beautiful location at the MITmedia lab building. Can't wait for tomorrow's sessions!
+
+Hi This links to download all the documents related to the CS4HS / Creative Computing workshop : presentations and projects files. If you had to wait one, two or three hours before boarding in an airport, in a station, that's very usefull to have backup all these documents on your laptop. The presentation of Mitch Resnick is a very important event for us , it's like a light in the dark. En Franais : [... Vous trouverez ici un lien qui vous permet de t_l_charger un dossier zipp_ qui regroupe des dossiers identifi_s par le nom correspondant : - Toutes les pr_sentations au format .pdf ; - Tous les liens vers les pages , les pages ayant _t_ enregistr_s avec Firefox ; - Tous les projets Scratch illustrant la d_monstration et la progression de Mitch Resnick ( dans son dossier ) ; Il s'agit d'un atelier qui a _t_ organis_ dans le cadre d'une initiative lanc_e par Google : CS4HS ( Computer Science For High School ) l'informatique pour le lyc_e. Cet atelier s'est d_roul_ dans les nouveaux locaux du Media lab au MIT. Le document le plus important est,  mon avis, est la pr_sentation d'ouverture de cet atelier, appel_ Creative Computing pour K-12 Teachers, par Mitch Resnick. La progression est illustr_e par de nombreux projets particulirement bien choisis. A nous d'interpr_ter son message. ...] Sincerely
+
+Thank you so much for compiling these into an easy-to-download archive. I'll be posting all of the materials for the recent 2010 CS4HS workshop shortly. Thanks! K
+

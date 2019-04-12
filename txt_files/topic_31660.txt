@@ -1,0 +1,2 @@
+I came back from Winter break to discover that scratch.mit.edu is now being blocked by OpenDNS at our school. Our IT director says he can't whitelist anything, because if it's being blocked it must not be CIPA compliant. Is anyone else having this issue? I really want to be able to use Scratch with my middle school Technology students this semester. Thanks in advance!
+

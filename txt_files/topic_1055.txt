@@ -1,0 +1,12 @@
+Rick reported a super annoying bug yesterday. I know that many of you may have experienced it: you get redirected to a blank page when posting content. I think it's fixed! (It had to do with the notification email settings.) If you see it again (or any other glitchy bits), please don't hesitate to post! Thanks, K
+
+Hi Karen, I just posted from my Mac in Firefox 3.5.3 and experienced the "blank page"problem (twice!) Ingrid
+
+Hmmm -- back to the drawing board! :) Thanks for the report.
+
+I'm still getting it as well.
+
+Does it occur with all types of posting? (E.g. It happens with comments in Discussions as well as posting resources.) Thanks, K
+
+OK -- I've tried something else. Please let me know if you continue to see blank pages... I appreciate the bug reports!!! Thanks, K
+

@@ -1,0 +1,2 @@
+I know how to use a list as a 2D array that stores single charcaters and I can get a single charcater out of the list but how do I replace it? 3X3 array - - - , - - - , - - - teaching kids tic tac toe with 2 D array, want to change 2,2 so that it contains X - - - , - X - , - - -
+

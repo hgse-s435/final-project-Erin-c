@@ -1,0 +1,4 @@
+Hello, My colleague teaches Mandarin. I am a Computer Science teacher. We would like to do digital storytelling using Scratch in her Chinese class. I know that I can convert Scratch to the Mandarin language. But what I really want to do is have the sprites say "whatever the students want them to say" in Mandarin. We can translate the Scratch interface to Mandarin but when we type into the Scratch say block, the text is in English. Two questions: 1) Can we translate the Scratch interface and have whatever is typed into blocks be in Mandarin? 2) Can we keep the Scratch interface in English but have the students type text input to blocks in Mandarin? Thanks very much for any answers, Mayra
+
+Hi Mayra, Thanks for posting this question. Here are answers (from the Scratch Team): 1) Only the name of the blocks are translated. The text written inside of the block will not be translated. What goes in, goes out. 2) Yep! Hope this helps! Willa
+

@@ -1,0 +1,4 @@
+Is there a limit to the number of students that can be added to a class? I'm trying to make a class that represents multiple grade levels, and all but my first two classes received error messages when trying to create their accounts.
+
+I just created a class for our whole 4th grade. It had 77 kids in it. I created the class then created the accounts with a CSV upload. The interface limited the number of accounts I could create to 50 per CSV file, so I split the group into 2 CSV files.
+

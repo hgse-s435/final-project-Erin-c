@@ -1,0 +1,10 @@
+Hi, I need to teach an example of how to make a sprite (say a person standing) move around a clock face in sixty seconds. I know how to set the clock face up etc etc but I'm having trouble rotating the sprite, ie keeping the feet static in the middle but making the head and body move around the clock in 6 degree steps every second. Can any body help me please?
+
+Hi Mike, I found a Scratch forum about this. Perhaps it will help: http://scratch.mit.edu/forums/viewtopic.php?id=3836&p=1
+
+Open the image editor for the sprite. Move the center point to the "feet" of the person. (using set costume center under the color pallet) Positing the center fo the clock. http://scratch.mit.edu/projects/ashbyr1/1555442
+
+Michelle Hi many thanks for your help, great. I have what I need now. Mike
+
+Rick Hi Many thanks for your help. I have what I need now. Mike
+

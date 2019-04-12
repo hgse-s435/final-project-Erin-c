@@ -1,0 +1,8 @@
+Is it possible to sense which costume a Sprite "has on"?
+
+You can get the id number of the current costume. In the Looks category, there's a "costume #" block that reports a sprite's current costume. Is that what you're looking for? K
+
+Yes...thanks
+
+In addition, I must say that you can get the ID number of any other sprite, using the "costume # of spriteX" that is available in the "Sensing" category.
+

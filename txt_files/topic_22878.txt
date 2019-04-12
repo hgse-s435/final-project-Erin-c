@@ -1,0 +1,6 @@
+I am working with a fifth grade teacher. She is looking to have her students create programs which test to see if a number is a prime number, or if it is divisble by 2, 3, and so on. Is there a function in Scratch which returns a remainder? Thanks.
+
+The block "[ ] mod [  ]" under operators returns the remainder of the first number when divided by the second.
+
+I created a project to check for Prime/Composite number. You can check it out - http://scratched.gse.harvard.edu/resources/prime-or-composite-number
+

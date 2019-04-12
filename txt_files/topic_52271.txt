@@ -1,0 +1,4 @@
+We have created students accounts last term, and students made some projects in their accounts. But in a new term, students move into a new class, and we want to keep the works in their accounts and roll over them to a new class. Is there a way to make it happen? Thank you!
+
+I have a similar issue. I just posted here. I recommend creating accounts across the whole grade. It still doesn't get past the issue of each class needing brand new user accounts for each class, but you could create studios for each assignment for which your students create. It's not a perfect work-around, but it may work.
+

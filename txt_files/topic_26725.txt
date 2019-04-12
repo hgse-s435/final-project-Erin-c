@@ -1,0 +1,4 @@
+Can you please help me find the problems in this project? http://scratch.mit.edu/projects/20627139/#editor
+
+I think you have fixed it already but I can give you some hints: The sprite "SratchMaze" should be emptied in the white areas when it was called "sprite3". Now, with the new name, you may discard the script [forever(if touching "sprite3")]. I guess you increased the size of this sprite in order to facilitate the running of "sprite1" but it would be easier to decrease the size of sprite1 or to use "move 5 steps" instead of "move 10 steps". There are 3 scripts that can be joined together: [When flag clicked(goto -210, 159)/reset timer/wait until touching "sprite2"/say "you won!"/wait 0.5 secs/say join secs to sprite2....]. The way they are now, a "say" covers the other.
+

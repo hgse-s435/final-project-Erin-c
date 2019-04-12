@@ -1,0 +1,6 @@
+It would be nice to be able to specify a costume by its position in the costume sequence. Currently, you can show the costume number, but you need to specify the costume by name. You could manually edit the names to match the numbers, but that seems exhausting.
+
+Hi Anne, Actually, if I'm understanding your comment, you can switch to a costume based on the costume number. Try using variables. K
+
+Yup, so you can. - mulhern
+

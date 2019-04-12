@@ -1,0 +1,8 @@
+We have a kids hackathon on April 28th, but it could be that we will only have a local wi-fi available, and no internet access (for reasons). Could we use Scratch 2.0 under those circumstances? Anyway, the kids coudn't save their projects as long as no new memberships are accepted. Well, would appreciate your answers anyway!
+
+Hi Tanja, A downloadable version for Scratch 2.0 is in development, but unfortunately, will not be available in time for the April 28 hackathon. Looking forward to hearing how the event goes! Sincerely, Michelle Chung, on behalf of the ScratchEd Team
+
+Any idea when 2.0 will be available for offline usage, or possably a link to a beta version?
+
+A public alpha will be available soon (within a week or two). K
+

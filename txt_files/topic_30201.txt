@@ -1,0 +1,2 @@
+Here is a project and the note from a student: ************* http://scratch.mit.edu/projects/32767248/#player I would like my classmates to help me fix the problem I had with the second part of the game because it doesn't want to go to the second part for a few seconds and then switches to the last slide. ************* Could you all give me your advice? Thank you!
+

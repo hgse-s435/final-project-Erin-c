@@ -1,0 +1,6 @@
+So, I've got single-stepping mode enabled and it highlights the block it's on in a paleish sort of yellow. It highlights a stop script block forever, or until I hit the stop sign. Doesn't the stop script block finish executing on its own?
+
+Hi Anne, I see what you mean. I tried experimenting with the "stop script" and "stop all scripts" blocks (see attached photos). I could imagine that the "stop script" needs to continue execute, so as to block that particular script/thread. But the "stop all scripts" can just stop all scripts/threads. Just a guess...
+
+Hi! There's a further point --- if I turn single stepping off the stop script block stays pale yellow and even if I run the scripts not in single stepping mode, the color doesn't go away until I hit the stop sign.
+

@@ -1,0 +1,4 @@
+Hello all ! .... It was great meeting many of you at the Scratch@MIT event this past week ! I am looking for design challenge ideas for my students and am wanting to do something a bit different with our WeDo kits this year.  Much like the marble challenge at MIT this past week I am looking for "collaborative machines" exercises .... challenges that would require 2-3 students programming their WeDo's to accomplish a task that would require their machine to collaborate with the others to accomplish a task ? Does the community have any ideas regarding employing our WeDo kits (or Arduino kits with Scratch4Arduino) in this way ? Thanks again to the community ! - Rich
+
+Hi Rich, Great having you at the conference! Similar to the marble challenge, here is video of a WeDo roller coasterbuilt collaboratively. Looks like fun! Michelle
+

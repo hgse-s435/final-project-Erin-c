@@ -1,0 +1,2 @@
+The Raspberry Pi Organization is now including an off-line version of Scratch 2.0 with their latest distribution of the Raspbian operating system. If you would like to develop your own custom Scratch extension for the Raspberry Pi, please check out my tutorial and demo project. Tutorial: ?https://mryslab.github.io/s2-pi/ Demo Code:https://github.com/MrYsLab/s2-pi
+

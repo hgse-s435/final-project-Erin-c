@@ -1,0 +1,10 @@
+I'm sorry if this was asked before, but I couldn't find an answer. The offline version of Scratch 1.4 is able to add and multiply integers of arbitrary length; the online players seem to switch to floating-point numbers when some length is exceeded. I'm wondering what the situation will be in the "all online" Scratch 2.0. Will arbitrarily long integers still exist in Scratch 2.0? Will they maybe even work online? I'd be happy about any information on this topic. Thanks!
+
+Hi, Bernd. Scratch 1.4 was built on top of the Squeak programming system. Squeak supports arbitrary length integers, so Scratch took advantage of that feature. Both the Java-based online Scratch player and the new Flash-based one represent numbers interally as double precision floating point numbers (64-bit). So, unfortunately, the online version of Scratch will no longer support infinite precision integers. Of course, you can continue to use Scratch 1.4 for projects that requireinfinite precision integers, but people will need to download your projects and play them with Scratch 1.4 to get the correct results; online, they will get floating point approximations, which I realize may be useless in certain kinds of projects (e.g. projects involving large prime numbers such as public key cryptography). Floats have 52-bits of mantissa, so if you stick to working with numbers up to 2^25 or so, you can get exact results. But I realize one would rather not have to think about such implementation details... -- John
+
+Thanks for this feedback, John! It is a bit disappointing news, though. One thing I really liked about Scratch is what you indicate in your last paragraph - one did not have to think about such precision issues, and I could make a nerdy project (Scrip & Flip) that computes Pi to 10,000 digits with two very simple scripts. On the other hand, most people will never notice the difference, so I guess it's ok.
+
+Yes, I'm also disappointed to lose that feature. I wish more programming languages had infinite precision arithmetic... -- John
+
+Wouldn't java.math.BigInteger allow the Java-based online Scratch player to do this?
+

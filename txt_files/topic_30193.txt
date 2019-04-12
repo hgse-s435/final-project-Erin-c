@@ -1,0 +1,6 @@
+Does anyone have any lessons for elementary students using a Picoboard and sound, using sound as an input?
+
+You can look athttp://scratched.gse.harvard.edu/stories/using-picoboards-and-scratch-students-alternate-input-devices but that's not a lesson per se. When we're in a noisy demo or conference environment, we usually make a quick sound scope project, moving scratch cat across the screen left to right repeatedly, paint trail on, and y axis dependent on the volume. Subtle message to people showing how noisy the place is... You could do something similar using the microphone on the picoboard, but that's not particularly picoboard specific if you are able ot access the mic on the computer. If your situation involves a classroom with a bunch of students, you could have a contest for the best crowd controlled game, a driving game, flappy bird, something that requires control via sound from the audience as a means of continuing the game. I've seen this @ the media lab but I can't find a video of it at the moment, it's a great crowd participation piece without requiring cameras and image processing, etc.
+
+Thank you so much! This helps a lot!
+

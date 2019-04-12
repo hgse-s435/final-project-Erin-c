@@ -1,0 +1,2 @@
+In Scratch all graphical effects and all balloons are automatically removed when one clicks the green flag button. This doesn't happen for the HIDE block: a sprite, if hidden, stays hidden when the green flag is clicked. Is there a reason for this different behaviour of the SET EFFECT/SAY blocks and HIDE block? Is this helpful for some reason? Why not to automatically show all hidden sprites when the green flag button is clicked?
+

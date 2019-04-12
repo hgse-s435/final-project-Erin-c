@@ -1,0 +1,6 @@
+I'm teaching fifth graders and wondering if there is any easy way to reset the project besides just draggin them to the center of the stage each time? Thanks!
+
+I dont know if Im getting your question right... But if you want the Sprite to always start at a specific place, just place a [Go to x y block] (with the starting coordinates) the first thing you do after the [Green flag-block]. /Anders
+
+So, there is no reset project command?
+

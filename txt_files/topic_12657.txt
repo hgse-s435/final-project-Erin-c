@@ -1,0 +1,8 @@
+Hi. Has anyone had trouble implementing the Scrolling background activity from the Curriculum Guide?
+
+Here is the link to the project. What am I doing wrong?
+
+The nesting of the blocks in the "set page num" and "set page x" blocks on the stage is incorrect...
+
+Thanks Karen!
+

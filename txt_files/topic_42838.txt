@@ -1,0 +1,2 @@
+I am exploring the possiblity of teaching 5th Graders how to use Scratch to program LittleBits. In order to make this happen a number of things need to be place. I've followed this guide:http://goo.gl/9GVLKb by khanning. I've not been successful. Is there anyone who has had success in connecting Scratch to the LittleBits Arduino module? I have Mac lab. Thanks!
+

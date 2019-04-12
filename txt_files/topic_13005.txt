@@ -1,0 +1,44 @@
+I looked around but was unable to find a Scratchapp for the iPad. Does anyone know if there is one in the works?
+
+Hi Afek, After the MIT Scratch Team launches Scratch 2.0 (later this year), we plan to work on a version of Scratch for the iPad and other tablets. Hope that helps, K
+
+Fantastic news! Are you looking for any coding help from open source contributors? I am an experienced iOS and Android developer... Adam
+
+Hi Adam, Thank you so much for the offer! I've forwarded your note to those working on development.
+
+Love this news!Thanks so much for your effort!
+
+Hi Adam. Thanks very much for your offer. Most Scratch development is done by the team here at MIT. But as we move forward with a version of Scratch for tablets, we might be looking for help with some aspects of the project. We'll keep you in mind as the project progresses. -- John
+
+Hi, Karen, Scratch on the iPad! I'm so glad to hear this is in the plans. Thank you! -- Sandie
+
+Let me caution people not too expect too much. The iPad version of Scratch will be limited by both the hardware and by Apple's policies. It may not support all the features of Scratch 2.0, some projects may run slowly, and, due to Apple's policies, it might not be allowed to download and run projects from the Scratch website. There are two basic approaches to iPad Scratch (HTML5 vs. native iPad App), and each approach has strenghts and weaknesses. We will explore both approaches. However,as Karen wrote, our hightest priority at the moment is to release Scratch 2.0. Nevertheless, I do agree with general feeling that, even with some limitiations, Scratch on the iPad would be lovely. -- John P.S. Scratch 2.0 will run on Flash-enabled Android tablets, although there may be some issues due to the lack of a keyboard.
+
+Hurrah!  I'm very excited to hear that work will be under way for iPad dvelopment. Thanks!!!
+
+looking forward it the ipad app, i have 30 new ipads but i am working on 23 very old ibooks. thanks for the update
+
+Hi all, I have joined scratched because I'm just involved as mentor in Milan coderdojo. Also I work as web and mobile (also native iOS) developer. So I thought that I could offer my support to complete the Scratch version for iPad. Please let me know if you need help, I would be really happy to give a hand. Best regards, Vincenzo D'Amore
+
+I found a Scratch app in the app store under Iphone apps but works on ipad. It is not from MIT, also seems to be more of a tutorial not program, also not free
+
+Thanks for your suggestion Dorin, I was luckier, because I have found a free app for iPad that provide a subset of Scratch's features. I started taking a look at this wikipedia forvisual programming, here I found there are many alternatives to Scratch and also found Hopscotchwhich it seems to be quite useful to understand what you can do with Scratch but, in my humble opinion, not enough to have the same functionalities.But may be people can found it interesting. Since there are many years I'm a developer, I thought it could be better try to help the guys involved the original project.
+
+I also just found from twitter a link for scratch ref. it is also just for tutorial but great for students to use explaining blocks free in App Store.
+
+That is great to hear Karen. I have been using Snap on my iPad but can't import those projects into Scratch. Those times I use the Puffin Browser, which supports Flash.
+
+Hi all, This still seems to be the most recent discussion of Scratch for the iPad. I hope this project is still in the works! Unfortunately many schools, libraries, and youth centers were tricked into buying a stack iPads, and now that everyone wants to teach coding, the options are severely limited. I am running a series of teacher development and student science-coding workshops using Scratch in Dublin, Ireland (student2scientist.ie). Although my department has 15 new iPads, I had to go around my university begging to borrow chromebooks and such to run the workshops. Thanks, -Paul
+
+At the 2014 MIT Scratch conference there was a demonstration of an almost working app Tickle, mimicking Scratch very close. They're fundraising right now to be able to release it as a free app:https://www.kickstarter.com/projects/705926089/tickle-learn-to-code-using-scratch-to-make-iphone?src=tickleapp-website Not being sure what you want to do in your workshops ... have you considered Snap and ScratchJR?
+
+Some of you might findPyonkeeof interest. It a variant of Scratch 1.4 adapted to work on iOS. https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8 I've only given it a quick try, but it seems to work well, and it's available now.
+
+Some of you might findPyonkeeof interest. It a variant of Scratch 1.4 adapted to work on iOS. https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8 I've only given it a quick try, but it seems to work well, and it's available now.
+
+A "variant?" This seems like a total rip-off of Scratch. Is that not a problem?
+
+Hi, John, thank you for introducing Pyonkee. Hi, Peter, Pyonkee is based on Scratch 1.4. It is developed under Scratch Source Code License. So Scratch cat, logo and project sharing feature was removed from it. I discussed about it with Mitch before release. I believe there is no problem with it. Please refer the following topics. http://scratch.mit.edu/discuss/topic/50458/ http://scratched.gse.harvard.edu/discussions/news-and-announcements/pyonkee-scratch-14-ipad Kazuhiro Abe
+
+Look for Scratch Junior. It's for younger children and doesn't interact with the online version.
+

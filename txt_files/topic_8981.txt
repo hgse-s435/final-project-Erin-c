@@ -1,0 +1,6 @@
+Is it possible to implement a basic browser function in an uploaded Scratch project? I'd like to be able to click a sprite to ->Navigate to a different website -> Activate the browser "back" function Thanks for any help you can provide, Kent
+
+Hi Kent, Unfortunately, Scratch does not support browser access. K
+
+Karen, Thanks for the info. Have a great day, Kent
+

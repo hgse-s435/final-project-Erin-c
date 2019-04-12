@@ -1,0 +1,6 @@
+We're at the monthly ScratchEd meetup in Cambridge. In our breakout session, we are sharing ideas for fun projects, with a focus on music. Session 1: Fun Project Ideas Adam, Barbara, Lorraine, Nancy, Karen program a song (Frere Jacques, chopsticks) ideas from Performatics workshop: https://teaching.cs.uml.edu/~heines/TUES/WorkshopInformation.jsp Musical Buttons with the video camera: http://scratch.mit.edu/projects/10128168/ Grupo Voces: http://scratch.mit.edu/projects/1379320/ Starfish Choir: http://scratch.mit.edu/projects/10128483/
+
+Comment from Nancy: - computers don't necessarily have speakers Suggestion for Barbara: - using webcam with game making (e.g. Fruit Ninja, balloon game)
+
+I created a demo project for a music teacher friend using the built-in synthesizer to not only play notes from various instruments when characters are clicked, but even using a bit of code and basic music theory to improvise music in the same key.
+

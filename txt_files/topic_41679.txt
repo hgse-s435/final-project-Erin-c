@@ -1,0 +1,4 @@
+For a HS class I am considering the following: Build a Scratch Project Download the JSON and associated files Reverse Engineer the JSON - Explain in SImple English What is Going On (It is this understanding I am after) Edit the JSON and Upload and Demonstrate Change Students are Java Script literate. Does this make any sense? Thanks
+
+Yes, it makes some sense. I was thinking of something like this for making a complex project by joining separate projects. This cannot be done in Scratch. Downloading and combe the json code somehow. But I have not tried to do it yet. Maybe start with very small projects. I think it would be interesting for your class to change something and then upload to see that change.
+

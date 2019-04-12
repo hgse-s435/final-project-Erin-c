@@ -1,0 +1,4 @@
+Hi, I am due to start teaching using Scratch to 90 pupils across 3 classes. I am wondering, what is the best way to set up 90 pupils' logon? 1. each pupil to have their own individual log on or 2. I create a class logon for each class group or 3. Do you have any other suggestion? Thanks
+
+The MIT Scratch Team is working on developing "educator accounts" for Scratch that would serve this purpose. They hope to release this feature later this year. In the meantime, other educators have been sharing their strategies in this discussion forum. -http://scratched.gse.harvard.edu/discussions/how-do-i/scratch-accounts-classroom-use
+

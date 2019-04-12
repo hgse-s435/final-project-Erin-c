@@ -1,0 +1,6 @@
+Hi, I'm going to enrich my current Scratch courses with Picoboards. Do you know any comprehensive collection of the resources for Scratch and Picoboards ? Thank you very much.
+
+Hi Roberto, If you haven't already, I'd encourage you to check out the PicoBoard Getting Started Guide available at http://scratched.media.mit.edu/resources/picoboard. You can also search for "picoboard", "scratch board", or "sensor board" on ScratchEd to find other resources. Hope that's helpful and I hope you'll post what you decide to do with your students! Michelle
+
+Thank you, Michelle. I'll take a closer look and hopefully post results. Roberto
+

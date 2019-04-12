@@ -1,0 +1,4 @@
+Hello, I've just completed a driver which will allow the Wii devices to interact with Scratch 2.0. Please have a look at the web page which contains the User Guide, downloadable SW, and sample projects: http://creativecomputerlab.com/iiConnect2Scratch.html The educational potential is huge. Start playing and let me know about your projects
+
+hi, Is this project still alive? I am not getting response from anyone including the author. Amnyone using it at the moment? Thanks
+

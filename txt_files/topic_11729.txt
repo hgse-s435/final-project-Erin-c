@@ -1,0 +1,8 @@
+As my students are working (all brand new to Scratch) sometimes a random sprite is appearing on their stage for which there is no actual sprite in the program. In other words, it does not appear in the list of sprites, but it does appear on the stage. Any idea why this is happening or how to fix it, delete the stray sprite, etc? They, of course, have no idea how it got there, so I can't figure out how to get rid of it. Thanks, Jennifer
+
+It might be "stamp" block from the Pen category. You can use the "clear" block (also from the Pen category) to remove the phantom sprite. Let me know if that works! :)
+
+That was totally the culprit!  I love that you called it a "phantom" sprite. (He was certainly haunting us.) By the way, is it ok to post these types of questions here? I seem to get a better response than on the Scratch website.
+
+Yep, it's totally OK!
+

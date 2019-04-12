@@ -1,0 +1,2 @@
+The icon for recording sound disappears if a student doesn't say yes to recording sound the first time they use it. How can I get the record sound icon back? I looked in Scratch Jr. settings.
+

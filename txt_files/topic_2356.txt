@@ -1,0 +1,20 @@
+I'm working on developing a Scratch class for the local community education center. I've been thinking it would be good to do maybe a couple of hours for two consecutive weeks. Does anyone have experience teaching kids with a format like this? I see a lot of lesson plans that are around 8 or so lesson plans. Any thoughts?
+
+Hi Kisha, To clarify, you're looking to organize two 2-hour workshops, where there's a week between the two sessions? Thanks! K
+
+(what a strange comment system that adding a new one goes in opposite order.)
+
+Approximately, yes. I do have some flexibility in both length of workshop and number of times it meets if that's not really feasible.
+
+It makes it faster to see the most recent comments. :)
+
+It's totally feasible. Have you seen the Scratch Workshop Design Guide? In particular, there are a couple of sample agendas (page 12 and page 13) that might be useful. Let me know what you think -- if that doesn't fit with what you're hoping to achieve, I'm happy to brainstorm!
+
+I was trying to put together a similar class at a local library a couple of years ago and ran across the problem that software couldn't be added to the computers. If you run across a similar issue, it's good to know that you can run Scratch off of USB flash drives.
+
+Hi Karen, I used your Scratch Workshop Design Guide to help me design a workshop for girl scouts in my community. I found it very useful. Thanks!
+
+Thanks for the feedback -- I'm glad that you found it useful. I'd love to hear about the workshop you designed and how it went!
+
+Thanks, Kent, I will remember that! I hope it won't be an issue but you never know! :)
+

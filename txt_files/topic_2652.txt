@@ -1,0 +1,14 @@
+As a teacher, I would love to be able to generate a printer-friendly version of all the scripts. Right now it is difficult to help students find mistakes within their program because the scripts are divided by sprite and can be placed on the work space in a disorganized manner. It would be nice to be able to look at a single page that organizes all the scripts for each sprite and condenses it to an easy to read/print format. If there is such a tool, I have not yet found it.
+
+Does the "save a picture of scripts" feature meet part of your needs? On my Mac, I get there by control clicking on the scripts window space. That gets you a gif file picturing scripts for that sprite. I'll be curious to learn if anyone knows a way besides combining the gifs in one document to get them on a single page for multiple sprites.
+
+I actually was not aware of that feature. Thanks. The next problem is... :-) what about when the scripts overlap? is there a way to sort them quickly
+
+The "disorganized manner" of scripts can also be dealt with via control-clicking. The "clean up" menu item tidies up scripts. :)
+
+You guys rock!
+
+You can also export a textual description of the whole project, including pseudo-code like versions of all scripts by shift-clicking on "File" Menu and selecting "Write Project Summary". I'm not sure, however, if this helps in debugging scripts.
+
+At least in the Windows Vista environment, this will not work with Notepad or Word 2003. The new line information is lost. All code is displayed on one line. You have to open the file in WordPad and set these options: Left margin = Right margin =1.00" View -- Options -- Wrap to ruler Even then, additional "when" sections do not start on a new line. Any help?
+

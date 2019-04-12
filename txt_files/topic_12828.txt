@@ -1,0 +1,10 @@
+This year we'll be implementing a Scratch Competition for all 6th graders. We'll be providing basic training in the program for the students, then giving them lab time for 5 months to create an edu program, game, or animation to enter in a competition. We're thinking of juding them in categories of design, animation, sound, usability, efficiency of coding, and overall performance. Has anyone ever run a competition with Scratch? If so, what pitfalls should we avoid? Even if you haven't, what ideas do you think we could include? Thanks!
+
+This ScratchEd post is more focused on games, but it might be interesting to reach out to Luke...
+
+Thanks, Karen!
+
+To encourage and recognize a diversity of project types, you might consider an Oscar-style competition. There could be recognitions for Best Game, Best Story, Best Stage Design, Best Use of Sound, Most Interactive, etc. You could even focus some categories on computational concepts such as Best Use of Loops, Best Use of Data, etc.
+
+Thanks, Tyson! I really like those ideas for categories.
+

@@ -1,0 +1,6 @@
+I was wondering if you are looking to create student accounts for Scratch 2.0  If so any plans to create ways for students to share accounts so that they can work on projects together? Thanks!
+
+Hi Patrice, Way back in 2010 I posted here about a paper I read from Agnes Chang where she talked about asynchronous collaborative version of Scratch. Although an amazing idea, I think it presents difficult technical and design challenges. Still, we can dream... If not something that complex, Iwould love for students to at least be able to share sprites and backpack items between each other more easily. Here's the link to Chang's paper
+
+I am still hoping that MIT will be update Scratch Edu so that a student can be enrolled in more than one class. I have used Scratch for several years. Now our science teachers enrolled all seventh grade students in their Scratch classes and I am unable to enroll them in my computer class. Very frustrating!
+

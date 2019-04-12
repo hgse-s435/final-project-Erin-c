@@ -1,0 +1,6 @@
+I was hoping to end the year with a brief exploration into the physical world and Scratch 2.0. I'm not having luck with the pico boards so rather than introduce Scratch 1.4, I'm going to try to use what IS built into Scratch 2.0 online. Does anyone have any suggestions??? I know of the webcam - but how can we make it more than just waving across the webcam to make the cat move? Any suggested projects or galleries for ideas? I feel as though sound could be used too with Scratch 2.0. Thank you for all suggestions!
+
+That would be interesting for me as well, since I'm thinking about integrating computing and physical world in Math or Physics classes. Open to hear more.
+
+I did some classes with the scratch board. It was great fun. First of all u need the driver. Then you should try getting the kids making different games with the sensors on board. Voice activated games (the louder you scream the higher the spirte rises - like floppy birds), Same can be done with the scratch 2 mic option. Then comes the intresting part. THe Scratchboard has 4 aligator plugins. If you cunnect conductive objects to any of the ports, you can close a circuit. For example, a Simon says kind of game: we glued tin foil to a popsickle stick and connected the aligator. a small wooden flank can make the stick jumpy like a keyboard. Hope this helped. O>
+

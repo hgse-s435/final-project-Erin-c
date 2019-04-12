@@ -1,0 +1,4 @@
+Greetings, My students created PSA'S using Scratch. i would like to be able to share a page of links on my website. I copied all the url's and put them onto a Google Doc so that I can hare the document on my website. Here are my questions Is it possible to allow people to view the scratch project without giving permission for remixing or viewers being able to change the text etc.on someone's project? How do most people go about sharing projects other than the Scratch page? Thanks Debbie
+
+Hi Debbie, If I only want to allow running the game or film, there is an "Embed" button on the project page (where comments are written). When I copy and paste this code into an html file, a website visitor can click on the green flag and watch or interact. But one cannot see the code. To see the code and not change it you could make an image of the code (I use GIMP screenshot) and embed it under the Scratch project frame. Rose (aka IzzieDee)
+

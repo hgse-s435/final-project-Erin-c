@@ -1,0 +1,6 @@
+I need some help. I m a high school teach using scratch as a tool in my CS classes. I have each of my classes making an accountin theirown classroom. I am getting user names that are inappropriatelike F_QdisShat. I need to delete the inappropriate student accounts and can not find where to do that.  This is a wonderful tool but I am concerned it is unusable due to lack of control over the class accounts. Ken Brenan Computer Science Mira Costa High School
+
+Hi Ken. The deletion menu is within the Student Account, so you must first log in with the student (or log in yourself), and navigate from the top-right dropdown: Account Settings > Account > "I want to delete my account" If you do not have the password for the Student Account, you can reset it from within the My Classes menu of your Teacher Account. Navigate to My Classes > The Class in question > Students. Find the student on this page and use the Account Settings option to reset the password. I hope this helps!
+
+It does, thank you.
+

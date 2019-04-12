@@ -1,0 +1,12 @@
+Hi all, I created Kinect2Scratch4Mac web page. You can access from http://bit.ly/k2s4m It isn't difficult to use this app than the beginning :P Thanks, Kenta //----------------------------------------------------------------------------- Hi all. I made Kinect2Scratch which is able to run on Mac. It is unstable, but works. You will need: Scratch Kinect Mac The code is here : http://github.com/mactkg/kinect2Scratch4Mac The build application is here : http://dl.dropbox.com/u/787507/kinect2Scratch4MacDebug.zip If you have Xcode, you can build it on your machine. Download openFrameoworks(007) from here Download kinect2Scratch4Mac from github unpack them put kinect2Scratch4Mac folder into /apps/examples/ open kinect2Scratch4Mac/kinect2Scratch4Mac.xcodeproj buid it Before run kinect2Scratch4Mac, connect Kinect to your mac, run Scrach and turn on remote sensor protcol connection. After that, caliblate kinect.Once kinect2Scratch4Mac has detected you, it will send the joint positions to Scratch. Thanks, Kenta
+
+It write on openFrameworks. openFrameworks support Linux. So It may work on linux...? but I've not tried yet.
+
+Looks very interesting! I'll try it as soon as possible.
+
+Thanks. I uploaded a screencast of Kinect2Scratch4Mac here.
+
+Thank you for sharing your work and the demonstration with Stephen Howell, today at the Scratch2012 Conference.
+
+Hi! I just got my Kinect working with my Mac. I look forward to seeing how my middle school students will play with it/develop for it in the next few days. Any pointers? I had trouble turning on the remote sensors, then miraculously they turned themselves on when I was about to give up. Advice there? Thanks for adding to this great set of tools! -john
+

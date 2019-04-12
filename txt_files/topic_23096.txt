@@ -1,0 +1,2 @@
+We are organizing a child and adult (parent, uncle/aunt, older sister/brother, ) introductory workshop on how to develop a simple game using SCRATCH. The workshop is part of the Computer Science Week of the Informatics and Statistics Department of the Federal University of Santa Catarina in Florianpolis/Brazil. Date: 26 October 2013 from 9:00 to 12:00 at the Federal University of Santa Catarina. More information on the website of the Initiative Computao na Escola (http://www.computacaonaescola.ufsc.br).
+

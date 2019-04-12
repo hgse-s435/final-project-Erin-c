@@ -1,0 +1,36 @@
+Hi, has anyone created a curriculum that involves Lego's WeDo set with Scratch? Any possibilities of creating a curriculum out of this combination?
+
+Ijust introduced WeDo into our 5th grade classes for thier Simple Machines unit. Beyond that, I'm looking to find other ways to get the kits into curriculum.
+
+Are 5th Graders 11 year-olds? Are you using the WeDo software or Scratch?
+
+I teach classes at a local museum using PicoBlocks along with the WeDo. PicoBlocks is a version of Scratch written specifically to interface the WeDo system along with the PicoCricket system. I have done both single day/ 3 hour classes and week long/ 4hour per day classes. So I have not established any set curriculum, especially that would apply to a long term class session however I would be happy to provide any help if desired. zac_ray@fastmail.fm I also have a Scratch projects gallery, some of which I have used in my classroom here.
+
+Hello, I realize this is an older thread, but maybe folks will see it. Using the WeDo with Scratch 1.4 I have been very impressed with the control of the motors. Works quickly and well. However, the distance and tilt sensors are just awful. I've purchased a second one of each just to make sure I didn't have a dud, and they are both just as bad. Has anyone had better luck with controlling this using Scratch?
+
+When I first started experimenting with WeDo, I found the tilt sensor pretty unsatisfying. I was expecting something more like an accelerometer. :) I adjusted my expectations -- so I'm more realistic about what I think I'm able to build with it. The distance sensor has been fine for me. (Or, at least, been enough for what I've been trying to build.) What sorts of things are you trying to do with the distance and tilt sensors that make them less-than-optimal?
+
+Hey Karen, For example, the distance sensor at 11cm from a wall might read "20". At 12 cm from the wall it read "2". At 15cm from the wall it reads "74". The tilt sensor seems about as accurate. Project example, just putting the tilt sensor on a large lego block. When it is tilted in direction "1" a sound would play. Direction "2" would play a different sound. Etc. Idea was to make an instrument and then build on that. Trouble is that the direction the sensor is tilted seems to have no relation to its numerical output. Even in slow motion. Kids lost interest, which in my book gives Lego an F for these sensors. I'm sorry if I sound like I'm whining. The motor control in Scratch is wonderful. But so far I have found the tilt and distance sensors to be very disappointing.
+
+I don't think you're whining. :) Thanks for the examples. I agree that it's frustrating if kids are losing interest!
+
+[slightly off-topic] i am going to start my II edition of lego NXT courses for kids aged 10-13; i plan to use Scratch logo-like capabilities to better introduce kids to programming and understand robot movements; are you aware of something similar in the pool ? thank you
+
+I know some teachers who use Scratch as a precursor to Mindstorms -- but nothing formally documented, as far as I know. Is that what you meant?
+
+"precursor" is a term which describes well what i have in mind; is there any way to get in touch with those teachers, or to know what they are doing ? ps: if my post has a focus too narrow, just tell me
+
+Nope -- not too narrow! I'll send an email to some of the teachers and see if they'll post something here.
+
+I used scratch when I taught robotics with Lego Mindstorm. I had my students create their prototype in scratch.
+
+thank you; i'd like to know what you mean by prototype (maybe you point to the programming side of the robotics activity ?)
+
+My students drew their robots in scratch, and then had the sprite do the actions that they intended their actual robots to do.
+
+Hello -- we just purchased two WeDo sets this week. As Steve noted (Jan 2010), we also found thatthe motor seems to work very well but the two sensors are disappointing. Does anyone know if it'sa Scratch issue or a WeDoissue? Would like to hear more about WeDo experiences on this forum! Cheers, Dennis
+
+I'm curious - are the problems only when used with Scratch or also with the WeDo software?
+
+I've been using WeDo, with the Activity Pack, as the main part of a middle-school Robotics elective. (http://www.elginisd.net/webpages/friedag/legorobotics.cfm?subpage=1322098) If kids advance through all the projects quickly and successfully enough, I usually let them "graduate" to the NXT kits. But I've also been introducing some kids to the Scratch-with-WeDo option, and it's equally engaging, especially when they are also given the WeDo Extension sets (with additional building ideas). Last year, for a local Mini Maker Faire, I challenged my Robotics Club (http://www.elginisd.net/webpages/friedag/elginbricks.cfm) to build "circus rides" (inspired by the ferris wheel project in the extension set), while programming with Scratch. They got very creative, using the Scratch on-screen interface to add music, visual effects, and "customer" interactions, and using the WeDo sensors to control the speed of the rides and/or visual effects, or to count out rotations as a method of timing the ride duration. If I had time to work on an "open" (free) Scratch-plus-WeDo curriculum, I'd start by mimicing/adapting the LEGO Education WeDo Activity Pack, and also adapt/borrow ideas from http://www.wedobots.com/ and http://www.damienkee.com/lego-wedo-coral-reef/. The main work needed would be coming up with all the sample programs, including the block-by-block explanations. But note also that LEGO Education did a good setting up a kid-stimulating storyline (with videos & graphics) for each of the Activity Pack projects. I think that this kind of thematic play is a key part of LEGO's concept of the WeDo system, and I think it would be key to making any WeDo+Scratch initiative into a "hit".
+

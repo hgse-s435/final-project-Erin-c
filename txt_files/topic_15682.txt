@@ -1,0 +1,4 @@
+Has anyone used a scratchboard and a wedo in the same project?
+
+Yes, I have tried. And it works. So just plug in the picoboard and the wedo-hub. And go for it. :-)
+

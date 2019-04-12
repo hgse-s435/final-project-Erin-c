@@ -1,0 +1,4 @@
+I started a scratch project with my 4th graders last week. I had several absent. Is there a way to share my copy of the project with the absent students so I don't have to walk them through last week's lesson?
+
+Yes, there are several ways. Are you working online with Scratch or offline with Scratch 2.0? If online, it is as simple as sharing your project and then giving them the link. I post the most recent copies of the projects in Google Classroom where I teach for the absentees. If you are working offline on Scratch 2.0. You can share them the file through the network, just note that multiple people can't open the same .sb2 file so each student will have to copy and paste their own share. Or you could have them go to your shared project and download the .sb2 to their computer to then open in Scratch 2.0
+

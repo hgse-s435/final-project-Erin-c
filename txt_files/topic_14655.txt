@@ -1,0 +1,6 @@
+Hi, I'm trying to figure out a way to teach both programming and math using Scratch. Seems to me most of the Scratch projects tagged 'math' are entirely focused on using Scratch to demonstrate mathematical concepts. I'm interested in having students learn both programming and math at the same time. Thanks!
+
+Hi John, If you haven't already, you might be interested in seeing this post about Scratch galleries focused on collecting math projects. - http://scratched.media.mit.edu/resources/scratch-galleries-math-projects M
+
+Thanks Michelle, I have a maths student who is very interested in fractals so I am sure something in the fractal gallery will get him interested in programming.
+

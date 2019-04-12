@@ -1,0 +1,6 @@
+?This is from a group of my students. It's so frustrating when I am not able to help them! Can you help me troubleshoot this please? Our main two problems are with the cat shrinking again and the burger ingredients not functioning properly. We want the project to show up on the website as it is on the Scratch program version. The project looks different when it plays on the Scratch site and when you download and run the script... any help will be much appreciated!! Can you tell us why this is happening? Thank you!! http://scratch.mit.edu/projects/remreader24/2506940
+
+Scratch projects don't always work the same as they do in the application. (See this thread.) As the person responded to you on your post to the main Scratch forums, sometimes you just have to write "download for best results". :)
+
+thanks for the feedback!
+

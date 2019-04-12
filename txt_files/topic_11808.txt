@@ -1,0 +1,16 @@
+Hi! One of my students made a Scratch movie that was so extenesive that for organizational purposes he broke it out into about 7 separate files. Is there any way to recombine the movies easily into a single file so that they can be shown all at one go? - mulhern
+
+Hi Anne, You might be interested in checking out Clutter (http://clutter.scratch.mit.edu), which is a project that was created by a past Scratch Team member. It allows you to link Scratch projects together using special broadcast blocks. The creator of Clutter made a project to explain how it works: http://clutter.scratch.mit.edu/projects/156.I thought this might be one possible solution for your student. Let me know how it goes or if you have any other questions. M
+
+Thanks, I passed it on to my students.
+
+I've been exploring Clutter a bit. Our intended project is a tour of water resources in our city. My hope is to create a "main menu" Scratch project which would then bounce the user out to individual projects created by various groups of students (and return back to main menu). So far I'm running into some problems: 1. Projects recently uploaded to Scratch website don't appear as options in Clutter. 2. When playing with projects I already have uploaded, I get an error message saying that "link names must be unique." I'm not sure this is the best solution for what I'm trying to create. It also appears that Clutters are only playable from within the Clutter website, correct? Any suggestions would be appreciated. Thanks! Larry
+
+Had better luck today, so in less need of assistance. Would welcome feedback, though.
+
+Had better luck today, so in less need of assistance. Would welcome feedback, though.
+
+Had better luck today, so in less need of assistance. Would welcome feedback, though.
+
+Had better luck today, so in less need of assistance. Would welcome feedback, though.
+

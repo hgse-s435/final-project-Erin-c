@@ -1,0 +1,6 @@
+Hi everyone, I was hoping that I could get some feedback on a project that I am working on. I created the site scratchprogramming.org (An educators guide to scratch programming) as a project for my Masters Degree in Educational technology. I need some people to fill out a survey on the usefullness and functionality of the site I have up now. www.scratchprogramming.org The survey is thesystem usability scale(SUS) , which is a simple, ten-item attitude, multiple choice question scale.(Strongly Agree to Strongly Disagree). Access to the survey is available on the homepage. I hope the site is helpful to those wanting to use Scratch as a tool for teaching. Thanks Julian.
+
+Hi - I have filled up you survey at your web site. Since I have worked with Scratch for 8 months now - I could not really use your web site, but I like the idea that you share thoughts about how to teach Scratch. If you have the time and skills maybe you should think about incorporating some social system, maybe a blog or something where others can contribute to your site.
+
+Hi Kristen, thanks for filling out the survey, a social system is a good idea, and I will incorporate it into the site eventually. I checked you website, I liked the tips and tricks. Thanks again, Julian
+

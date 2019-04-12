@@ -1,0 +1,6 @@
+I received a suggestion for adding ratings to the resources. Currently, it's possible to "feature" resources (and then look at the collection of featured resources). People can also bookmark/favorite resources they like (and then sort the resources that way). What sort of ratings system do you think would be useful and why?
+
+I would really like to see an Amazon or Yelp-like 5-star rating system. It'd be helpful to have successful resources bubble to the top to minimize digging around as more and more get added. I suppose favorite count could be used in a similar way but there's a little less information captured. A resource which isn't anyone's favorite is not the same as a one-star resource. Similarly, bookmarking could mean 'I'd like to try this later' rather than meaning anything about the resource's usefulness.
+
+Do we need a [LOVE IT] button? 5 Stars like on YouTube is a good idea.
+

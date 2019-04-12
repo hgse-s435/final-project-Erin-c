@@ -1,0 +1,4 @@
+Hi all again... Could you please share with me any ideas about how you would discuss this code with the student? What works - what doesn't? It feels very busy to me... http://scratch.mit.edu/projects/20559669/#editor Thank you!
+
+Nesting the IFs might even be a good idea to be tested only an arrow at a time; but the test to touch the green color is only executed if no arrow is being pressed; and the other tests will only be tested under the same conditions. Moreover, these long scripts are difficult to develop and understand, so it is advisable to divide it. The mark went through the green color of the 3rd level without error because the color was different from the green of the other levels and the test. I'm going to try to anex a corrected project in this comment. If it wasn't possible, contact me to efe.fred@gmail.com or tell me how this can be done.
+

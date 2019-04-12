@@ -1,0 +1,6 @@
+The sprites that come with the program don't flip upside down with the bounce function. However, my handdrawn sprites (Scratch paint editor) always flip upside down on bounce. Both the sprites (handdrawn and ones that come with the program) have identical settings. Please help. If I check the don't rotate button, then my sprites go backwards. Besides, the sprites that come with the program don't have that button checked anyway, so that can't be the problem. Thanks, B
+
+Figured it out. Had to check the only face left-right button. Thanks, B
+
+Glad you figured it out! K
+

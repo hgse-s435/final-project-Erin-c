@@ -1,0 +1,6 @@
+When you go to scratch.mit.edu some of the page loads, but there are empty white boxes where the pictures of peoples' projects are suppose to be, and none of the projects are able to run. Anyone know what's wrong?
+
+Try updating and/or using a different browser. I am using it fine with safari (v6.0.5) and chrome v(30.0). although with chrome I am having problems with recording sounds.
+
+I think it has to do with Adobe Flash: the school network administrators might be blocking Flash, or the newer version of Flash. I brought the same laptop that doesn't work at school and it works at home. None of the browsers work with the scratch website at school. :(
+

@@ -1,0 +1,4 @@
+Hi I want to change the length of the answer box, at the moment it takes up the bottom of the screen. If the answer to my questions are only 1 or 2 digit numbers is there a way to make the answer box smaller? Thanks
+
+Sorry, I'm pretty sure there is no (proper) way to change the size of the ASK answer box, nor move it to another part of the stage. (I included proper in parentheses because you may find somebody who has hacked this, but using such a hack would require using a modified version of Scratch).
+

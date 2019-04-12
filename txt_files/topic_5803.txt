@@ -1,0 +1,6 @@
+I currently use scratch but I would want some to tell me the script to use to avoid my sprite flipping upside down when at edge of screen when I use "if on edge, bounce script? Many thanks
+
+Hi London Academy If you press the small button (left-right arrows) to the left of the Sprite, then the Sprite dont flip over. There are maybe better ways, but it works. /Anders
+
+another way is to provide a flipped sprite costume and then switch back and forth depending on direction of travel. Here's an example (http://scratch.mit.edu/projects/dang/1261814)of scratch cat walking around in different directions, bouncing off walls and appearing to stay upright, even though we simply flip to an upside down costume coming back the other way which appears to be right side up. Best regards, -- DanG
+

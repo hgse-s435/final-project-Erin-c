@@ -1,0 +1,4 @@
+I am a Computer Science teacher at Norcross High School in Georgia. How do I browse the members list to find other Georgia Scratch teachers? When I click on the Members tab, I get a map of the world. I'd like to limit that to Georgia.
+
+Hi Jan, You can navigate the map and zoom in on Georgia, clicking on the pins as you zoom in. You can also search for member profiles that mention Georgia --http://scratched.media.mit.edu/search/node/Georgia%20type%3Aprofile Hope that helps, K
+

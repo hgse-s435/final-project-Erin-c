@@ -1,0 +1,6 @@
+Is there a way for 3 students to share a project, all have rights to edit and change without remixing? I thought that collab was a way to do this, but I don't think it is. TIA, Bob Irving
+
+Hi Bob, Unfortunately, there isn't a seamless way to collaborate on Scratch projects. Scratchers often find ways around this by remixing one another's projects to collaborate or by using the Backpack feature to share project assets. The MIT Scratch Team recently launched a collaboration forumon the Scratch website that list some helpful strategies for collaborating. Maybe that could also be of help. Sincerely, M
+
+Thanks, Michelle. I did look at the collaboration forum. Maybe we need a Scratch GitHub. :)
+

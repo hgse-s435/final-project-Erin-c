@@ -1,0 +1,4 @@
+Since this discussion is named How do I? I will ask, how do I explain, in the context of Scratch, the difference between simultaneous and parallel?
+
+Parallel processingis the dividing of an application into smaller units of work that can be executed simultaneously. Parallel processing can occur on the same machine or on different machines. You can explain that parallel processing is like a ballet. There is the corps and the principles. The performance begins and ends at the same time. Sometimes they dance at the same time executing their steps together sometimes as a reaction to what the others are doing (think of criss-crossing lines!) you can get some great video from youtube to demonstrate it.
+

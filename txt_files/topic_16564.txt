@@ -1,0 +1,8 @@
+Will Scratch 2.0 support the ability to run control blocks (e.g. Repeat until) until receiving a broadcast message?
+
+Can't see a diffeence between 1.4 and 2 here. Can't you use a variable? e.g. Broadcast "Something", When Ireceive "Something" then set "variable" to "true" then just have Repeat Until "variable" = "true"
+
+Yes, you can use a variable, and that is what I have taught my students to do,but it is an extra step. It seems like incorporating support for using the broadcast as a condition would be something many people would naturally want to use.
+
+Abroadcast is an event. Expecting to test for it as a condition is notnatural as you can't guarantee that the condition would beexecuting when the event is broadcast hence the need for a variable to store the fact that an event has happened. I'd even go as farto say that the condition would always be false and so the repeat would never end without using a variable. It would be the ultimate race condition and so not something that would be implemented.
+

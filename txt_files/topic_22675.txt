@@ -1,0 +1,4 @@
+Hi, Just thought I'd let you know, I have to use Chrome to post on this forum, as when I try to reply to a thread with Firefox 23, I get "Comment field is required" and cannot proceed. Kind regards Peteri
+
+Hi Peteri, Thanks for the bug notification! We're currently working on a development plan for making some updates to the site, which will hopefully optimize performance across platforms. Sincerely, Michelle, on behalf of the ScratchEd Team
+

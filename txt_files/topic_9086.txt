@@ -1,0 +1,12 @@
+It's time for the monthly Scratch educator meetup at MIT -- hope to see you there! Scratch Educator Meetup: February 2011 Saturday, February 19, 2011 10am-1pm MIT Media Lab Want to learn more about Scratch? Want to meet other Scratch educators and share ideas? Join us at MIT Media Lab for a three-hour BYOL (Bring Your Own Laptop) meetup for educators, where we will: explore the core ideas underlying Scratch share strategies for integrating Scratch into classroom practice develop greater familiarity with Scratch through hands-on activities introduce you to ScratchEd, a companion website where educators share their Scratch ideas, experiences, and resources The meetup is open to all Boston-area educators, including those that have no previous Scratch experience. We particularly encourage educators from the same school, program, etc. to attend together as a group. Registration is limited to 40 people. The workshop is free and includes lunch. Ready to register? Register online at https://spreadsheets.google.com/viewform?hl=en&formkey=dHF6MUNQWW5LaWN6TTFEMi1teGFXU0E6MQ
+
+Karen, I am interested in the application of the SCRATCH variant that is used to program the Arduino board. Tom
+
+Hi Tom, Me too. :) Unfortunately, I don't know much about Modkit, beyond the website...http://www.modk.it/ K
+
+Hi Karen, The potentialtopics thatI'd like to investigate at the Meetup are fun ways to use the pico board for the kids I tutor, or start creating small simulations of an Asteroid game for next years High School's introduction to Object Oriented programming course. If anyone is interested in either topic it would be fun to work together. Looking forward to seeing everyone tomorrow. Thanks, Vicki
+
+Another thought is I can share the Scratch work of one talented student that has now gone on to java. One interesting detail is even as he was beginning to build projects in java he would duplicate the same work in Scratch but would add music. The addition transforms the projects. Thanks Vicki
+
+Try the S4A scratchclone. http://seaside.citilab.eu/scratch/arduino I have tried S4A with arduino uno, it works well... but you cant upload the scratch program in a normal way (you must keep the USB-connection.. I think), but for experimenting with arduino it works nice... Modkit looks very promising... but its not ready yet... a little buggy with firefox. /Anders
+

@@ -1,0 +1,6 @@
+My students all have gmail accounts, howerver these accounts are locked down so they don't receive any emails from outside of the district. This serves as a difficult situation for me because I want my students to be able to embed their projects on their district webpage. Is there a way for them to have access to the embedding code without having to verify/confirm an email account?
+
+As far as I know, the Scratch Team is working on Educators Accounts that would solve the problem you have but a solution could be... 1. Ask your students to download their projects 2. You, as a teacher, upload the projects in a "school" studio. 3. Share the studio link in your district webpage Frank
+
+To add to Frank's answer... I've received several questions about this, which I've forwarded to the MIT Scratch Team.Here's how they responded: We suggest using a single email address (e.g., your own) to approve all of your student accounts. (Multiple Scratch accounts can share the same address.) We realize that the confirmation process can be time-consuming for you and other educators, but confirmation is just a one-time process when first registering an account. We're currently developing Scratch educator accounts which will streamline the process of student account creation and management. We hope to launch a beta version this coming summer. Hope that helps... K
+

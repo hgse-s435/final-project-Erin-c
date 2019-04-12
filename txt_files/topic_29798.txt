@@ -1,0 +1,6 @@
+Are there any plans to fix all of the broken links that were created when ScratchED moved to harvard.edu. Sadly, much of the site is no longer functional. For example, the PDF titled, "Programming with Scratch." It was such a wonderful resource. Thanks, Ben
+
+Hi Ben, Thanks for your help with testing and debugging! If you could provide a link (or links) that would be fabulous. Thanks, K
+
+For example, all the links in the newsletterhttp://scratched.gse.harvard.edu/discussions/news-and-announcements/new-scratch-resources-new-school-year-scratchnotes-newsletter-vol seem to link to files stored on the Harvard mail server (even though the text of the URL points to the right place). All the best --Louis
+

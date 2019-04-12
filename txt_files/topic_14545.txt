@@ -1,0 +1,6 @@
+I have a group of kids and we are working on building a Candy Snatcher Detector. We are using a Makey Makey we built Candy Detectors and can tell when a kid takes more than one candy. The kids also build two versions of a "Silly String Shooter" which will shoot the offending Candy Snatcher. The problem we are trying to solve is how to trigger the Silly String Shooter. They are using Lego NXT to fire the Silly String. (we may switch to Arduino in one version, but I would still need to trigger the Arduino from Scratch). We had the following ideas: 1) Have he Scratch program trigger the lighting of an LED, which a carefully constructed NXT light sensor could detect and then fire the silly string 2) Somehow send a signal to the NXT from Scratch 3) Have a small section of the screen (which we have the light detector pointing toward (with light shields so it only sees one small corner) and we change the color from black to white on that section when we want to fire the NXT. Suggestions and ideas welcome
+
+Not used myself but you could try Enchanting. http://enchanting.robotclub.ab.ca/tiki-index.php
+
+Thanks Mark, I downloaded it and sent it to some of the kids to try.
+

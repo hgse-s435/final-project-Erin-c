@@ -1,0 +1,8 @@
+I am trying to make a sprite use the pen and draw spots on another sprite (giving a leopard his spots). The spots show up behind the sprite receiving the dots. No matter how many layers I send the sprite back, and I have the sprite making the dots go to front -- the dots still s how up behind the sprite.Is this possible?
+
+Hi: You need to change from vector mode to bitmap mode. In vector mode each spot is a independ geometric figure. In a bitmap mode, you are painting over the picture. Sorry for my basic english. I make a little project for you.https://scratch.mit.edu/projects/114687356/
+
+Thanks! My question actually was to have a sprite make dots on another sprite through Pens code. The dots always were painted on the backdrop instead of the sprite so I don't think I can actually do this through code. I appreciate your time in answering.
+
+Ohhh, sorry. . In runtime isn t posssible draw over other sprite. there are differentes buffers for background where write pen tool and the sprite is floating over this buffer.
+

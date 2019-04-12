@@ -1,0 +1,4 @@
+If I create a studio for my class, how do I make it available for students to save their projects to my studio?
+
+Hi Kerry! Did you create the student accounts as part of a class? If so, the students should automatically be able to see the studio and add their projects to it. If this is not the case, you may need to recreate the class. Let me know if this is helpful! Best, Alexa
+

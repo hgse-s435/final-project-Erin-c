@@ -1,0 +1,6 @@
+I just attended a CS talk about sorting. This makes me wonder if there are examples in Scratch that will help a student understand concepts of sorting. Any ideas? Thank you!
+
+I found info on the Scratch wiki but I'm looking for people and projects - thanks!
+
+I recently participated in an international project about Computer Science, unplugged. We discussed in many details quick sort, random sort, bubble sort etc using marbles, glasses etc. I'm going to set up something like sorting algorithms in programs and/or robotics. I'll keep you posted if we decide to go on that. Thanks.
+

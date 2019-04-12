@@ -1,0 +1,2 @@
+My class has developed an amazing series of Scratch programs where 'Flat Scratchy' (like Flat Stanely) is a tour guide of our lives.  The Scratch Cat acts as Flat Scratchy tour guide donning a Cowboy Hat, running from dinosaurs etc.. I have the projects in a studio and you can click on one after each other but I am wanting to make it so that all 22 projects would continue one after another.  It would be so much better if it were one continuous tour by Flat Scratchy...  any ideas???
+

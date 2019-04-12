@@ -1,0 +1,12 @@
+I would like to know if these are available yet.
+
+Thanks Lee Olney for the question. I'm facing the same "problem". Right now I'm on a project in Brazil that will bring Scratch to many students. This are part of an effort to bring computation thinking inside the public schools and Scratch is one of the tools we developed In our lessons plans. From our experience I can tell you the biggest problems are: Lack of metrics: teachers must have the possibility of follow the students progress, so we need a dashboard to check the learning process of the student Fix e-mail login. In Brazil kids cant have an e-mail until they have 14 years old.
+
+Hi Lee, Scratch educator accounts are not available yet, but we'll let you know as soon as they launch. Sincerely, Michelle Chung, on behalf of the ScratchEd Team
+
+Is it possible to have multiple students sign into the educator's account so to save their projects?
+
+Hi Daniel, I've heard from other Scratch educators that your students can be logged out if too many people are logged into the same account at the same time, so I would recommend against it. I hope that helps. Let me know if you have any other questions. Sincerely, Michelle, on behalf of the ScratchEd Team
+
+Password sharing is not good practice. It may be understandable, but it should not be used. Solution(s)? let scratch use an ID that can be privately or school-assigned. Personally, I'd like to see google-id's used. 1. MIT already uses those for app-inventor.http://appinventor.mit.edu/explore/front.html 2. School-email-addresses are not limted to 13+ 3. In schoold that do no use google other email-addresses can be used to create google-account but that may raise the 13+issue. 4. After that google-groups or google+ circles can be used to manage groups and share folders.. 5. Reliable, widely used system. Mian advantage: for schools it can take away the burden of ID-management from the teacher and put it mainly with the school. After that teachers can just select groups and individuals. Creating a bespoke ID+grouping system will be expensive for MIT. There may be othr federated systems that can easily be used.
+

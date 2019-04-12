@@ -1,0 +1,10 @@
+Hello, I am looking for advice and feedback, let alone knowledge of, an introductory Scratch-based curriculum for elementary-aged children. Settings to implement would be out-of-school &after-school elective and home schooling environments. Does anyone have a recommendation(s)? Iappear to see more focus on middle- and high-school focused currciula, where as the younger ages are more exploratory, experienced focused. Activity-based explorations are great and Iam trying those, but would love to see some foundational basics built upon through their exploration activities, apprioriate for the younger ages. Do you have any favorite experiences or recommendations for this age group? Maybe a check list or itemized goals the educator/instructor sets for each exploration, to build the individual's tool set to tackle the more complicated activities/explorations/projects? Thank you for your advice and feedback! frank
+
+Frank, It's not really a curriculum... but I just printed a few sets of the Scratch Cards (http://info.scratch.mit.edu/Support/Scratch_Cards), cut them out, and made them into cards. I spread them on a table in the middle of the classroom. After a quick intro to Scratch using a video (sorry, Ican't find a link to the one I used), Ijust encouraged the kids to look at the cards for things that interested them and try things. Some stuck with fairly simple things. Others excelled. All seemed to enjoy showing others what they were doing. Ihope this helps. Have a great day, Kent
+
+Frank, Sorry to double-post, but Ijust ran across this discussion: http://scratched.media.mit.edu/discussions/teaching-scratch/help-are-there-any-curriculum-teaching-preschool-children Although the question is about pre-school, at least one of the commenters was talking about working with1st - 6th graders. Have a great day, Kent
+
+Hi Frank, I recently put together a curriculum designed for 3rd - 6th graders. It focuses on health & fitness but you may be able to pull out some main ideas for your own classroom.http://www.susanrevans.com/wp-content/uploads/2010/09/hf_3-6_scratch.pdf
+
+Do you happen to have theinternet_safety_game.sb file posted anywhere?
+

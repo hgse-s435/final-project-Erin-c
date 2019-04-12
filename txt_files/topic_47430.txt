@@ -1,0 +1,8 @@
+I am trying to put students in a class and am not able to do it. It looks like it adds them but doesn't. Any help would be greatly appreciated
+
+Hi Leslie, Sorry to hear that you're having trouble putting students in a class. You might be able to find the answer to your question on the Scratch team's FAQ site for teacher accounts: https://scratch.mit.edu/educators/faq You can also email the team that manages teacher accounts here: teacher-accounts@scratch.mit.edu Hope that helps, Willa, on behalf of the ScratchEd Team
+
+I teach k-6th in Tech and I've set up classrooms and studios within those classrooms. I put the link to the classroom in my Google Classroom andmade a test run as a student. I was able to get in and made a project. I save it but I can't seem to put it in the studio in the classroom. What is the best way to have a student save their project to a classroom or studio? The studio isn't even coming up as an option. Help!
+
+Hi Dede, My name is Christan Balch, I'm a member of the Scratch Team at MIT. I'm sorry to hear you are having some trouble adding projects to your class studio. Might you please emailteacher-accounts@scratch.mit.edu so we can help look into what the problem might be? When you send your email, it would be helpful if you could include your Scratch Teacher Account username, the username of the student account you are having trouble with, and a link to the studio. Thanks and talk to you soon, Christan
+

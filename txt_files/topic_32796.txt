@@ -1,0 +1,6 @@
+Hello, I was wondering if there is a downloadable for scratch program? I have students I work with at many different schools, and not all of the schools are equipped with computers and internet. If there is a downloadable version, that would be amazing!
+
+Hi Aliff, The offline version of Scratch is available for download athttp://scratch.mit.edu/scratch2download. Sincerely, Michelle Chung, on behalf of the ScratchEd Team
+
+Hi, Are there any plans for an offline Scratch version for Android and/or Chrome? We are a Google CS First after-school club, and an offline version of Scratch for Chromebooks would be really helpful for when the Internet connection might be unavailable. http://jvcomputerclub.net Thanks! Ruth
+

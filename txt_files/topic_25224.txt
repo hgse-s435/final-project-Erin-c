@@ -1,0 +1,4 @@
+Con este hilo de dicusin me gustaria comentar y debatir sobre las posibilidades que presenta Scratch unido a la tarjeta Arduino. Actualemnte trabajo en ese tema y me gustria contactar con quienes trabajen o quieran trabajar en el. En mi blog tengo documentacin sobre ello. He desarrollado un manual de trabajo con ejemplos en el que explico la conexion de Arduino con Scratch 1.4 con la ayuda S4A.
+
+Justamente desde Xnergic hemos creado un MOOC (curso abierto, online y gratuito) que trata de Scratch y Arduino y sus posibilidades conjuntamente. Te animamos a participar! Inscripciones
+

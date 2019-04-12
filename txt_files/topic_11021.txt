@@ -1,0 +1,12 @@
+Hi, Does anyone if it is possible to show and hide list?It can be done for variables but I'm don't see a way it can be done with list.
+
+No, unfortunately, it's not possible to programmatically control the visibility of lists...
+
+Thanks for the reply Karen. I'll move to plan "B" with my students' projects. Thanks again
+
+Not in the conventional sense but you can place a sprite over a list and hide it or remove the sprite and show it. I once used a big sprite to cover a list and make the entries look like line items in a gui.
+
+Is this something that is on the list to be added in future releases? Thanks...Hans
+
+Hi Hans, Yes, this will be included in Scratch 2.0 which we hope to release later this year. Thanks, M
+

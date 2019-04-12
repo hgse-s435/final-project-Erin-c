@@ -1,0 +1,6 @@
+I see many countries have come out with a digital curriculum. In most of those cases the focus seems to be on teaching computing. Isn't that approach very different from the creative computing curriculum published here? - Nilanjan
+
+Hi Nilanjan, Thanks for sharing this question.I'm not sure I understand the difference you describe. I wonder if it might come down to differences in conceptions of teaching... Tens of thousands of teachers teach with the Creative Computing guide, and their approaches are as diverse as their contexts. Some teachers excerpt parts of the guide and integrate lessons with other subjects. Some teachers use the entire guide and fit it in with their scope and sequence. Some teachers use the guide in an "on demand" way, offering a page or a unit when a student expresses interest in exploring a new idea. You can read more about how teachers are using the guide here. I hope that helps! Willa, on behalf of the ScratchEd Team
+
+Hi Wilhelmina, To explain my post: it seems like many official curriculum are focused on computer science concepts like loops, lists, decisions, etc. as opposed to allowing children to use their interests and creativity to drive learning as explained in some of the Scratch curriculum/creative computing guide. It seems like they are different directions. I was trying to determine if my understanding was correct.
+

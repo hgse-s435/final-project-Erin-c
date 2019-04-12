@@ -1,0 +1,4 @@
+I've put toegether a post on my blog introducing the topic of recursion in Scratch 2. Hopefully you'll find it useful should you need to either implement or teach recursion in scratch. Feel free to use the content in your teaching. The link to my post is philcurnow.wordpress.com/2013/07/27/recursion-in-scratch-2/ Feel free to leave a comment/question as a blog post, or contact me via Twitter at @pcurnow
+
+Thanks Phil, and thanks for your excellent post on lists - you save me a lot of work!
+

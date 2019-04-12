@@ -1,0 +1,6 @@
+Ijust added a Scratch Project to the resource page. My project uploaded fine, and there is a link to the project in the horizontal scrolling area. However, no image of the project displays, so the scrolling area appears to be empty.
+
+Thanks for pointing it out! I've added it to my bug list. In the meantime, I've manually uploaded the pictures, so the Scratch thumbnail shouldn't be blank anymore. Thanks for the report, K
+
+This should now be fixed. Thanks for the report!
+

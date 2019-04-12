@@ -1,0 +1,2 @@
+Mozilla Japan and OtOMO (aka Kodomo Programming Circle) had a workshop on Jan 22 at Mozilla Vision 2012 in Tokyo. Our challenge at this workshop was to mash-up two different workshop into one. One was Hackasaurus and another was Scratch. Hackasaurus is an add-on for Firefox made by Mozilla. It makes possible to modify any existing web pages as you like. Kids tried to embed thier Scratch projects into popular web sites in two hours. Mark Surman, Executive Director of Mozilla Foundation, reported this event at his blog.
+

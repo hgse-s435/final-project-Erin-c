@@ -1,0 +1,6 @@
+Can Scratch 2.0 work with the Pico Boards?
+
+That ability will be coming soon! (It got delayed due to a change in Flash.)
+
+-Any current info available for using Pico and Scratch 2 together?
+

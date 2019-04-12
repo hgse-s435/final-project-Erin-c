@@ -1,0 +1,10 @@
+Are you going to be at NECC in Washington, DC from June 28 to July 1? We'll be there for sessions: * Imagine, Program, Share: Stories from the Worldwide Scratch Community Presentation by Mitch Monday, 6/29/2009, 12:30pm_1:30pm WWCC Ballroom A Hear how students around the world are learning to think creatively, reason systematically, and work collaborative as they create and share interactive projects with Scratch. * Introduction to Scratch Hands-on session with Mitch and I Monday, 6/29/2009, 3:30pm_4:30pm WWCC 152 A Members of the Scratch Team from MIT Media Lab will show you how to program and share interactive stories, games, and animations with Scratch. * Using Scratch in Your Classroom Workshop with Mitch and I Tuesday, 6/30/2009, 8:30am_11:30am WWCC 144 A Join members of the MIT Media Lab Scratch team to explore the possibilities of bringing Scratch, a new creative programming language, into your classroom. * Scratch-Ed: An Online Community for Scratch Educators Poster session with me Wednesday, 7/1/2009, 9:00am_11:00am WWCC East Registration Lobby, Table: 9 Scratch-Ed is a Web site for educators who support learning with Scratch. Educators can share stories, exchange resources, ask questions, and find people. Hope to see you there!
+
+hello is it still possible to share the contents of the workshop " Using Scratch in Your Classroom " ? especially for those who could not be there ... thank you very much
+
+Sure! I'll post details about the workshop (or some variant) this week... Thanks, K
+
+Sorry for the delay! Here's an outline of the workshopand some slides. As you can probably see from the outline, our intention was to situate ways of introducing Scratch in hands-on experiences. One challenge, of course, is that there's so much happening with learning Scratch that it's sometimes difficult to step back and reflect on what that experience might be like for one's own students.
+
+than you very much ! i'll take a look carefully at your attachments and post my thoughts
+

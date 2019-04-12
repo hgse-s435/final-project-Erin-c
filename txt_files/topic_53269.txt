@@ -1,0 +1,8 @@
+Hello, i run a little scratch studio and it would be great to find out some plan to teach scratch step by step.
+
+Hi Artem! Are you familiar with the Creative Computing Guide at all? It is one of the resources we've created, which leads you through various levels of scratch-project development, from the very basics (what is scratch!) to de-bugging and game design! You can find it here:http://scratched.gse.harvard.edu/guide/ Let us know if this is helpful! Best, Alexa from the ScratchEd team
+
+Thank you Alexa, i`ve seen it, i`ve read russian version and it is cool. May i please ask you - what age do you think is good for this guidance? Do you have advanced guides to implement variables, functions and more?
+
+Hi Artem! I would check outUnit 5 of the guide, "Diving Deeper", which includes a section on Advanced Concepts, as well as some of the other resources and discussions that have been posted on the site: Need Advanced Scratch Project Ideas for AP Class: http://scratched.gse.harvard.edu/discussions/teaching-scratch/need-advanced-scratch-project-ideas-ap-class A few ideas from hour of code: http://scratched.gse.harvard.edu/discussions/how-do-i/hour-code-ideas s Resources for folks who are interested in diving deeper into scratch http://scratched.gse.harvard.edu/resources/experienced-scratch I hope this helps! Best, Alexa
+

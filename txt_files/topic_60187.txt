@@ -1,0 +1,6 @@
+I have been leading an after-school Scratch Club since early November. We have 2 or 3 experienced Scratchers; the rest are beginners. Since Jan 2, I have been trying to embrace Scratch 3.0, but, while I like some of the changes, nothing can compensate for the loss of per-block help. Yes, I am aware of the Scratch Cards, and these are good. But as a prorgrammer of 30+ years, it is hard to conceive of a computer language without a reference document. How are others coping?
+
+Hi Gary! Thanks for your comment. I see that you are a member of the Teaching with Scratch Facebook Group! I'd recommendyou pose this question on that page, as we have migrated most of our conversations to that space. I think you'll find some helpful responses from that community. Best, Alexa
+
+All the blocks are documented at: https://en.scratch-wiki.info/wiki/Scratch_Wiki:Table_of_Contents/Blocks
+

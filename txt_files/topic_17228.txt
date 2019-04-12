@@ -1,0 +1,12 @@
+Does anyone know how to save sprite with blocks? Thanks.
+
+You can export your sprite. Right click on the sprite you want to export, then you can see 'export this sprite' in the popup menu. The exported sprite has it's scripts, custumes, sounds and other informations like x-y coordinates, direction. Whenyou want to use theexported sprite, youcan choose it from the sprite file you exported.
+
+Thx!
+
+I have run in to problems importing and exporting sprites which are inherited children. You can export pieces of a sprite by creating a new sprite, copying over the info you want to save and then exporting the new sprite (This can also help to isolate and determine what is causing the export/import to fail).
+
+The Backpack in Scratch 2.0 is also ideal for this - drag the sprite into it, and then you can drag it out again from any other project.
+
+Is it possible to create a sprite within a script? for example, I would like to be able to use the Pen to draw a parallelogram, and then have that parellelogram become a sprite that can have its own costumes, scripts, etc. thanks
+

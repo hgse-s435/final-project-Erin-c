@@ -1,0 +1,4 @@
+It is necessary to document or evidence sequencing or programming, is there a way for a student to print the entire code base for a project so that it could be annotated and used as evidence of having achieved certain skills or levels in programming? Rgds TJB.
+
+The suggestions in this thread might be helpful...
+

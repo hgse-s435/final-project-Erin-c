@@ -1,0 +1,4 @@
+Hello If you are interested in sphero and use it in schools with scratch I can send my scratch project...(it is not shared on scratch website because there is experimental extensions ) It use S2bot and sphero_template.sb2 evolution ( Many Thanks to Scraxe ) See these videos ( french language ) start ( 8min 50s ) boot detection , bluetooth calibration and tests https://www.youtube.com/watch?v=GcBFBqBf-k8 video create a programm to move sphero 14 secondes https://www.youtube.com/watch?v=vMqE6tEZToc next video complicate the programm https://www.youtube.com/watch?v=2NGA0VOzaZg next video How to run scratch and sphero on a distant computer with internet and skype and teamviewer https://www.youtube.com/watch?v=lSjQJ1_R19Q 9min 39sec see also on scratch web site http://scratch.mit.edu/projects/31450954/ calibration and starting Alain
+
+I am interested in your Scratch project and any ideas for incorporating Scratch with the Sphero SPRK. Thanks!
+

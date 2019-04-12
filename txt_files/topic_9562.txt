@@ -1,0 +1,12 @@
+What sort of scratch competitions have people tried? One of the regulars at ScratchDay (can we say that after 2 years?) suggested a Scratch Race - give a challenge and see who can solve it the quickest. Has anyone tried anything like that? We are trying to come up with activities to connect with the advanced scratchers in the area.
+
+I was hoping to host a Scratch programming compeitition for 3rd-6th graders this year but it is looking like it has been pushed to next year. I was planning to create a bunch of debug it and connect it problems for the students to solve in pairs. Additionally, some written problems for more advanced students. My plan was to have judges assign points by visual inspection only. We are hoping for about 100 participants. What age group are you working with?
+
+At our Scratch Day event last year, one area of the event space was dedicated to live coding activities - a challenge is issued and two Scratchers' processes of implementing a solution to the challenge are projected for others to watch. It's more exhibition than competition, but has an interesting feeling of excitement. I like it because it's a nice way to celebrate multiple ways of doing things.
+
+Karen, Susan - thanks for the idea. The livecode and the debug competition are both interesting. Coming up with good challenges/debugs seems like the hard part. Do you have some examples that have worked well?
+
+Maybe one of these would work? http://scratched.media.mit.edu/resources/debug-it http://scratched.media.mit.edu/resources/debug-it-2 http://scratched.media.mit.edu/resources/short-scratch-programming-challenges
+
+Thats perfect - thanks Karen
+

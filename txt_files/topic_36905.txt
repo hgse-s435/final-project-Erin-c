@@ -1,0 +1,6 @@
+See this video https://vimeo.com/140154369 project and how to ( in french ) are here www.ien-lannion-nord-paimpol.ac-rennes.fr/thymio/thymio_paimpol.pdf www.ien-lannion-nord-paimpol.ac-rennes.fr/thymio/thymio_paimpol.sb2 see also https://dm1r.inria.fr/t/piloter-un-thymio-ii-avec-scratch/161 thanks to David Sherman for creating the thymio-II.sb2 project Alain
+
+Hi Alain, Thank you for sharing these resources! Best, Willa
+
+Thymio is now wireless... https://www.thymio.org/en:scratchprogramming Alain
+

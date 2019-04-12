@@ -1,0 +1,14 @@
+Hi: I'm a newbie of scratch, it is very cool of simple to use. I am trying to maintain a project in both of my office and home. Is there a space to save half-done .sb projects on the internet? Thanks for your reply.
+
+You could use the Scratch website to save your projects. If you upload a project with the same name, the site will overwrite previous versions... Hope that helps! K
+
+Hi Karen, Thanks for reply. I tried the share button, it seems to share my project to everyone. If I have a project is half-done, it's not suitable to share with others. Is there any method to hide the projects uploaded with others?
+
+Unfortunately, no, there isn't a way of hiding the unfinished project. If you really just want a place to save files online, you might want to check out a service like http://drop.io
+
+Karen, your suggestion is working. Drop.io just resolves my problem, I have a space to put .sb file now. :-D Many thanks.
+
+Karen, your suggestion is working. Drop.io just resolves my problem, I have a space to put .sb file now. :-D Many thanks.
+
+I know you're using drop.io based on Karen's suggestion, but If you're using OSX or Windows another option would be to run Scratch from your flash drive. For OSX, just copy the image to the drive. For Windows, download the zip file and extract the contents to your flash drive. Using a flash drive means you can avoid managing multiple versions of the same file. Regards, Mike
+

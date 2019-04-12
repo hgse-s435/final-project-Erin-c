@@ -1,0 +1,2 @@
+Dear All, I made a game using Scratch. This game can be seen athttp://scratch.mit.edu/projects/29843144/ This game is working fine "InSide" but not on "Project page" !!!!! Another bug: Why Cat5 positions are displayed next to "Score"? They were not there yesterday. Today they apper with out any modefication of code. From: Janardhan
+

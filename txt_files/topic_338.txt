@@ -1,0 +1,42 @@
+In his talk this morning at the Creative Computing workshop, Mitch asked: "What does computational thinking mean to you?" What do you think?
+
+1. Thinking logically 2. A step by step process used to solve a problem
+
+My first reaction to the question about computational thinking.....is the ease of moving around in a computer enviroment. It includes knowing some of the language and understanding the differences and the similarities between different enviroments, and being able to aply the knowledge you have in different enviroments.
+
+I started out thinking that computational thinking was the idea that computing is an expression of logic, like order of operations in mathematical thinking. I also assumed that it included problem solving and processing. But I have now added that idea that computational thinking includes seeing the world and expressing myself in new ways using the computer. It also includes creative collaboration ... or is that thinking creatorate or collabreate?
+
+Using computers to solve problems or present the solution in a different way or media
+
+Computational thinking is using computers or technology to better understand something. It is also using computers or technology to express or share your thoughts or your understanding of something. But, having seen what Anne Marie wrote - I am thinking that she is correct in saying that it is thinking logically and using a step by step process. Hmmm - maybe it isn't necessarily tied to computers or technology.
+
+I think Computational Thinking is thinking about how to solve a complex problem or task by breaking it down into a sequence of simple tasks. It also includes thinking about the efficiency and effectivness of different methods to solve the same problem.
+
+My first thought was BASIC - IF THEN. My second thought was higher order thinking, working all the way up from the raw zeros and ones to the how, why and what ifs using a computer and its tools along the way.
+
+My first reaction to the word computational is to think about numbers and alogrithms and rote learning. I have to shift my connotation of the word "computational." Having taught 6th grade math for many years, the coputational component was the least creative part of teaching math - and I didn't really enjoy it. I understand that in this context, computational thinking is a more open ended creative way of working through a problem. It is a way of puting something in a process and getting something else out and thinking through the steps of getting the idea from one place to another. From the talk Mitch gave today, I understand that it is a new type of literacy that includes "Learning through Designing," "Building on Personal Interests" and "Collaborating Creatively." -Liz
+
+I am struck by the idea that computational thinking is a new form of literacy. For me, that is a reminder that consciousness about this kind of thinking is for all.
+
+Computational thinking involves problem-solving. One uses algorithms that he/she already knows to make sense of data that at first might appear random and overwhelming. As we learned this morning, this is a process that includes creating, sharing and reflecting.
+
+What is computational thinking? My first reaction was that it involved solving problems, math problems, a way of viewing how numbers effected andaffected our lives. My view now is that computational thinking is evolving into a broader environment.
+
+Computational thinking is reflecting then performing activities in a logical order. This morning we saw a demonstration to encourage our students to create book reports, animate objects, create geography learning tools and even conduct science projects and research using Scratch.
+
+When Mitch asked us to state our initial thoughts about computational thinking, mine were: Thinking logically, planning,mapping out a strategy, cause/effect,animation, data collection and analysis and communicating. After this morning's introduction, tour, and reflections, I find my own thinking incorporating more and changing. One of my school's motto is that we need to stay "green and growing."
+
+sites/default/files/computational thinking article.pdf I just found this article on Computational Thinking that is very interesting. It helped clarify the idea for me. -Liz
+
+I also first thought of mathmatics, and then computers in a more general sense. I like the idea of learning about some of the computer science concepts, for those of us who do not dwell in the computer/math world as much. I like the problem solving approach and teh emphasis on play and fun. I have always thought that the ways of the old style kindergarten class should be applied to all levels. Learn about computational thinking first with hands on activities!
+
+So is "creative computing" only about Scratch? Should we take from this workshop a new view of how schools work and how students learn and how interests drive education?
+
+Creative computing is definitely not only about Scratch. I hope that people were able to imagine new possibilities for learning -- with technology and beyond.
+
+"What does computational thinking mean to you?" A Unique question ?! I will try to answer based on my 25 years with various programming languages and make the following points : 1) Trying to anticipate what the software user may do and designing the proper response and then learning from trial and error what should be done to make your software - Almost Perfect - is a very useful process that teaches the young ones many planning lessons. 2) The value of sticking to good variable names and nice structures in the long run, rather than the instant gratification of quick-and-dirty programming can be demonstrated with ease. 3) The balance between what I call nice/elegant/structured coding and fast accurate answers is usually a very quick lesson in being practical. and much more..
+
+Karen what an interesting question you have brought up. I was not at the talk so my response lacks the contextual framework in which your quotation was used. All the same I am fascinated by the term computational. On the one hand it refers to computation. That is something that has been going on for thousands of years. On the other hand the word computer is infused in that adjective today. I don't think you can talk about computational thinking without thinking about the flood of data that exists in the world today. I really like how Tim Berners-Lee talks about it on TED. www.ted.com/talks/tim_berners_lee_on_the_next_web.html Ultimately it is up to computers and people thinking computationally to handle this new world order. What better argument can you make to start children learning computer programming at an early age?
+
+The ability toconstruct outcomesthatare logical, sequential, and concise.
+

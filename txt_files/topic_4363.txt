@@ -1,0 +1,8 @@
+Hi, I am planning a high school teacher course in modelling. But I am unsure whether Scratch has sufficient functions for modelling, like Star Log for instance. Are there anyone who have tried doing modelling with Scratch? Best wishes, Niels
+
+Hi Niels, I have been working on modelling in science (mostly physics). Obviously you can easily do things like cannons and springs. We had more trouble trying to do things like air pressure. I think StarLogo is more powerful at this point (the ability to create new spites seems crucial to things like predator-prey models). NetLogo is even better, but then you loose the tiles interface. For now I am sticking with Scratch and we will see how far we can go. Last summer I worked with middle school kids to do modelling - some of our work is posted at: http://scratch.mit.edu/users/SAEPscratchscience I would love to hear more about what you are doing - it sounds really interesting. Brian
+
+Hi Brian, Thanks a lot for your input. I will try to make predator-prey models - or perhaps use Scratch for population genetics. I will also stick to Scratch rather than Logo for now. Thanks for your link to scratchscience projects! Niels
+
+If you need help for modeling in StarLogo TNG, to to http://projectguts.org Carl
+

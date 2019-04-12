@@ -1,0 +1,2 @@
+My students are coming up with a lot of different answers to the debugging exercises. Some of course are just obviously missing the point and some are seeing only one part of the debugging problem but others seem like good ideas. Does anyone know if there are "solutions" written anywhere to the debugging challenges with explanations of the the core point made in each one?
+

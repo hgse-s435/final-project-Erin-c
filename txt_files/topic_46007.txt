@@ -1,0 +1,6 @@
+I've been trying many times to create a studio for my class by clicking on my "+new class studio" button in my teacher account, in the "my classes" section. Nothing happens. Can anyone help me with this? Thank you, Marie
+
+Hi Marie. My name is Christan Balch - I work on the Scratch Team. I'm sorry to hear you have been having some trouble creating studios. By chance is your language set to French? If so, we have recently discovered a bug that impacts users with their language set to French when creating studios. Might you please try setting your language to English and then attempt to create a studio to see if this helps? (You would only need to switch it to English for the purpose of creating the studio and then you could switch back.) Let me know if this does not help and we can try to work with you to discover what the problem might be. I apologize for any inconvenience this causes you. I hope this helps!
+
+Thank you Christian! Yes, my langage is set to french. I set it to english it worked. Very helpful advice, thank you again!
+

@@ -1,0 +1,2 @@
+Hi, Does anyone have a good guide to using the various different bits of kit that could be "plugged" into Scratch - things like Arduino, Lego, Makey Makey etc. I'm finding the resources a little scattered and would like to try out some hardware kit, but not sure which route has longevity as a teaching practice. Many thanks Wendy
+

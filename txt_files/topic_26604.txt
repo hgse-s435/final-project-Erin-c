@@ -1,0 +1,16 @@
+My students currently use the 2.0 offline editor in our iMac lab. 2 of my 22 machines keep crashing when the software is launched. Any help/suggestions? Adobe Air is up to date on the machines. The students are in the middle of working a big video game project and I really need the help ASAP! Please email me at coboa@nbps.org . Thanks, Alexis Cobo
+
+We are having exactly the same problem. We have one computer where we said cancel and did not do the update and it works fine. Any place where we did the update or recently downloaded the Scratch 2.0 offline editor we are frozen and unable to work too.
+
+That is my EXACT problem!
+
+Thanks for posting about the problem. I've sent a note to the MIT Scratch Team and you can contact them directly at help@scratch.mit.edu if you have any further issues with Scratch or the offline editor. Sincerely, Michelle, on behalf of the ScratchEd Team
+
+I've heard back from the MIT Scratch Team: A few days ago we received a number of messages about the Scratch offline editor not working properly. We immediately began troubleshooting the issue and discovered it was caused by an automatic update from Adobe. Adobe introduced a new version of Adobe Air (13) which caused the Scratch offline editor to crash immediately upon startup. The only solution is to download and reinstall the Scratch offline editor from the Scratch download page. When you open it, it may prompt you to update Adobe Air. If so, click Update. Hope that helps. M
+
+Tried what was recommended and it still is not working. Need help ASAP
+
+Hi Alexis, Sorry to hear that you're still having trouble with the offline editor. I recommend contacting the MIT Scratch Team directly at help@scratch.mit.edu. M
+
+It seems this issue has popped up again with the lastest update of the Scratch 2.0 Offline and Adobe Air. Those that have update and now try to launch scratch end up receiving a box that contains a white screen in it and nothing loads. I have tried converting back to the earlier version with no luck. I have also removed the profiles from the win7 machines that this is happening on. It seems the problem might again arise from the Adobe Air update.
+

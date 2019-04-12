@@ -1,0 +1,12 @@
+Themessage that you create for "When I Receive", and the blocks that follow that message "name" - is that similar to creating a procedure in logo?
+
+Yes, I think of "broadcast" and "when I receive" as a way of implementing procedures.
+
+Great. Thanks.
+
+Except that one cannot pass parameters (unfortunately) as in LOGO. Is anything in this direction in the pipeline? Thanks. Bernd.
+
+As for passing parameters in future versions of Scratch, it's something that we have discussed (and continue to discuss). But there's always a tension between adding functionality and keeping things easy for beginners. You might be interested in BYOB (Build Your Own Blocks), a project developed by Scratch/ScratchEd community memberJens M_nig. I know thatBrian Harvey has also thought a lot about this.
+
+In the meantime, I have discovered a scary number of feature requests in forum posts all over the website, so I'm taking back that particular one of mine:-) After all, it's a strength of Scratch that it is not overloaded with features, even if that means that some things cannot be done. But that's ok - with a pair of scissors, you can cut paper, but nobody expects it to fell a tree... I now vote for keeping Scratch easy also in the future.
+

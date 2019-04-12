@@ -1,0 +1,14 @@
+Hi. I would like to create clickable areas on the screen using invisible hot spots. For example, Ihave a picture of a pond. When the user clicks on different areas of the pond, different sprites (animals) will appear. Peter R.
+
+This is kind of a hack solution; but instead of having one pond sprite you could have it made up of smaller pond sprites and then when each one is clicked have that animal come in. I attached an example -- hope it helps! pond_example
+
+Thanks for the example. Thats exactly what Idid. Wish there could be "hot spot" sprites, though. Guess that's a suggestion for v2.
+
+Please excuse my poor english. Put a script on scene : Forever if ((mouse down and (mouse x > 100 and mouse x < 120)) AND (mouse down and (mouse y > 100 and mouse y < 120))) broadcast OnArea That should do the job if you choose the various (x1,y1)-(x2,y2) for your areas. All the best, Gilles
+
+yes, that would most definitley work .. but not a solution that you can lead younger students to .. at least not too easily ;]
+
+Peter: I think the easiest way to do this is exactly the way you mention: create a bunch of hot spot sprites (hotspot1, hotspot2) that are simply circles with the Ghost effect set to "99", then make sure those sprites are on top (in front of all other sprite). They will be invisible, and you can use their "when clicked" event to do stuff.
+
+thats a much better solution than my hack thanks for sharing! you wouldn't even need the hot spot sprites you could just set the animals themselves to a ghost of 99. pond_example2.sb
+

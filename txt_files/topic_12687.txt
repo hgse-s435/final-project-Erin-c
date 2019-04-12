@@ -1,0 +1,24 @@
+As a part of Scratch Day celebrations, a prototype of Scratch 2.0 will be publicly available from May 17 until May 21 at alpha.scratch.mit.edu. Until then, check out this Scratch 2.0 preview video:
+
+Fantastic! I will start telling my students, it is a great way to spend Scratch day. I know there will be lots of questions, maybe you already have a FAQ going. For example: now that Scratch 2.0 will be browser based, will you help teachers set up accounts for a class of students or will each student have to sign up individually. Will there be a way to monitor the comments and other community features of a student account. I hope there is support on the site for a typical school classroom setting. I teach elementary school students and this will be important.
+
+Would there be a way to grab the web based scratch and run it in a place locally where there's no internet connection? i.e., if it's a bunch of HTML5 or a flash app or a java app, would you be able to host that on a local web server not connected to the net?
+
+Hi, Dan. Scratch 2.0 depends heavily on being embedded in the website. Although we do plan to support a stand-alone version of Scratch 2.0, it's not ready yet. Sorry! -- John
+
+Scratch 2.0 is now live! Please share your feedback in this new discussion thread: Scratch 2.0 Feedback
+
+Good use of the Avett Brothers! Oh, I mean, good work on Scratch 2.0.
+
+:)
+
+Hi Karen I keep getting a username and password dialog box when I go to the site to try out Scratch 2.0 Is this supposed to happen during May 17-21? Maybe I missed where the password was given.
+
+In addition to the motion sensing settings for the webcam, I wonder if it would be feasible to add in dark/light sensing? Arbitrarily, let's say you assign 0 to the darkest colors and 500 to the lightest. Then you could create a maze project where your sprite is programmed to behave a certain way when hitting the walls (when color =0, turn right). Then hold up a maze to the webcam and see if your sprite can make it through. Another option might be to create image filtering art projects, similar in function to Instagram or Photobooth. Use commonds like "if color > 400, change color to random". Just a thought. :)
+
+Hi, David. Thanks for the suggestion. We've been experimenting with sensing color from the video using the existing color touching blocks. The idea is that, when the video is turned on, those blocks could sense colors from either things on the stage or from the video. If it works well enough, that would allow users to draw mazes and hold them up to a webcam as you suggest, as well as projects such as those shown in this (old) video created by Jay Silver and Eric Rosenbaum, two graduate students in the group:?????????? http://vimeo.com/9512436. It's an interesting idea to sense only brightness. One of the big issues with color involves calibration to different cameras and lighting conditions. A brightness sensor might also require some calibration, but since it's just a single threshold, it's much easier to work with, similar to using the "loudness" block. I can imagine that many projects would not need any calibration at all and, if they did, a single slider would be sufficient. -- John
+
+Hi Pratibha, You just caught the site when it closed again. Between May 17 at 9am and May 21 at 9pm you didn't need a password. K
+
+Scratch 2.0 is very nice, really. Even if some of the new features are not fully "newbie-proof" as I expected, nevertheless being able i) to run Scratch from you browser without any need for installation and ii) to directly inspect other members' projects is a great improvement. I'm sure everything will be perfectly redesigned before the official release. Even cloud variables (even if I don't expect to use them a lot) will allow students to have a lot of fun. What is that I like really a lot? Custom blocks and clones. And I expect to love a lot the new vector-graphics image editor too (not accessible yet). What I don't like at present? Some "hidden" behaviours: it is not immediate to understand if and how custom blocks can have arguments; it is not immediate to manage clones; it is not immediate (in version 2.0, it used to by immediate in Scratch 1.x) to access sprite's info (name, position, etc). Anyway I expect Scratch 2.0 to be a great tool for all of us, with all we need already set up for the best user experience.
+

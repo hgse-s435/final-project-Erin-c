@@ -1,0 +1,2 @@
+Hi everyone! My name is Sandy, I'm from Venezuela and I work with a program to teach economic principles to children and youth in Venezuela. A friend of mine introduced me to Scratch and I want to know if anyone has developed some ideas to teach economic principles using Scratch. I think this tool can help us upgrade the learning process of our students but as I haven't worked with Scratch before, I would like to hear from your experiences to have an idea how can I implement Scratch in our program. Thanks in advance for your contributions. Sandy.
+

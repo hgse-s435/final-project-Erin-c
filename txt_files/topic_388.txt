@@ -1,0 +1,4 @@
+It's great that you can attach Scratch projects to resources and stories and download them. It would also be nice to be able to run them directly in the browser. Maybe each project thumbnail could have under it a "play" and "download" button or something?
+
+I totally agree -- that would be a great feature. I'm holding out for a Flash version of the player. :)
+

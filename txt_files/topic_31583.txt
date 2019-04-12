@@ -1,0 +1,6 @@
+Hello, I found the Scratch Programming Concepts document for V1.4 but I wonder if there is a similar document for 2.0? There are some programming concepts that are now supported in 2.0 that weren't in 1.4. Thanks --Louis
+
+I would also love some help in using words such as recursive in talking about using Scratch 2.0.
+
+Hi Susan, My suggestion to connect computer science concepts to Scratch is the book by Majed Marji: Marji, M. (2014). Learn to Program with Scratch: A visual introduction to programming with games, art, science, and math. San Francisco: No Starch Press. Retrieved from http://www.nostarch.com/learnscratch I have mixed feelings about the book. On the plus side, it's thorough, detailed and very well illustrated but I think the author misses the boat in connecting Scratch to current software development methodology, namely object-oriented design. The book seems to follow the conventional path to structured programming and doesn't touch on objects at all. In other words, this is a C textbook written in Scratch. He does discuss procedures (ch.4) and recursion (briefly in ch.7), if that helps. All the best --Louis
+

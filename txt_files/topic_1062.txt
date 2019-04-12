@@ -1,0 +1,8 @@
+Some of my students claim their Scratch programs run differently (timings are off?) on the website than do when running locally...are there known problems with this?
+
+That is an existing issue with the java player used on the site. However, in my experience, a lot of the trouble that studnts have with timing has to do with how they trigger events. Trying to sync things up with the "timer" or with they "wait___ sec" blocks will typically suffer from some sort of lag. On the hand, chaining a series of events together with the "boadcast," or "broadcast and wait," blocks will help a lot. This tutorial on creating dialog may help clarify what I am describing.
+
+The dialog tutorial is nice. How about one for changing scenes (including backgrounds and characters)?
+
+Great idea. Here's my first pass at it: http://scratch.mit.edu/projects/ashbyr1/714297 If you share it with students, please let me know if they ask for clarification about anything, so I can make improvements to it.
+

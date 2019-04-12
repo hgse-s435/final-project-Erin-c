@@ -1,0 +1,6 @@
+I'm teaching English in Vetnam and am a big fan of Arduino, robotics and 3d printing.I'd like to invest in some Makerbot kits and have my ESL students get some exposure to these technologies. Most of my students have very elementary english skills. Has anyone here seen any curriculm that has been designed with English language learners in mind. Ideally, someone else has designed a curriculum to teach an introduction to scratch 2.0 in an English immersion environment. Any suggestions, links or references would be greatly appreciated. Neil
+
+Hello, Neil! I have been looking for something similar myself, however, I've yet to find anything (good) that would be helpful in language learning/instruction and/or a simlified version for ELLs. -Emily
+
+Hi Neil and Emily! The Creative Computing Curriculum Guide is remixable, so you can tailor it to your particular context. You can find it hereand download the powerpoint version or PDF. I'd also reccomend you posing the question to the Teaching With Scratch Facebook Group, where other edcuators from around the world are sharing ideas and thoughts about teaching with Scratch!
+

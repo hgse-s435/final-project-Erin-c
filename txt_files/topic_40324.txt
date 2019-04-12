@@ -1,0 +1,10 @@
+We're curious to learn about common coding misconceptions that your students encounter while creating Scratch projects. What do your students find confusing? Where do your students get stuck?
+
+The concept of initialization frequently trips up my students...
+
+Another common point of confusion: rotation style. As documented in the Scratch wiki... Why does my sprite look upside-down when it changes direction? Due to the defaultrotation style, sprites rotating will appear upside-down. You can change the rotation style using the buttons near the top of the middle pane of the screen. "Left-right" is most likely the best for this.Learn more 
+
+Yes, roatation style drives them (and me) nuts. I would also like to see "When this spite clicked on" go back to "When [name of sprite] clicked on" Students someties confuse the new sprite and new costumes button, since they both use the same icon.
+
+I tolerate the rotation style mentioned by others because my younger students are not ready to discuss x and y and integers.
+

@@ -1,0 +1,4 @@
+Friends, I can't find the Super Scratch Folder that is mentioned in the book Super Scratch Programming Adventure by the Lead Project. Also, not sure how to make Spanish letters like e and i with an accent. Any ideas? Thanks in advance for your help. Zena McFadden
+
+Hi Zena, If you go to http://nostarch.com/scratchand click on "Download the book's resources" you will open a zip folder that contains the files you're looking for. For the Spanish letters, it depends on whether you are on a Mac or Windows machine. I found a list of how to do it here - http://www.spanishdict.com/answers/100808/how-to-type-spanish-letters-and-accents-#.UWW3sI4vp7Y. Hope that helps! M
+

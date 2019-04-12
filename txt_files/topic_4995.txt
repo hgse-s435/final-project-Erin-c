@@ -1,0 +1,4 @@
+Can you make a folder for multiple sprites in one scratch and then have other sprites as well? A student has a lot of sprites and he wants to organize them in the sprite area. thanks, Johanna
+
+No, unfortunately, sprites cannot currently be grouped into folders in the sprite list area. Sincerely, K
+

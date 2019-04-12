@@ -1,0 +1,6 @@
+We're curious to hear from you:
+
+My 4th and 5th graders imagined if Columbus had made a Kickstarter video to convince Ferdinand and Isabela to fund his expedition: https://scratch.mit.edu/projects/88312334/remixes/
+
+My 7th graders are reading "The Kid Who Beat Wall Street and Saved Africa" to go along with the book we are making a 3 level scratch game that corresponds with events happening in the book. Each level needs to include a maze, a puzzle, or a problem to solve. Each game needs to include a title screen with directions and author, 3 separate scenes, and a method of moving from one scene to the next. Each scene needs to include an event ending the game in case of a loss and an event to move on in the game.
+

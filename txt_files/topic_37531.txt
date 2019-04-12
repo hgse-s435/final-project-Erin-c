@@ -1,0 +1,8 @@
+With Logo I could create beautiful spirals using the variables... forward, turn and pencolour. Please can somebody explain how to do this with Scratch? ( I can do it using the slider control but it's all a bit random) Thanks for reading this. Jon
+
+Forward = Move and Turn and Pen Colour are available. By way of a simple example.....
+
+And the script part that was cropped above...
+
+Thanks Duncan That was really helpful. I 'm a volunteer helper with 10/11 year olds and this will really motivate them. Cheers P.S. As a beginnerI haven't yet figured out how to print our resulting works of art. Please can you advise me. Jon
+

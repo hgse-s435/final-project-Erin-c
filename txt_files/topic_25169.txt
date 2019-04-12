@@ -1,0 +1,92 @@
+Can anybody please advise me on the best way (assuming it is possible) to create Scratch accounts for children's use? I want to set up accounts for my children in Years 5 and 6 to use. Any help much appreciated. Thanks.
+
+Yes, I would be very interested to hear if a classroom management system has been set up as well.
+
+I recommend letting kids create their own username and email (if they have one), especially if you think anyone might want to use Scratch outside of class. If they are under age 13, educators might have students use the teacher's email or set up a class email to use. I've heard educators say that they prefer having students use the teacher's email because any notifications of inappropriate content will be sent to the email on file for the account. Another option is to have young students create profiles at home with a parent or guardian providing an email. This could be assigned for homework with a letter home about Scratch and a place to fill in the chosen username and password -- so teachers can keep a master list on hand just in case a student forgets their account info. NOTE: The MIT Scratch Team is developing "educator accounts" to help educators create and manage student/class acounts. They plan to release this feature later this year. Hope that helps! I'd love to hear other ideas. Michelle Chung, on behalf of the ScratchEd Team
+
+By "later this year" I hope you mean before September :) In any case, excellent news.
+
+I'm very open to an Educator's account. I think that rolling out Scratch accounts per class may be a little daunting from a child protection/internet safety perspective. I would want to have some element of control as to what my students 'share' with the rest of the world. I do hope that the educator's accounts do allow us to make a more 'closed-off' community whereby only specific members can view and comment, Ben Matthews
+
+I look forward to having a Classroom Management system. In the interim I created separate accounts and passwords for each of my students in grades 4 - 6. The usernames included the school initials, the grade level, and the students initials.(For example: GS4TM ) I typed the usernames and passwords that I created for students into a google spreadsheet that we often refer to. I used my email address for all of the accounts. This account is for projects that we are doing in class. Some students have their own personal account for Scratch that they've set up with their families.
+
+Hi Lorraine, I have done the same for all of my 5th grade aprox 100 students. And I have also used the same formula for username.The problem I am having now is organizing their projects. I created studios for each class but inviting each student to be a curator has been quite budensome and time consuming. Wondering how you are handling viewing and keeping track of you student's projects and monitoring comments?
+
+Sandy, I logged into each of the students accounts and created a 'placeholder project' with the project title and the students initials. (This is a project that the students worked on for four weeks.) Then I created a Scratch account and a studio for each of the three grade levels. I added each of the placeholder projects to the studios. (This set up is time consuming.) When I go to the studios I see all of the projects from that grade level . I haven't figured out a way to monitor the comments without clicking on each one of them. It will be helpful to have a classroom management system.
+
+Are there any updates about the Educator Accounts or Classroom Management System? I just created accounts for 2 classes using a class email so my students could have their own "Scratch space" and be able to save their work, but it was tedious. Looking forward to an easier way to manage classes. marty
+
+Still waiting on news on educator accounts. Creating accounts for several students is very time consumimg.
+
+We don't have an update yet on educator accounts, but we will post as soon as we know. Thank you all for your patience!
+
+Is there an update regarding Scratch educator accounts? I am getting ready to teach a summer school class and would be interested in a classroom management tool. Does anyone have a sample letter that can be sent to parents asking parents to establish scratch accounts for students?
+
+A possible solution could be to use multiple email addresses in gmail. Gmail - conveniently - ignores anything after a + For instance an email sent to me@gmail.com, me+student1@gmail.com, me+student2@gmail.com show up in me's inbox. Of course you will have to create an account in Scratch for each of your students. The students, on the other hand, will not be needing their own personal email accounts. You can further 'filter' your emails and direct them to folders set up as Student1, Student2, Student3, etc. I hope I didn't miss the mark on this post. I signed up for Scratch a day ago and I'm excited. You guys are awesome!!
+
+The MIT Scratch Team is hoping to release the educator account feature later this fall. We'll keep posting any updates we hear.
+
+Any update on the classroom/educator accounts?
+
+I wonder if this is even still on the table. marty
+
+The MIT Scratch Team is hoping to release the educator accounts by the end of this year, or in early 2015. Stay tuned for more info!
+
+Thanks for the update Michelle. Wating anxiously for this add-on. It will be a huge step toward providing access to Scratch for students, particularly those under 13, and toward encouraging wider educational use by making interaction and monitoring a bit more streamlined for teachers.
+
+This is good news, indeed! Looking forward to learning more! marty
+
+Michelle, Is there an update on the timeline for this yet? I'm hoping to use it with a class after our winter break; we are back in session on Jan. 6. marty
+
+Any updates on student accounts for Scratch 2.0? Hoping to hear something soon. marty h
+
+Hi Marty, Unfortunately, no updates. I promise to post an update here as soon as I know anything. Sincerely, K
+
+I'm interested in that as well.
+
+There are obviously lots of people who would find this really useful - I really hope that the educator feature becomes available soon. Any news, Scratch?! Thank you:)
+
+Yes - this would be a big breakthrough for using Scratch in the classroom. I'd love to set up a closed class studio where all the projects could be posted and viewed. Right now it's too cumbersome to do this with all the workarounds. That said, I cannot understate how wonderful Scratch is as a resource and I thank you a million times.
+
+Yes, my students were very frustrated yesterday because they couldn't save their work. They are lower school students with no email accounts. My understanding was that the classroom management component of Scratch was in the works and supposed to be rolled out over a year ago. marty
+
+I am going to experiment with students saving their Scratch files on our network and then uploading them back to the Scratch website. This is not ideal and does not address the community aspect of Scratch, but at least students will be able to save their work. All of my students know how to save a file to their documents and retrieve them. It eliminates having to use a third party application. It would be nice if it was easy to create student accounts but I can't have each child have to use their parents' personal email account and then wait for parents to respond. I don't have to do that for any other subscription we have. Instead of a studio on the Scratch website, students will have a Scratch files folder on our network. I will let you know how this works. marty
+
+Yes, that's what I have been doing till now, Marty. It works but is rather annoying to have to do this every time - and would be much better to have the ability set up online classroom accounts (easily!)
+
+Barbara & Marty, If you are already saving Scratch projects to your network, why not add the Scratch app to your computers? I asked my IT guy to do just that, so now students store their projects on the server and work with the download version of Scratch on our lab desktop computers bypassing the online version all together... at least until Scratch figures out the student account issue that is the theme of this thread. Good Luck, Tim
+
+Good idea, Tim. The download/upload option has worked pretty well and my students are happy they can save their projects. We had the old 1.4 Scratch version downloaded on to the student computers. I will ask our IT guy to replace it with the 2.0 version and bypass the online version until a solution is provided. Thanks, Tim. marty
+
+Any update on the classroom/educator accounts?
+
+Looks like educator accounts has been over two years in development... Is it now dead or is there still a chance that it could happen?
+
+What is happening with the Scratch classroom accounts? I'm frustrated by the lack of progress on this. Should I have students create the accounts at home with their parents or should I use my own school email account? There should be a way to easily create accounts for Middle School and younger students. marty
+
+I don't need a whole manangement system- just a way to easily create accounts from a CSV file would be great! This was something that Scratch users at the 2014 Conference were very vocal about, so I have been hopeful, but so far... nothing.
+
+Hi. Im Christan Balch, the Online Community Coordinator on the Scratch Team at MIT. We understand your frustration with the registration process for students, and were sorry for the difficulties that it has caused for you and your students. Were continuing to work on Teacher Accounts, which we hope will simplify the process of creating accounts for your students. Unfortunately, the development of the Teacher Accounts has taken much longer than we expected. We hope to have more news about the accounts soon. Well make sure to post messages on ScratchEd to keep you informed. In the meantime, we suggest using a single email address (e.g., a teachers email address) to register and approve all of your student accounts. (Multiple Scratch accounts can share the same address.) We realize that the confirmation process can be time-consuming for educators, but confirmation is just a one-time process when first registering an account. Sorry again for the current difficulties. We hope to have better solutions in the future. Please do feel free to reach out to me should you have more questions. Thanks!
+
+Hi Christian. Could you just clarify the procedure for creating multiple accounts with one email address. Do I do this on the main Scratch website and not through my educator account? I have created a generic email address for our school to use and need to set up about 15 accounts initially for a club I want to run. I'm assuming I just create an account using my generic adddress on the main Scratch website (https://scratch.mit.edu/) and then the procedure to create mutliple accounts will be an option to select? Thank you for your help. Joanna
+
+Hello Christan, Has there been any news on student accounts? and or teacher accounts? Thank you. Speete35
+
+What is the word on class accounts? I have a group of 4th graders beginning a class project which they will collaborate actoss classrooms for. We used to be able to login with one class account, but now it is bumping off multiple users. I just need to be able to manage a group of students for class purposes. I either need the classroom functions to work or to allow multiple users of the same account, please. This is a much loved project that I would hate to have die because of difficulties at the site's end. Please advise.
+
+I currently have my students create their own accounts, but I have them use my school address for the email. This way, when they forget their password while at school, I can quickly help them reset it. The probelm is when they forget it during the summer and I have to figure out how to contact them once I have reset it... I am sure the folks at MIT are workigng on fabulous teacher features, but in the meantime, if they would just give us a simple way to upload a CSV file to create the accounts, that would be awesome!
+
+Hi Christan, I have been asking about teacher management accounts in Scratch for a couple of years, as have many other teachers. Saying "We hope to have better solutions in the future" is a pretty discouraging thing to read, when so many people are asking for this feature, loudly and clearly. Will it happen in the next two months? thanks, Pauel Craton
+
+Hi Karen, Do you know if there have been any updates to this topic? I fairly recently found the workaround I had been using will no longer work, and we are about to start a huge collaborative Scratch project with the entire 4th grade (so, no, they don't have their own email addresses). I read here that one teacher's workaround was to have each student create an account with her email address, but I don't really want to create accounts for every 4th grader with my email address, particularly because I would have to do it for 3rd graders and 2nd graders as they begin their Scratch projects.... Downloading and uploading is what I've been left with, but that can get finicky, too.. Thank you for any help and/or guidence you can offer.
+
+Hi Christan, Do you know if there have been any updates to this topic? I fairly recently found the workaround I had been using will no longer work, and we are about to start a huge collaborative Scratch project with the entire 4th grade (so, no, they don't have their own email addresses). I realize your suggested workaround is to have each student create an account with my email address, but this implies I am creating a Scratch account for the entire 1st, 2nd, 3rd and 4th grades with my email account so they can use Scratch. Downloading and uploading is what I've been left with, but that can get finicky, too.. Thank you for any help and/or guidence you can offer.
+
+Hi Kate, Unfortunately, I have no information about timeline. Perhaps Christan from the MIT Scratch Team will be able to share more information...
+
+Hello, I am just starting up the after school program with Gr.4-7 students and I have my teacher account. I am wondering if I can create one gmail account for students to use for thier sign up or if I should use same email address I signned up with? Thanks,
+
+Hi Eriko!Yes, that would be fine - feel free to create a gmail account for your students to use during the registration process.
+
+Hi again from the MIT Scratch Team! We have posted an update on Scratch Teacher Accounts here:http://scratched.gse.harvard.edu/discussions/news-and-announcements/scratch-teacher-accounts
+

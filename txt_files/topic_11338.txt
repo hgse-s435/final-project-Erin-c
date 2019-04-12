@@ -1,0 +1,6 @@
+Hi, Is there a way to change the value of answer without ask? I was intending to have students write code similar to but then realized that when successive enter students messages are received answer will stay set to Done. I suppose students could create their own variable to store the answer and then reset it at the bottom of the script but I thought I would find out if there is a way to change the value of answer that I have over looked. Any suggestions are greatly appreciated. Thanks! Susan
+
+Sorry that image got cut off -- you should be able to get the general idea; oryou can view it using the image url; let me know if you need me to clarify.
+
+Make a variable called answer2 changethe repeat until to repeat until answer2 = Done in place of the red "add answer to students" make the following changes.. set answer2 to answer add answer2 to students set answer2 to ready - If that sounded weird, you are just storing the blue answer variable into another variable which you then clear out after placing the name into your list. Hope that helps :)
+

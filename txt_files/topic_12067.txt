@@ -1,0 +1,6 @@
+Could someone please tell me how to do the following things.... 1) Set a timer to limit the time someone has to respond? I had a bash at this but it isn't working correctly and am not sure where I have gone wrong. 2) Is it possible to code a quiz so that the user can click on the correct response as opposed to using the keyboard? Thanks in advance! Jessica
+
+About question #1 I searched on the main Scratch forums and found this helpful thread.They discussed a few different strategies, including: and There are also some cool timer projects to be found on the Scratch website, like this one. About question #2 Yes. There are lots of examples on the website, like this oneand this one and this one. I searched for "quiz" on the main Scratch website. Hope that helps! K
+
+Karen, Thank you so much - that is a really big help, the timer is working well and I can see how to program to click now! Jessica
+

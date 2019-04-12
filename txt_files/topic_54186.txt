@@ -1,0 +1,4 @@
+I have created a class, added accounts for some students, and can see a tab "Activity" - which looks as if I can assign an activity or project to all the students, or just individually. But I can't see any help on what an "Activity" comprises; or how to create one.
+
+Hi John! I believe that the "activity" tab merely refers to what your students have done. If you'd like to create a studio for your students, you go to the "studio tab" and click "new class studio". In that, you'll be able to create a studio in which students can share their projects. The Teacher Accounts FAQ may also have some helpful answers for you! https://scratch.mit.edu/educators/faq Best, Alexa
+

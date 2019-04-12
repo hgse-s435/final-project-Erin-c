@@ -1,0 +1,10 @@
+Hi, We're using Scratch to teach programming in a school where we do not have internet access. To promote collaboration though, we have set up a ScratchR server. How can I configure Scratch to share projects on our local ScratchR server instead of the MITserver? Icouldn't find such an option in Scratch.ini. Is this possible to achieve? On the links mentioned in this post (http://scratched.media.mit.edu/discussions/how-do-i/set-scratch-server), I couldn't find a way to do tihs. If there isn't a way to achieve this, what is the rationale behind making the ScratchR platform available for download? In anticipation, Saurabh
+
+Dear Saurabh, Yes, you can configure Scratch to share projects to your local ScratchR server. In order to upload to your own server, you need to create a file named servers.txt in the directory where the Scratch desktop application is installed. As described in http://svn.assembla.com/svn/scratchr/INSTALL.txt, please write to help@scratch.mit.edu for permission and instructions about what's in the servers.txt file. Hope that helps, K
+
+Thanks for the quick response Karen. Am happy to hear that Scratch can be configured to upload to the local server. I'll mail the IDs you've mentioned to get the format of servers.txt. I'm using a slightly different version of ScratchR that I downloaded from http://svn.assembla.com/svn/scratchr since that was the link mentioned on this page:http://info.scratch.mit.edu/ScratchR:_The_Online_Community. Perhaps this link needs to be updated. The INSTALL.txt there is quite different from the one on http://svn.scratchr.org/scratchr/INSTALL.txt. Is it recommended that I move to the ScratchR version on the scratchr SVNrepository instead? regards, Saurabh
+
+No, I think the link you're using is better. :) (I pulled the other link from an outdated email.) Andres (the Scratch team member responsible for ScratchR) should be able to clear up any confusion. :) Sincerely, K
+
+Great, I'm glad I needn't go through the installation process again :) I've sent an e-mail and hopefully will get a response soon.
+

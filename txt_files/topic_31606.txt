@@ -1,0 +1,4 @@
+We need some straight forward programming help. When the slider moves, move the character across the screen at the same pace as the slider is moved. Does anyone know of a project with blocks that we could see to learn? We are using the extension with Litlle Bits but the problem is a simple coding problem. Thanks for your help!
+
+Our textbook "Computer Science Concepts in Scratch" gives an example of changing the size of a dragon smoothly as a slider moves back and forth (Task 3 in Chapter 6). The text and associated Scratch projects can bedownloaded for free athttp://stwww.weizmann.ac.il/g-cs/scratch/scratch_en.html. I hope this helps, Moti
+

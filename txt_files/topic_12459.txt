@@ -1,0 +1,6 @@
+I'm really excited about custom blocks in Scratch 2.0! My question is: what types of custom blocks will there be? In the Scratch 2.0 preview, a "jump" custom block was presented which is a stack block. Will there also be custom reporters such as in BYOB? Thanks in advance for any answer! Bernd.
+
+Hi, Bernd. We've had many intresting discussions with Brian Harvey and Jens M_nig (creator of BYOB) about these things... In the first release of Scratch 2.0, we plan to support only custom command blocks. We are considering extending that to also support custom reporter blocks in the future. However, I don't think we are likely to ever add first-class functions (i.e. closures) to Scratch. -- John
+
+Thanks, John! I'm glad to hear that custom reporters arein the pipeline. But already with custom command blocks, Scratchbecomes aserious competitorforLOGOin systematic programming coursesfor children.
+

@@ -1,0 +1,10 @@
+Starting August 2014 I will be teaching a course, that I've pretty much been given free reign over. They are students who, as freshman, failed the first semester of Algebra I and had to retake it. I'm inheriting them as Sophomores and in charge of teaching them "the rest" of Algebra I and all of Geometry in one year. The good news is I get them for 2 periods a day. During this past year a student showed me scratch, and actually taught the class 3 days of coding. I'm excited and overwhelmed at the potential, I want to make this class successful and fun. Not sure where to start.
+
+270 views and no advice? Is anyone doing something similar or am I the only one?
+
+Hi Miles, I am also trying to integrate programming and math (5th and 6th grades). And last year i got very good result. I reply it to let you know you are not alone :)
+
+Have you seen this: "Scratch galleries with Math Projects"? I myself will be teaching next fall intro to programming to future high school math teachers and I think I will use Scratch for most of it. Hence my students will be about the same level as yours but our goals are different! I liked the "Polystar" project. I have searched for ressources and was quite disapointed at the tagging of people's posts: tons of irrelevant things. Good luck.
+
+Whoa! What a coincidence. I just posted about this as well. I am in the exact same boat. Looking to integrate Scratch with my math classes and no idea where to start. I don't want to limit scratch in class with just math related concepts either. I think the computational thinking that Scratch is said to help develop in students IS the math that I am attempting to teach. So I envision starting this process by trying to hook my students with a cool application first (an animation, a game, etc...), and then eventually having them do traditional math things with it (graphing, plotting, etc...). Maybe we should form some sort of group for teachers integrating this into their classes, especially for the first time. Is that possible on here?
+

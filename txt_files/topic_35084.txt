@@ -1,0 +1,28 @@
+We've heard from lot's of teachers that they really wanted a system to manage students, lesson plans and more with Scratch. Well; we created Itch which is the Scratch teacher dashboardin a safe, online learning environment with videolessons for your students! Head on over to http://www.itchcode.com and try out a course now to see what it's like! Teachers are able to manage students, their projects, grading, creating new lesson plans and much more.
+
+Get your class coding this semester! You can get your own setup of Itch for your studentshere. Sign up and drop us a note here on what you think or email me directly at "jason at ucodemy.com".
+
+I just ran a larger class with Itch at my local YMCA and the kids loved it. Check out my blog post about it here. Right now we are still running our trial version of Itch so be sure to sign up and try it out soon while it's still free.
+
+More news for our latest release. We added support for teachers to provide grading on projects. Your students can submit a project and we snapshot the project so you can grade it without it changing out from underneath you. Another feature that several people have asked for is adding a snapshot of the coding window to the online question and answer forum for class discussions. So now you can do that too.
+
+Check out our new features in our latest release. Probably one of the best is also the simplest. You can now run scratch full screen, for those classes that have students on small resolution screens this is a great option! We've also added a brand new course for "Coding across the curriculum" for English Language Arts, called "Digital Storytelling". We hope you like it!
+
+THIS IS PHENOMINAL!!! amazing job Jason!
+
+I am trying to sign in to check this out, but I cannot find the link to register for the LMS. Can you help me? Thanks.
+
+Hi Robin, You can click on the courses themselves and register as a new user. I've put some detailed instructions below. If you are interested in your own academy for just your own students just email us your details and we'll get you set up. After you finish your signup at http://itchcode.com you will be able to go to our sample Itch courses at http://itch.ucodemy.com them for free! (You should have also received these instructions in an email after you signed up so be sure to check your junk mail in case you missed it). Select a course and then click "Take this course" to enter the course (see image below): and then "Register as new student" using your same email address and a new password:
+
+I'm trying to sign up for this as I am a middle school teacher and will be teaching Scratch. But when I go to the link above (itchcode.com) I get this message: This domain has just been registered for one of our customers! Domain registration and webhosting at best prices. Nothing else is on the screen. Any thoughts on what is wrong? Thank you, Mira Lieberman
+
+Hi Mira, Thanks for letting me know you had an issue. It seems like something was holding onto an old location for our product information server. We've managed to make sure everything is up to date now and this issue shouldn't happen anymore (this didn't affect the actual learning management system though). Let me know if you see this again, and thanks again! Kind Regards, Jason.
+
+Glad I could get you all set up Robin. Let me know how the courses work out for your students!
+
+Thanks Alexis. So glad you liked it! Feel free to contact us directly if you have any feedback or other suggestions.
+
+We continue staying busy; for our latest addition we've added support for teachers to share lesson plans that they've created for their class. Itch teachers can start from these other teacher's lessons and edit and adapt them for their own classroom with our learning management tools! Be sure to check out our first lessons from other teachers at http://www.itchcode.com at our sample curriculum.
+
+This just in! - We've now added teacher dashboard support for both Spanish and Albanian languages. I'm looking for teachers that might want to create video lessons for Scratch to add to Itch for these languages. Please get in touch with me if you're interested. You can now view the teacher dashboard submitted student projects and assignments all in one place too.
+

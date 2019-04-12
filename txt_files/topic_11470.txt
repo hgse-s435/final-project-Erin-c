@@ -1,0 +1,4 @@
+I wish that, instead of using the Sprite's name, this block would just have the label "when this sprite clicked" That really seems to be what it means.
+
+Actually, "when I'm clicked" would be even better, just like "when I receive"
+

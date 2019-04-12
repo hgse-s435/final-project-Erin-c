@@ -1,0 +1,18 @@
+Hi all, I am a doctoral student conducting research with Scratch and K - 5 students. Ihave been working with the same group of students (third graders - age 8 and 9) for about one month. Ihave been observing how students learn Scratch without any adult assistance. (I just finished writing a paper about these observations [a qualitative research study]). My study was very similar to the Hole-in-the-Wall studies conducted in India - http://www.hole-in-the-wall.com/findings.html To my suggestion: The students have just started using the pre-made Scratch cards http://scratched.media.mit.edu/resources/scratch-cards. Ihave noticed that many of the students who have Individualized Education Plans (special education students) are having a real hard time distinguishing between the Motion (blue), Looks (purple) Sound (purple shade) and Sensing (light blue) blocks of code. The shades are too similar for many of them to make choices and they are getting frustrated. Has anyone else found this to be a problem? If so, is there a way to change the color choices of the blocks of code? The kids love Scratch and I have never seen a group of kids want to learn a program with so much enthusiasm. I hope that the programmers consider my request.
+
+Interesting observation! One possible explanation: the colors on the printed Scratch cards might not match the colors as they appear on the computer screen. That could make it difficult for kids to find the right category for a block when trying to recreate the script on a Scratch card. Does that seem possible? I realize that your methodology may not allow asking direct questions, but if it does you might put blocks of the troublesome colors on the screen then ask the students to find the category that they came from. My guess is that most non-colorblind students will be able do this fairly easily. Thanks for your report. I'll be curious to hear if others have seen similar problems with the colors. It's great that the kids are so enthusiastic! :-)
+
+Hi John, Thanks for the response. You are correct that the cards do not match the shades of block code colors in Scratch. But the big problem is getting them to see the correct shades of blue and purple while in the program, even if they were not following the card directions.
+
+I agree with you Christopher, at least you are not using StarLogo TNG which has even more colors close to each other. Tell me, was the difficulty seeing the color mostly limited to the boys?
+
+Interesting, you are right, those block colors are close! I haven't run into this as a problem, but my experience with special needs students is in a setting of regular ed classes, often with kids at different levels partner programming. What sorts of color choices would work better? The softer colors for backgrounds help the stacks of colors in scripts stay in the background. A redder red, for example, seems distracting. Karen R
+
+Hi Carl, I have not had any girls have trouble, just boys.
+
+I think if each block was a different color instead of a shade, that might/would be helpful.
+
+Hi. I wonder if adding a little symbol to each block for each group of blocks will help, eg. a little black circle to the left of all motion blocks versus a little black square to the left of all sensing blocks, etc.
+
+Hi Ai Boon, I do hope the Scratch programmers consider this. Thanks for your thoughts.
+

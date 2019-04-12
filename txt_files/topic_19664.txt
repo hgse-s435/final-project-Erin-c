@@ -1,0 +1,6 @@
+I'm working on signage material for the Scratch Conference where all rooms will be coded with a sprite. Want to use the .svg files, but unlike in Scratch 1.4 we don't have direct access to the media files. I found a workaround but it's time consuming (import teh sprites in a project, download the project, with a text editor pull out the svg bits, have a look at the result and give it an appropriate name). But hey, I'm lazy and maybe I'm not the only one. So if soembody can pont towards the files (or supply them on request) let me and the others in this discussion know. At the moment I'm looking for wizard girl wizard pico nano tera giga gobo duck butterfly cat parrot
+
+You should be able to download the svg files for any sprite in the library by doing the following: Import the sprites into a project Select the sprite and click on "Costumers" Right-click on the costume and select "Save to local file" (the svg source will be downloaded)
+
+Thank you, this is the hint I was waiting for.
+

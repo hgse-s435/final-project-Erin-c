@@ -1,0 +1,2 @@
+Article on Julia Set for MagPi
+

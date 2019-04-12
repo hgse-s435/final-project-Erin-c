@@ -1,0 +1,26 @@
+Hi all. Its great to see this Web site. I am considering using YouTube to host a series of Scratch tutorial screencasts (created from ScreenFlow on a Mac). I have one video there now which gives a quick overview of my teaching with Scratch, Alice, Python and Pygame. How do you publish your tutorial videos? Care to share any details such as software, screen resolution, video codecs used, etc.? I find so far that the quality on YouTube (even at HD) is not as good as the QuickTime mov file I produce from ScreenFlow, but I can read the Scratch blocks pretty well. Dave Briccetti Lafayette, California
+
+Hi Dave, We worked with an intern last semester who started working on a series of video tutorials for Scratch. He posted them on YouTube, if you'd like to check them out:http://www.youtube.com/user/SHEAH909 I'm pretty sure he used Adobe Captivate to do the recordings... I recently purchased ScreenFlow. What do you think of it? Thanks, K
+
+I just watched a few. Very good. Ill tell my students about them. So far I think ScreenFlow is excellent. I havent done much fancy zooming in and out and things. Itend to make large videos, and do it in one take.
+
+As the Young Programmers podcast is getting more popular, Im starting to make the ScreenFlow screencasts smaller, but zooming in on the relevant bits. Video files are much smaller now. Ive also learned the right QuickTime encoding settings (framerate, keyframes, etc.) for these types of screencasts, and that makes a huge differencet too.
+
+Ah, that's great! Would you be willing to share the encoding settings? :)
+
+Sure. Iuse H.264, unless I am supporting an older version of QuickTime (I didnt anticipate making the videos this summer and so didnt upgrade the QuickTime in our lab), in which case I use MPEG-4. If there is no video (a talking head, for example) in the screencast, then a frame rate of 10_15 is good enough. Key Frames: Automatic. Frame Reordering: True. Data Rate: Automatic. Compressor Quality Medium to High, and Encoding: Best (Multi-pass). Audio: Mono. I sometimes lower the sample rate to 22.05 kHz (especially if its just human voices). Mono, unless there is other than a single person talking on one channel. I look forward to seeing your results. Dave
+
+I did a little refactoring and moved my explanation here: http://briccetti.blogspot.com/2009/08/quicktime-encoding-settings-for-my.html Now to delete my other two replies. Not sure I can.
+
+I've used snapz Pro for years and it works great. Have you tried Jing http://www.jingproject.com ? It works very nicely, let's you save to a Screencast server or your own hard drive and, here's the best part, it's free. This coming semester I'm going to put it on all the machines in my lab and have the the kids create their own instructional videos for each other. This will be especially cool for kids to demonstrate their Scratch ideas to their classmates. Michael Smith Ann Arbor Open School
+
+I have scratch videos at http://www.redware.com/scratch and use camtasia and camstudio to create them. There are tips at http://www.showmedo.com or on how to create these videos. I initially converted to SWF formatwhichruns well on a website but unfortunately does not upload that easily to youtube. So am looking again along the lines of the tips here..http://www.youtube.com/watch?v=Kiug3H3c4gk
+
+Thanks for the camtasia perspective. I hope you'll share all the great resources you've developed!
+
+Thanks for the tips! I just finished a series of short video tutorials for ScratchEd, based on your advice.
+
+I've put together two short videos that demonstrate how to create simple animation very quickly. More will be coming soon. Please feel free to use them if you think they might be helpful in you classes. http://rickashby.com/moodle/course/view.php?id=3 rickashby.com/moodle/course/view.php
+
+Thanks for sharing your moodle and videos. I liked the rapid review at the end. You should add these videos and the moodle as a resource!
+

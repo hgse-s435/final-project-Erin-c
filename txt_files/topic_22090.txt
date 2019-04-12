@@ -1,0 +1,2 @@
+Hello, I'm going to start the second part of a Scratch laboratory for high-schoolers. I now want to introduce some connection with robotics. what's the most suitable hardware to choose? is WeDo suitable for high-schoolers? Thank you.
+

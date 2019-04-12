@@ -1,0 +1,30 @@
+Hurray to Karen B. for getting Scratch Ed up! I'm interested in seeing how others are using Scratch in schools. I've found a couple places where teachers have a school or class log-in and collected examples there or in galleries, but it is hard to sort them out from all the other users. Would folks be willing to share such sites here? Here is mine from Expo School in St. Paul, MN: http://scratch.mit.edu/galleries/view/29.
+
+How do Icreate such a school-level site? I'm trying to create a gallery for my students to contribute to, but Idon't know how to tell the kids to find it. Is there a 'gallery search' function? M
+
+The Scratch search (located at the top of the page, to the right) can be used to search for galleries. For example, I'm a teaching assistant for a course this term. I set up a gallery that I named MAS.714 2009. The participants can search for MAS.714 2009and filter or refine the results to include only galleries. (The options are for refining by users, forums, projects, galleries, or documentation.) Hope that helps, K
+
+Iforgot one more example - we had math students do velocity problems in Scratch. It was extremely relevant because their problems could actually contain motion!
+
+Ihave a couple school-related sites. In my previous district, we setup an introductory course to be used across schools through our course management system, Moodle: Introduction to Scratch (select "Login as Guest"). I also posted a couple student projects in my account: http://scratch.mit.edu/galleries/view/28288 I'm in a different district this year and I'm hoping to get galleries set up soon for each of the two schools I work in. A few of the integrated Scratch projects we tried to do were mostly centered around Social Studies and storytelling. For example: - Create a project retelling part of a Greek myth, including historically accurate drawings and at least 2 narrations. - Create a project describing an event or artifact from the Leakey site. It must include at least 2 sprites. http://scratch.mit.edu/projects/wbtech/307482 - Create a projecting showing some aspect of Egyptian life, using historically accurate sprites. Another student created his own Scratch project as a commercial for an assignment in another class: http://scratch.mit.edu/projects/wbtech/582728 As another link between school and Scratch, Istarted a Scratch Club last week for grades 5-8 at one of my schools. We're going to be meeting once a week after school for a little more than an hour until mid-December. Since yesterday (our first meeting), I've seen two of the participants sharing Scratch with their friends during the day - exciting stuff! I'm hoping to have some sample projects from the students to then bring to their teachers as concrete, relevant examples of how their students are using Scratch. Ingrid
+
+What's the link to the Moodle site? Thanks! K
+
+Bilfen Primary Schools from Istanbul/Turkey has setup a gallery 2 days ago. Here is the link: scratch.mit.edu/galleries/view/61102 Regards, Nevit Dilmen
+
+Hi. I tried to visit the gallery and received this message: The page - scratch.mit.edu/galleries/view/61102 - cannot be found. Try again later or search for something else: Can you check please? Thanks. Best regards, Ai Boon
+
+Sorry it seems they have deleted the gallery. I setup a new one. http://scratch.mit.edu/galleries/view/61565 It includes projects from Bilfen primary school Istanbul students. Nevit Dilmen
+
+Thanks.
+
+Hey all, I'm working with 4th graders and Scratch and wondering how others might be addressing the issues around setting up student accounts so that kids can participate at the wiki. Last year, just as school was ending I had a child come up against some--not obscene--but certainly rude comments about a posted project. His parents stepped in, deleted his wiki account, and nailed me with some highly critical accusations for putting their child at risk for negative comments. Realizing that helicopter parents exist, what are other educators doing? Currently I am posting only certain student projects in a school account, but that seems counter to the spirit of the wiki sharing...Just opening up the topic for discussion. As I type this I'm thinking I'll workaround by setting up accounts linked to the gmail numbers-appendedworkaround teachers originally used for Voicethread...Time consuming, but pretty "safe." Any other suggestions? Thanks in advance, Scott
+
+Hi Scott, You might be interested in this related thread:http://scratched.media.mit.edu/discussions/how-do-i/set-scratch-server K
+
+I have some geometry specific programs as well as student samples here: http://scratch.mit.edu/users/aftaraga
+
+We use a plugin for our Moodle VLE to allow students to publish the Scratch games that they create in ICT lessons and give / receive feedback using a forum with their scratch games embedded. http://scratched.media.mit.edu/resources/scratch-filter-moodle
+
+I have a photo album with project picks and the urls on my facebook page: www.facebook.com/pages/STRETCh-Instructor-Striving-To-Reach-Every-Talented-Child/172282802807283 I am continuing to post more every day! I also have a K-8 programming playground website and blog with resources: sites.google.com/a/stretchinstructor.com/k-8-programming-playground/ computationalthinkingforall.blogspot.com/
+

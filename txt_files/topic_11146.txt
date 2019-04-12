@@ -1,0 +1,6 @@
+Hi, I was working on a grant proposal this weekend for a potential after-school workshop that would make use of Scratch. As I requested feedback from colleagues, someone told me about the "Computer Clubhouse" project, with which I wasn't familiar. I came to find out that the Computer Clubhouse was begun by Mitch Resnick, which was quite the happy coincidence! Can anyone tell me if there are any Computer Clubhouse (or similar) groups that emphasize Scratch as a/the primary digital tool? Thanks! Larry Gundlach
+
+Hi Larry, You might be interested in reading this article about Scratch at a Computer Clubhouse (http://web.media.mit.edu/~mres/papers/sigcse-08.pdf). Claudia Urrea (http://scratched.media.mit.edu/user/147) has been very active in promoting Scratch within the Computer Clubhouse network. It's also being used at Boys & Girls Clubs, as part of the Game Tech activities. Hope that helps, K
+
+Thanks, Karen. The article is helpful and I'll keep Claudia in mind as a future contact. Larry
+

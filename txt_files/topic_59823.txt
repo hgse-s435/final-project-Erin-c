@@ -1,0 +1,4 @@
+Hello Everyone With the 3.0 there are four ways to get a new sprite or backdrop. A new one is a random selction. But I am wondering about the ability to use the device's camera to take a picture. It was one of the four choices in 2.0. Will "Camera" be included in 3.0 when it goes live on January 2nd or is it being discontinued? or replaced? If so, with what? Thanks
+
+Hi Elizabeth! This is a great question.I'd recommend also posting this question to the Teaching with Scratch Facebook Group, where we are slowly migrating our discussions. Best, Alexa
+

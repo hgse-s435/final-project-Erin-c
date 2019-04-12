@@ -1,0 +1,6 @@
+Hi. Iknow how to do this on Mac, but Ineed to do it on a PC now. Please help :) PeterR
+
+create the defult sprite you would like save it in the costumes folder as default.sprite .. this should be the same process no matter the os on windows the folder is normally C:\ ProgramFiles\Scratch\Media\Costumes
+
+thank you.
+

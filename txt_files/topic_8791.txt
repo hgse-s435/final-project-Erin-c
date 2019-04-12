@@ -1,0 +1,2 @@
+We've introduced a small change to the front page. Previously "New Discussions" only listed new discussion threads, not any new comments on threads. We've changed it so that you'll see active discussions - both new threads and the threads that have been most recently commented on. Please let us know if you have any suggestions, requests, or comments! Sincerely, Karen (on behalf of the ScratchEd team)
+

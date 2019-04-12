@@ -1,0 +1,6 @@
+I have two questions related to very simple projects: 1. http://scratch.mit.edu/projects/41994038/#editor Here, my question is about why the x & y coordinates are different for each sprite, when they are occupying the same space on the stage.... When I put the same numbers in they were separated, and I had to fiddle to get them to overlap as they have. 2. http://scratch.mit.edu/projects/29254074/#editor Here, I advance a little on the previous project. I want to create a heart-beat effect. Here, the question is about why merely changing the size of the sprite would cause it to change position.... Thanks in advance for any help understanding what appears to be very odd behavior! rsmyth Stoneham, MA
+
+In the Sprite Editor set the Costume Center (cross hair button top right) to the center of the spriites (rather than the offset position currently used). They should then respond as expected without the need to set the X and Y postions. See... http://wiki.scratch.mit.edu/wiki/Rotation_Center
+
+Thank you! That did the trick.... Is that part of any beginner's tutorials that I overlooked? Are there other simple but necessary little things like that that I might need to know (that you can think of)? Thanks again. Richard
+

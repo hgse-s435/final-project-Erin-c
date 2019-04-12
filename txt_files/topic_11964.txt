@@ -1,0 +1,14 @@
+Insert a scratch project into a ppt,Now I can do it,but too complex,if there have someway more simple?
+
+My way : First , distributing a scratch application to a local webpage. Second,browsing this webpage with Ppt. But "second" is too complex,It must use VB App Script, general user can't do it,If there have a way more simple......
+
+There isn't an easy way (that I know of) to have a "live" Scratch project in a PPT presentation. What I do is to use screen recording software to make a video of my interaction with the project and embed the video in the presentation... K
+
+Thanks for your answer very much ,karen ! I can play a Scratch project in powerpoint. I used the PPTController ToolBox (VB Application------> Webbrowser), butit is too complex, In MAINLAND CHINA, Most of the teachersare usingMACRO FLASH to make their teaching animation, Thenthey play these flash animation in a PPT, these PPT are their teaching courseware I hope that our teacher can use SCRATCH to make their Teaching animation, However?Allthework must be very simple , becuse general user cann't program VBA I can read english very well , but Writtingenglish is very limited , Do yousee me? lp
+
+Yes, I totally agree. VBA is too involved for what most people want to do. Unfortunately, I don't know of an easier way, other than making videos of projects.
+
+Thank you very much. Very happy to communicate with you
+
+A super simple way to insert a sb to a ppt, And related files aresharedin ScratchED Resources
+

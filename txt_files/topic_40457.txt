@@ -1,0 +1,4 @@
+I'm very close to having my littleBits working with ScratchX but so far no go. Does anyone have it working who would be willing to help me troubleshoot? I have lots to offer in exchange but I'm really stuck now!
+
+I have made it work in the past. What's going wrong for you?
+

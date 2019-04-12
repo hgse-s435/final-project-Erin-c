@@ -1,0 +1,2 @@
+Hi there! I was wondering if anyone has had any experience transitioning students from Scratch to App Inventor? The layout looks very similar so I don't imagine it shoud be too shocking for the students, but it would still be great to hear everyone's experiences. Do you guys have any recommended activities? Were there any pain points? What projects, tutorials, or worksheets did you use to start off? Thanks!
+

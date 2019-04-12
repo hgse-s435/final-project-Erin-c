@@ -1,0 +1,14 @@
+I've posted about building a simple and cheap balance board that can be used with Scratch (using the PicoBoard as an interface). The link is http://g4classes.com/learningforward/?p=100 My goal is to motivate more kids to be involved with Scratch by providing a novel input device. I'd be interested in any opinions you might have.
+
+Ah, this is totally awesome! I can't wait to see your next post about the projects you created!
+
+Thanks Kent for sharing this superb idea. Its a little bit of WeeDo tiltsensor, but much larger... :)
+
+Karen, Thanks for the comment and the encouragement. The first project I created was totally simple - but was mainly used to verify the operation of the balance board and to see if one could use it toactually control an on-screen sprite. Here's the link to my blog post:http://g4classes.com/learningforward/?p=108 I hope to create something a little moreinteresting for the next project. (There is some good news about such a simple project. I ran a Scratch class last Summer and believe a project of this complexity could easily be done by some of the 3rd graders who were in the class. Maybe the balance board would be useful in a kids' Scratch class.)
+
+Thanks so much for the update. I thought the project was great -- easy to understand and mapped really nicely to the user interface you've developed. I particularly enjoyed listening to you narrate the project! http://www.g4classes.com/learningforward/scratch/segway1.swf Very, very cool... Thanks again, K
+
+Hi there. I have downloaded it to see if I can make one like it. Thank you for sharing. : )
+
+Karen, Thanks for the encouragement. The narration looks better(doesn't show the artifacts) at http://www.g4classes.com/learningforward/scratch/segway1.swf.html Not sure why playing the swf directly looks strange. Have a great day, Kent
+

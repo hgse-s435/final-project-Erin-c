@@ -1,0 +1,4 @@
+Hello, I wanted to teach some agent based simulation, and of course I'd like to study it before I go. I know StarLogo is specifically made for it, but do you know whether it's possible to use Scratch for the same kind of programs or not? Any help would be very appreciated. Best.
+
+We tried SketchUp for Making scenes for Scratch projects. It was not easy:(
+

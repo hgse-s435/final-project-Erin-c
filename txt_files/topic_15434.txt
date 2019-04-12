@@ -1,0 +1,2 @@
+I noticed that the flash player is not uploading projects at our school. Will support for Java end with version 2.0 or is 2.0 compatible with HTML 5? Thx
+

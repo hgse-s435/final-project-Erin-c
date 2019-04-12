@@ -1,0 +1,10 @@
+I would be happier if the Hat blocks in Scratch also had "mouths", like the conditional and loop blocks. That would better emphasize that the code below belongs to the block and would help a lot in my transition to Python from Scratch and BYOB.
+
+This seems to me a clever proposal. Is there someone that can see any drawback?
+
+Wouldn't it just add visual bulk? The fact that the stack of blocks under a hat block are stuck together already suggest that they are grouped. Perhaps I'm not understanding the proposal, but my initial reaction is that it would be a redundant visual.
+
+I guess (but I'm ready to discuss it) that the same would be true of a "forever" loop: everything behind it will be part of the forever, as nothing can be added below. So there would be no strict necessity of having the mouth. To me Anne's idea would make the behaviour of the "hats" more clear, as in Scratch "being attached below" means "this will be run before what follows" (and this is something that is certainly true for hats) but "being inside the mouth" means "this depends on what contains it" that is -at least to me- "more true" of hats.
+
+Stefano's thoughts and mine agree.
+

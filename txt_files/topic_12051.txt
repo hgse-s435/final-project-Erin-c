@@ -1,0 +1,4 @@
+Hi, I'm a teacher of 9-10 year olds and we're just beginning to use Scratch in the class. I was wondering if there was a way of sharing work in the class, maybe showing a childs work on the interactive whiteboard, without having to upload work onto the site and then downloading it on the class computer- maybe across teh school's network. Thanks for any responses. Alex Cerny
+
+Ithink that this classroom control software could help you: http://italc.sourceforge.net/ You can remotely control another PC in the same network, so I think that it shouldn't be a problem to show on the interactive whiteboard the project of a students by directly showing their PC. Let me know how this worked for you.
+

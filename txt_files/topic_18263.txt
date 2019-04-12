@@ -1,0 +1,24 @@
+In Scratch 2.0, will there be resources for teachers to manage a class of student logins. Will students need to create individual accounts, or will the teach be able to generate them? Thanks
+
+I'm wondering the same thing. Have you learning anything more about this since you posted?
+
+I have not learned anything. I posted this a while back though, so not sure if anything has been done since then.
+
+The MIT Scratch Team is planning to implement "educator accounts", hopefully by the end of this summer. You can read more about the possible specifications in this discussion from the Creative Computing Online Workshop that we just finished hosting. Hope that helps! Sincerely, Michelle, on behalf of the ScratchEd Team
+
+This us great to hear Michelle. Would there be the ability to create/change an overall School account as well as the Classes/individual students. What happens at the end of year/start new school term? Would like to select some/all students in a class and move to new class. Would there be the ability to create/change Studios to Open/Class/School?
+
+Is there any update on the Scratch 2.0 class management capability? I'm planning on getting students started with Scratch next week and would much prefer to be able to use 2.0 on the Web rather than being limited to 1.4 on the desktop. A related question: If I end up having students make their own Scratch accounts, can they later be added to a class roster in the upcoming class management capability? Thanks - this is really exciting and I hope it's coming along well!
+
+Has the ability to create educator accounts that can manage classes been added yet?
+
+Hi Robin, Not yet. The MIT Scratch Team hopes to have the feature completed sometime later this year. We will post an announcement as soon as we know a release date. Sincerely, Michelle, on behalf of the ScratchEd Team
+
+I will be looking forward to this when it's ready. -Jonathan
+
+Hi, I am getting ready to start with my Middle Schoolers and am wondering what the status of this is and is there an educator starter guide? I can have my students create their own accounts, but wondering how I can monitor and if there is any info designed just for Educators to get started? I am Planning on using your book Super Scratch Programming Adventure - it's for version 1.4 . . .will it still work with 2.0? Thanks for the help, Catlynnd
+
+Has a teacher mangagement system been added in Scratch 2.0? I have a bunch of teacher eager to get their classes involved in Scratch but not without an easy way to generate class accounts.
+
+Hi Catherine, You can use Scratch 2 without the educator accounts until it is setup. We just have the pupils download to their documents to save and upload from their documents to open. We have version 1.4 and version 2 of the Super Scratch Programming Adventure book. The main difference I can see is the slight changes in the interface. The sequence of adding the blocks etc, is the same from what I have seen. So yes you can use the version 1.4 of that book with Scratch 2. Hope that helps. Andy
+

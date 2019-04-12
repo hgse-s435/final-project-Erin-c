@@ -1,0 +1,8 @@
+Hi there. I have been asked by a friend how to download a Scratch program in Chinese. She tried changing the language to Chinese on a Scratch program that had been downloaded in English by her son. The instructions in the command blocks were the only things that changed to Chinese. I have been informed that she needs to download a Chinese program into her computer and then download the Scratch program. Is that the right way to do it? Please recommend a Chinese software program that she can download from the internet. Thank you. Bests regards, Ai Boon
+
+>The instructions in the command blocks were the only things that changed to Chinese. Yes, that's how Scratch works -- it can only translate the finite set of known blocks. (It would be very challenging to have Scratch translate all user-generated strings as well.) >I have been informed that she needs to download a Chinese program into her computer and then download the Scratch program. Is that the right way to do it? I don't know how to do it in an automated way. (As opposed to manually translating each string...) Maybe others have ideas about your proposal.
+
+Thanks Karen. I shall wait and see if any other scratcher can help me with this. : ) Ai Boon
+
+Hi, Karen. I wonder could the Canvas accept Chinese Characters? I could draw the sprite in the form of Chinese Characters in the year 2016 but it is no longer viable now. I have tried using the vector mode and bitmap mode, yet failed to do so. Could this feature be restored in the Scratch 3.0 version, please? Thank you.
+

@@ -1,0 +1,14 @@
+I have used Scratch with my AP class for the last 3 years; we study it for a few weeks because none of my students have any prior programming experience. Well, today my students just tore through learning the interface and were already modifying some of the example games, like Pong, figuring out random behavior and broadcasts completely on their own. I'm looking for more advanced projects for them to try. We don't need tutorials; we need problems to solve, or project specifications and rubrics, things like that. "Bouncing Music Balls" in the "Simulations" folder in the Examples directory is the direction I'd like to head. I think they can handle that. Thanks!
+
+Hi Laura, Just to see how much I could stretch the Scratch platform, I wrote a framework for doing Karel robot programming and I tried to implement the algorithms used in Computer Science Unplugged. You can download them from Google Projects at: http://code.google.com/p/scratch-karel/ http://code.google.com/p/scratch-unplugged/ Feel free to use any or all of my code, or just to use it as a source of ideas! I'd appreciate it if you tell me about your experiences. Moti
+
+Thanks so much! My students are working on final projects right now and they have done so much with Scratch!I plan to check out your resources above as well as BYOB. Thanks again!
+
+I found a great project specs page here: http://pages.cs.wisc.edu/~cs202-1/Assignments/project2 The students are following the project description here almost exactly. I did have to give them some help with the high score table, but they've been able to figure everything else out.
+
+Hi guys, I work for SparkFun Electronics. I recently posted an Arduino teaching tool I have been working on in my free time here: http://scratch.mit.edu/galleries/view/110387 It's a little complicated if you don't have experience with Arduino or Scratch or a similar product, but read the project notes for some quick instructions if you are interested. It is a ruff draft and I posted it in the hopes that other educators would understand the idea and download for further development. Feel free to use it however you like and please post any improvements to the gallery. Dedicated to educating- Linz
+
+Hello Moti, I've used your Karel Framework in an online lesson plan, Transitioning from Scratch to BYOB Scratch Using Karel The Robot. http://www.cteonline.org/portal/default/Curriculum/Viewer/Curriculum?action=2&cmobjid=284174&view=viewer&refcmobjid=264565. This past summer I worked in Capet Town South Africa with a group of 9th graders teaching them Scratch using your Framework, the students really enjoyed working with Karel. If you want I can send you some videos and pictures . Eugene
+
+Hi Eugene, Thanks for your interest in my work! A while ago I added an implementation of Braitenberg's robots in BYOB. This is a rather incomplete work with lots of room for student projects. Moti
+

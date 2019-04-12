@@ -1,0 +1,190 @@
+Dear Creative Computing 2011 Educators, We're thrilled that you're able to join us here at the MIT Media Lab for this four-day workshop. 395 educators applied for the only 40 positions we had available, so we're going to do everything we can to share what we're doing on ScratchEd. The prompt for this first session's reflection is: What do you hope to accomplish during your Creative Computing workshop experience? Sincerely, Karen, on behalf of the Creative Computing organizing team
+
+I hope to learn new techniques for using programming to teach computational thinking. I also hope to meet interesting people who inhabit the same world I do and find out how they deal with it.
+
+I want to connect with other Scratch users and be able to share ideas. My hope is to be able to bring new and fresh ideas back to my classroom.
+
+I am hoping to become more comfortable with Scratch in general. I would love to have time to develop project ideas and resources that I can use with my 8th graders. I am interested in networking with like-minded educators in order to share resources, tips, etc. in the upcoming year.
+
+I want to develop ways to share Scratch with high school teachers that teach core courses. I want to meet other people who enjoy computer programming and want to share their interest with students.
+
+Iam looking for an introductory programming language to teach at the middle school level. Alice is one possibility, Scratch is another. I am also looking for a community totrade andshare ideas.
+
+I hope to learn and better understandScratchand than share this new information with my students. Also thisan excellent opportunity to meet and interact with fellow educators.
+
+Be inspired.
+
+I am hoping to learn new techniques to incorporate into my Java (video game design) course at the high school level. I would also like to be able to teacher the middle & elementary school teachers how to use scratch so they can begin to expose young students to programming and computer science.
+
+I currently use scratch with my grade 8 computer students. I hope to take it "to the next level" by guding students through more involved projects like visoe games, storytelling and interactivity. I would also like to find some more advanced techniques that I can use with my high school CAD students.
+
+To meet other people working with scratch. To help advocate for Scratch in elementary schools To start creating Scratch programs that demonstrate how Scratch advances Computational Thinking
+
+I just used Scratch for the first time this summer for a computer camp for middle schoolers and it was a positive experience. I want to learn more about using Scratch with young people, and how I can inspire more students to become engaged with computing.
+
+Iwould like to learn more about integrating Scratch into elementary and middle school and hoping to integrate it into my district technology curriculum.
+
+I teach math to 7&8th graders. I have some students who do not have the organized thinking needed to be successful in math and I see Scratch as a way to help them develop some of the "habits of mind" needed without the panic and defeat these students tend to feel about math. I did a Scratch day last year after a one day workshop and it was really illuminating but I don't have enough Scratch-skill yet. So I'm here!
+
+I want to walk into school in September with some specific applications to support ELA, Science and possibly Social Studies content standards.
+
+I hope to feel comfortable to teach (and learn from) my students to create their own movies and games. Ideally I would love to learn how to use Scratch to program Lego Mindstorms.
+
+Would like to integrate game design and programming skills in the school I work in NYC and would like to make connections with like minded colleagues in the field of educational technology. Right now, only a handful of students are learning how to program using Sratch in our after school program. My hope is to learn these skills so that I may teach Sratch with more students. Very happy to be here and looking forward to wonderful conversations besides some cool programming!
+
+My hope is to use the knowledge that I will acquire from this workshop and implement it into my school districts computer applications curriculum.
+
+I hope to use Scratch with my 8th graders this year. I love meeting other teachers and sharing ideas.
+
+I hope to learn enough about Scratch to teach it, and learn from others here how they use it with students.
+
+I am hoping to learn some elements of scratch that I haven't figured out myself (I'm self taught) and hope to come back with more ideas for class integration
+
+I hope to become proficient with Scratch so that I can use it to introduce programming concepts to my 7th and 8th grade technology students. I want to replace the current application I am using with Scratch. I'm looking forward to coming away with some specific projects that I can use in class.
+
+I want to become better at using and teaching Scratch to 2nd through 4th graders. I also want to create activities for 1st graders whichintroduce the keyboard and offer mouse practice. I look forward to meeting a new community of Scratch users.
+
+I hope to meet other educators whom are interested in teaching and learning through computer programming. In addition, I would like to learn more about collective challenges in teaching CS, some approaches for addressing those needs, and potential forms of support for other educators with similar experiences.
+
+I want to learn different ways to present Scratch to elementary students that will spark their imagination and excite them about using Scratch and learning different technology skills. I hope to learn and come away with ideas on different projectsthat 2nd, 3rd, and 4th graders can develop.
+
+I want to learnScratch to use it in my HS Comp Sci club, then possibly introduce a new CS courseas well.
+
+I would like to be full of Scratch knowledge and be ready to share with my students on day one of classes in September. I've also have already been asked to conduct professional development workshops in Scratch for my colleagues in business education on the state and national levels. Yikes!!
+
+I need an intensive session with Scratch in order to increase my confidence and creativity, therefore becoming a stronger instructor. I hope to gain new knowledge to share with students who are already creating in Scratch. I also wish to use Scratch as a media tool, and to collaborate with other teachers.
+
+Hello Robert! I currently use Alice at the 9th grade level and the students LOVE it! I'm not sure my middle level students are mature enough to handle it, but I'm sure your students are. I'm here to bring Scratch to my middle level students!
+
+I hope to learn more about how Scratch can be employed in the classroom, network with other Scratch educators, and learn about opportunities toward future Scratch professional development. I know the basics about Scratch and hope to learn beyond the basics.
+
+I'm fairly new to Scratch. However, from what I already know about it, I think it will make a great fit for my third graders as part of our school district's engineering initiative.
+
+Iused Sratch with first through fifth graders. We using the introductory level video tutorials. Students learned at their own pace. My goal is to make stronger curriculum connections and using the advanced features of Scratch. Iwould like students to see the math concept without having learned about it in math class. For example this year Iintroduced students to action created from using negative numbers - how an object can move to the left (negative numbers are on the number line left of zero). I would like students to learn about variables. Also, Iwork with an after school robotics club, Iwould like to connect Scratch to Lego robotics if possible. Thank you. Eleanor
+
+I would like to become more proficient at Scratch and learn different ways to integrate it into our elementary curriculum.
+
+I wish to find out more about the scratch programming language and see how I can implement it into my HS curriculum.
+
+I look forward to meeting "kindred spirits" -- and exploring new ways to help children learn to think creatively, reason systematically, and work collaboratively.
+
+I am looking forward to combining self generated art work and photography with Scratch possibilities. I am also interested in experimenting with the Pico board and external interfaces.
+
+I hope to learn more about Scratch and how I can integrate with a 6th grade collaborative project at my school where the kids already use Scratch and are doing a project integrating Art they create inspired by what they see of impressionistic work at the MFA and described through the language they are studying - either French or Spanish. I'd like to know more about the Music components in Scratch, and I just want to be challenged and have fun!
+
+I hope to learn enough about Scratch so that I can introduce it into the 8th grade computing cycle at our school. I would like to be able to develop a creative project before the end of the workshop using Scratch.
+
+I hope to introduce scratch programing in my school for 5th and 6th grades. My classes are not leveled so I need ideas that will include Special Ed and Honors students in the same classes.
+
+My department is currently updating the Middle Division and Introductory Computer Science courses. I hope this workshop will provide ideas and inspiration that will help with these curriculum decisions.
+
+Ihope to get some innovative ideas for the use of SCRATCH in S.T.E.M. units for projects and alternative assessment. I'd like to learn how to embed SCRATCH into the unit and make it meaningful, rather than adding technology for the sake of adding it.
+
+Scratch is introduced at the elementary level in my school district. I would like to build on my basic knowledge of Scratch to work with Middle School Students in the different core curriculum areas.
+
+I am excited to learn more about teaching and using Scratch in the elementary school, so my students get interested in programming!
+
+I totally support Vicki's goal of advocating for Scratch. As a new board member to CSTA (Computer Science Teacher Association), Computer Programming in Elementary Education is something that I feel very strongly about. I look forward to working with Vicki and other teacher's towards achieving this goal.
+
+I am looking forward to connecting with other educators and learning new programming techniques which I can then share with my students. I am also hoping to develop lessons/curriculum that I can share with other teachers at my school, which will demonstrate the power of Scratch.
+
+I would like to learn what other teacher are doing in scratch so that I may improve my portfolio.
+
+I'm also interested in the PicoBoard. Let's try to connect this week and explore possibilities. Larry
+
+Better late than, I always say. I am still new to scratch but I think I am going to use it to help me create a project on 'Goal Setting and Self-Esteem. I have developed a whole program that is related to this issue. I will try to keep up with the rest of the class:-)
+
+I am also interested in programing Lego Mindstorms. We might be able to get a group together on the independent work afternoon. I look forward to working with you.
+
+Kathie, I definitely want to share info with you. I taught comp sci as a business department teacher (and I used Scratch and Python)and am now the hs instructional tech specialist as well as business dept chair. I am also working on PD in Scratch for HS teachers.
+
+Maria, Have you seen theHarvard CS50: Introduction to Programming and Scratchon the ScratchEd Resources Page? It's a great example of introducing programming.
+
+I don't know that kids need to be taught how to think creatively. Scratch allows them to express their creative thinking in ways that were not possible before though. Along the way they will learn about logic and problem decomposition.
+
+Joanne, It's nice to see another elementary teacher. So often, things like this are thought to be for middle school and up. We've used Scratch a little with our elementary students in Suffern, NY and they pick it up so fast. I look forward to getting some great ideas for our little guys.
+
+Eric I think it's great that you want to share Scratch with your students. Elementary students will love it!
+
+Scratch can be another vehicle for demonstrating what you have learned, like presentations or a word processing document (see http://cast.org/udl/index.htmll). The problem is where should the student learn it? Where do they learn word processing or presentations? Do you have the time to teach Scratch in an ELA course? Or do you collaborate with other teachers to have cross-curricular projects?
+
+Larry, I was not familiar with the PicBoard. Thanks for mentioning it! I've already learned something new. Sandi
+
+I completely agree with you Gilberto. I have found the best way to learn is to collaborate with others and discuss different ways to educate
+
+I'm very interested in hearing about your idea...my school has an advisory period built into the schedule (7/8 grade) and I want to make the time COUNT.
+
+This year Iam revamping the entireelementary school technology curriculum K-5 and training new staff, so I would love to connect with you on this. Iam more familiar with middle/high school.
+
+Elizabeth - I am also interested in Scratch projects for elementary students! This will be a good way for us to network with other educators. ~Andrea
+
+Hector, I teach a computer programming course using java and I transformed the course into a video game design course (2D design of course). Ifound a great book that helps me accomplish this. By the end of the school year, kids are making Pac-man, pong, Tetris, etc. We should meet this week and I can show you the book.
+
+Ernest, Your project is intriguing "Goal Setting and Self-Esteem" with elementary school. Iwould be interested in how you would incorporate Scratch. Would you use social interaction behaviors (facial queues, body language, etc)? Thanks, Eleanor
+
+Although I teach CS, I am also interested in combining art work with Scratch. I think it would be a great way to get non-techy kids (especially girls) interested in computing and its possibilities.
+
+I introduced Scratch to a 6 grade computer explorer class. Our classes are not leveled either so about a quarter of the class was on an Ed Planif you want some ideas, I would be happy to discuss. (although, Ionly just started in the 4th quarter).
+
+I would love to try the Pico Board too, possibly write a grant.
+
+I teach 7th thru 10th grades. I am hoping to use Scratch to teach programming concepts. I'm looking for any kind of curriculium/lesson plans.
+
+You are too humble. My expectations for you are high!
+
+Patrice, This is what I would like to do too and also get the 7th and 8th grade students and teachers at my school to use Scratch rather than just PowerPoint for their projects in the core curriculum areas.
+
+I agree with you. I am always looking for new ideas to increase the types of projects to have my students create.
+
+When I used this with my grade 5 inclusion class, it was an opportunity for my kids on IEP's with reading and language disabilities to shine. One girl, who is on the very low end of the spectrum for comprehension, etc. and would fade away into the background if I let her, was the star who was the go to person for the other students. Does Robert Gardner have a new intelligence for Technology?
+
+Debbie, Scratch is very new to me and I too would like to learn more about the Music components in Sratch.
+
+Have you seen Scratch tutorials? Scratch provides great video tutorials that you can use with your students, as you learn together.
+
+@ Larry and Sarah....what is a PicoBoard? I am going to have to look that up.
+
+I didn't know that was possible! I started using Lego Mindstorms last year and would love to talk to you about this.
+
+Joanne, Sarah and Sandi-- I'm also an elementary teacher (2/3 multi-age) and look forward to talking with you and others about using Scratch with our students. Larry
+
+Hi Gilberto, I want to do the same as you. Last year Iasked teachers what they were doing in class so that Icould incorporate their lessons into my technology classes. Iwanted to specifically use Scratch for the 3rd grade and Icouldn't figure out what to do? So I hope to get ideas as well as resources to find them. Good Luck
+
+Have you read Gardner's latest, "Five Minds for the Future?" His "Creative" and "Synthesizing" minds are definitely exercised with Scratch.
+
+The actual teaching of the program only has to really happen once. I have done it as part of a final project for a unit. I do the same for Powerpoint and all the other programs we use. Just embed the teaching of the program into the schedule of the unit plan.
+
+Exactly, hearing what others are creating, will most likely trigger some of my own ideas.
+
+There is no doubt that kids start out with incredible curiosity about the world and a desire to experiment and try new things. But Ithink that everyone (from early childhood through adult) needs to continue to develop their capacity for creative thinking and expression. Ithink we can all learn to become more creative thinkers -- and, as you note, develop new ways to express ourselves creatively.
+
+Sarah, a colleague at my elementary school came to this workshop last year. She's a tech teacher and after taking this class she decided that the projects she was doing to support the classroom curriculum using PowerPoint were going to change. Now most of those projects are done through Scratch. Debbie
+
+Thank you Janet!
+
+Janet, It will be great to meet you and discuss our fields - it sounds like we are mirror images - business and instructional tech specialist! Let's make sure we find each other! Kathie
+
+Hi Joanne, Iteach technology and have used Scratch with grades 3 - 8 and find that it's not too difficult for the lower grades and still challenging for the older students. Ias well am looking forward to getting ideas from others.
+
+Hi Christian, I am hoping to further expand Scratch in our district technology curriculum and hopefully use it to integrate curriculum from science and social studies. Specifically, for elementary school children.
+
+Hi Christian, I am hoping to further expand Scratch in our district technology curriculum and hopefully use it to integrate curriculum from science and social studies. Specifically, for elementary school children.
+
+Eleanor, I'll definately seek you out. As a newbie, I'd love to see more of the possibilities of teaching and using Scratch to reinforce the grade level curricula. It's so important to engage the students and "sneak" in the learning.
+
+Hi, Janet, Our school will also be re-writing curriculum for the middle school and high school CS classes. I am hoping to be able to build Scratch into the new curriculum. Best of luck with your curriculum re-write. Mayra
+
+It would be great to see the project you develop. We like to start the elementary projects in scratch so the middle school students can build on their early skills. I have been trying to work with our art teacher to develop a cool art based project for our elem students.
+
+Scratch is perfect for 8th graders. I only meet with my 7th & 8th grade computer students once a week, so I'd like to introduce a basic lesson and hope that they continue the work outside of class. Maybe we could revisit ongoing projects throughout the year. I think more opportunity may be in our after school media club. By sharing our projects online, students can access our samples, and then take it where they want.
+
+I am not a math teacher, but I share your goals related to thinking skills. I wonder how you will make students aware of the connections to math. I also share your goal in having more skill in Scratch on my own. I am certainly comfortable to not know everything and let students discover answers to their own questions independently, but I still feel I need to have enough background and skill to be a resource for my students. -Jennifer
+
+I have been trying for a while to incorporate what the classroom teachers are doing in there classes into my technology class, I have had some success, but more with the students than the teachers. I would love to hear what luck other teachers have had using scratch in coporation with core subjects.
+
+Wouldn't that be wonderful! Some how we need to convince them that PowerPoint is not the only way to do things!
+
+Hi Joanne. Iwould love to be able to do a collaborative project with my school's art teacher, so I would be interested in finding out what type of projects you are working on,
+
+Now that we're on the last day...has this idea become clearer to you? If so, what do you have in mind?
+

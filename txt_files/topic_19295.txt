@@ -1,0 +1,12 @@
+I've recently remixed the Scratch 2.0 Starter Projects, translating them into Portuguese. I'm wondering whether there is some way to make these translated starter projects more visible for Portuguese speaking starters.
+
+Could somebody please answer? :-)
+
+Hi Manuel, I'd love to feature these on ScratchEd! Would you be interested in sharing the projects as a new resource? One way to make them more visible to Portuguese speaking Scratch educators is to tag the resource as Language: Portugus when creating the resource. Please let me know if you have any questions and thank you for sharing the fantastic news! Sincerely, Michelle Chung, on behalf of the ScratchEd Team
+
+Thanks! I've added the resource:http://scratched.media.mit.edu/resources/projectos-de-arranque-para-iniciados However, I would like Scratch users to be aware that the studio exists, not only ScratchEd members. Do you have language-specific featured studios? It might be a good idea to have them. Perhaps language specific stuff could be delegated from the Scratch Team to local teams of voluntaries.
+
+I agree that it would be great to spread the word more broadly about this resource. I posted a link in the latest ScratchEd weekly roundup. I unfortunately don't know about language-specific featured studios -- you could try posting something in the Translating Scratch forum or asking the Scratch Team about thatat help@scratch.mit.edu. You might also be interested in connecting with Teresa Marquez, who has coordinated the creation of EduScratch in Portugal. Thanks, M
+
+Thanks, Michelle! I knowTeresa and her excellent work. :-) I've also left a comment in the Translating Scratch into Other Languages post in the forum you suggested.
+

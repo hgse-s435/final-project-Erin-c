@@ -1,0 +1,16 @@
+I'm teaching Scratch in my 6th grade computer class. The kids love it and are eagerly building the Fish game from the redware site. They will eventually design and build their own games. Does anyone have a rubric they've found successful for evaluating the games? Iwould like to put it out there as they start so they have some means to measure their progress. Thanks in advance, Bob in Lancaster, PA
+
+I recently learned that Karen Randallhas been working on assessment and evaluation documents with a member of our research group, Natalie Rusk. So, maybe Karen R. has some concrete artifacts to share? What aspects of game development are you interested in evaluating, in the context of the 6th grade computer class? Thanks! K
+
+Hi Karen, and thanks for replying. I'm still kind of thinking it through. However, here are some of my thoughts so far: Game design -- playability, scoring, graphic appeal, too easy/too hard? Programming - naming of objects, "elegance", use of advanced concepts I'm sure I'm missing something, but it's a start. Thanks again! Bob
+
+It might be nice to have peer reviews for some of the game design elements, such as playability. I also sometimes like jointly negotiating rubrics, asking what parts of the process the participants/kids/students think are important. K
+
+Good ideas!
+
+Natalie on the design team asked me about assessing Scratch, so with her help I started thinking about rubrics for projects and how assessment applies to Scratch in general. I will post a draft of a rubric at the resources tab. Getting feedback about its usefulness or other assessment needs would be very helpful. Karen R.
+
+Here's the link to Karen R. and Natalie's rubric.
+
+Thanks for the Rubric Karen. It is not exactly what I'm looking for but it sure points me in the right direction. My grade 6 and 7 learners have just completed their team projects (designing a maze game with all original sprites). Now I need to grade them not only on their projects but, also individually in an exam type set up. I have 50 minutes to lay down the rules, evaluate their understanding of Scratch and mark it all. Many thanks, GW. Port Elizabeth, South Africa.
+

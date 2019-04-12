@@ -1,0 +1,104 @@
+Hello from the MIT Scratch Team! Were continuing to develop Teacher Accounts for Scratch, and we want to give you an update on our progress. Developing the Teacher Accounts has been more challenging than we expected -- and we know the delays have been frustrating for you. We now have a working prototype, and we will start alpha testing with a small group of teachers later this month. Based on feedback and requests we have received from educators using Scratch, we have focused on two main areas in this first version of Teacher Accounts: Account creation. Teachers will be able to create accounts for an entire class of students Classroom management. Teachers will be able to keep track of students work and participation on Scratch. Heres a sneak peek at some screenshots from the current implementation of Teacher Accounts... A teacher can have multiple Classes: Each Class contains Students, Studios, and an Activity feed: Each Class also has a profile page on Scratch similar to a Members profile page: We are excited to share this update with you. If you have any questions or suggestions, please add them to this ScratchEd thread. -- Mitch Resnick and Christan Balch, for the MIT Scratch Team
+
+Exciting news! This, along with the new record video feature, will really help out for classroom use. Thank you!
+
+Indeed, looking forward to this new feature. I currently use Google's CS-First platform and this would allow our after school program to go beyond what it offers. I've sent the team an email to apply to be part of the alpha test.
+
+This is VERY exciting. Thanks!
+
+This is great! Just applied for being a alpha tester.
+
+This is VERY exciting! Thank you! Andtherewill be an opportunity forthe teacherto leave comments on theprojectsstudentsof another color?
+
+So excited for this feature! I sent an email inquiring how to be an alpha tester! Thank you for continuing to work on this important feature.
+
+Fantastic news. Can't wait! Thank you
+
+I hope to be an alpha tester! Ruth
+
+So happy that you are making progress on this! It will be a huge help for me and for my students.
+
+Very excited to see this!
+
+I just applied as well. How long before you here back? I would like to get going in the next week.
+
+Great stuff! I can't wait for this to get up and running.
+
+Hi all! We are thrilled to see the excitement around Scratch Teacher Accounts! At this time, we have reached our maximum number of participants for the alpha test, so we wont be adding any new testers. Keep your eye on this thread for the release of Teacher Accounts later in 2016!
+
+I am SO excited for this to finally be a reality. Have been waiting 2 years and emailing a couple times a year to check on progress. I submitted to be an alpha tester the other day so hopefully it made the cut. Looking forward to having the students use Scratch as a tool in an official capacity with managed accounts (so hard to keep track of without this feature). Thank you for all of your hard work so far, and for keeping everyone posted! Hope to be part of a fantastic group of teacher alpha testers :)
+
+This is excellent. Thank you for your hard work and continued improvements in Scratch. As the tech teacher in a 3 year old through grade 8 school this is a great addition. I currently have been coding with scratch from grades 1 through 8 since the Hour of Code in December. My ability to add students to my "classroom" will help me keep track of their projects as well as help the students register their accounts. Thank you so much. Good Stuff!
+
+Wow. So exciting - this feature would really help take my teaching to the next level. Especially helpful with younger students that don't have an email account. I spend too much time dealing with login issues. I'd be interested in being a tester.
+
+I love being able to see all my classes in one place. Assessing their work is my biggest time hog so this would be helpful time wise and I think kids would get better feedback.
+
+This is great great news! Thanks all Scratch team for building that. Looking forward to test it!
+
+I absolutely love Scratch. Is there an update on the status of the alpha test? I am very interested in having my students use Scratch under a teacher account. I've been using Scratch in the classroom for the past year.
+
+Some of you may find this useful, I have been working with teachers using ITCH. It does have teacher account along with videos lessons and the ability for teachers to create their own courses. However, it is not free. (Full disclosure, my company has been working with ITCH and Code.org to support teachers teaching coding in classrooms).
+
+Thanks for all... I have two suggestions... It would be fine if teacher could see all the students' projects even the unshared projects. As I use scratch in robotics projects, it would be fine if teacher could see also students projects and all the scripts with special extensions... Alain
+
+I would love to be able to track my students. How can I get my name on the list to be one of the teacher able to use these features.
+
+Hi, Has alpha testing already started? Either way, is it possible to still participate? Do you know when this feature will be released.
+
+Hi there! Yes, alpha testing has already begun. At this time, we have reached our maximum number of participants for the alpha test, so we wont be adding any new testers. Keep your eye on this thread for the release of Teacher Accounts later in 2016! Thanks!
+
+Just looking forward to having this new feature. Thank u so much for your effort!
+
+Sawassdee Kha from Bangkok, Thailand. My students would be very excited about this new feature. Cant wait until next academic year. Thank you :)
+
+Will this be ready for next school year?
+
+Is it possible to know more about tests, as is not possible to have a "teacher account"?  Thank you!
+
+Hello, When will this be available? I am planning on using Scratch for a SUmmer program in about 3 weeks. I also have a ScratchEd account. I am hoping that I will be able to use the teacher account. Any chance it will be out that soon? Mahalo, Sami
+
+Looking forward to using the teacher account for my class!!!!! I just wonder if there is any function for me to give students comments on their projects?
+
+Hi there! We are hoping to release a public beta version of Teacher Accounts later this summer. Keep an eye on this thread for more news on release times :)
+
+Hi there! We are still in the process of alpha testing Teacher Accounts. At this time, we have reached our maximum number of participants for the alpha test, so we wont be adding any new testers. We are hoping to release a public beta test later this summer. Keep your eye on this thread for more news about release times. Thanks!
+
+Hi there! I'm not sure I fully understand your question. Do you mean to ask if you will have the ability to comment on a student project? If so, then yes! Teacher Accounts will behave similarly to regular Scratch accounts in this way, and you will be able to comment on students work.
+
+I am so excited about this! I'm going to add my voice to the other educators who asked this question: Any updates on teacher accounts?
+
+Hi Kate! We are still in the process of alpha testing Teacher Accounts at the moment. We are actively working on getting them ready to be shared publically.Keep an eye on this thread for more news on release times later this summer. :)
+
+So happy to hear this is coming out this summer! Keep up the amazing work, guys!
+
+That's good news. I assume that releaseday is some day at the Scratchconference in august? Keep up the amazingly good work!!
+
+Will this Definitelybe ready to use in the Fall? I need to know now if I should purchase a different paid program. If yours is ready to go in September and free I will be using yours!
+
+This is very exciting news. We plan to use Scratch next school year and teacher (parent) accounts and student (child) accounts will make it much easier to manage the process. Thank you!
+
+great news :)
+
+In this student-teacher environment, will it be possible for the student to just share their work with just the teacher or, optionally, just with the class and not with the entire Scratch community? Those of us who work with younger students have to go through a lot of paperwork with parents to allow them to create accounts that can be shared with the wider community. If the student doesn't share with the whole community, I cannot see the project unless I log in as him/her. With 200 students a term (middle school), that is a lot of tedious logging in work. It would be so much easier if we could limit the people they can share their work with. Thank you so much for this enhancement, it will make things a lot easier and allow us to continue keeping our kids insulated on the web. Paula
+
+Thanks Mitch!! Really looking forward to this!
+
+Thanks, Scratch Team! This will be awesome! One additional suggestion would be to allow for multiple teachers / instructors for a given course. This would be helpful for courses that are co-taught by both a mainstream and special education teacher or teacher of English learners. Looking forward to the release! Let me know if you need any additional alpha/beta testers!
+
+This is excellent, what I have to do to be a tester?
+
+Where is the date on the post that says the alpha will be tested "later this month"? What month? And please let us know if there is some type of formal process to apply to be part of the testing. I, for one, would like to participate if possible. Please be sensitive to educator needs and give us as much information about timing as possible. I can't afford to wait around before buidling my curriculum blocks for this year and if it sounds like this is not going to be available by the time school begins the first week of September, I wish we would be informed of that. I have turn in my topics list soon and do not want to include something that is not going to work out. Adding or substituting units during the year is something I try to avoid.
+
+Not sure how that happened but I double posted.
+
+I am planning a super expansion of Scratch Creative Computing for my 650 student elementary school. This is the tool I really need to set up and monitor accounts and students/work. Thanks for all your efforts and PLEASE HURRY. School is just a month away!
+
+Teacher accounts are available. I submitted my request for a teacher account and was approved withing 24 hours. Pretty exciting. Thank you Scratch Team! https://scratch.mit.edu/educators
+
+Hi there! We are excited to share that Scratch Teacher Accounts are now available. See herefor more information.
+
+Hi Ann. Scratch Teacher Accounts are now available. We've started a new discussion thread with more information - see here.
+
+Hi Henry. Scratch Teacher Accounts are now available. We've started a new discussion thread with more information - seehere.
+

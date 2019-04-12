@@ -1,0 +1,4 @@
+Years ago I was able to download Lego Minifigs from somewhere that were then added to the collection of Sprites. Is this still possible somehow? I can't remember where I found them and I do think it was back in Scratch 1.4 but I know my students would love to use them and I just got some Lego WeDos and it was just such a fun way to have minifigs moving on the screen and in real life.
+
+Hello you can use the soft blockcad http://www.blockcad.net/ they are a lot of minifigs with blockcad you can take a snapshot of your minifig or your own sprite and it is exported directly in png format its is very useful to use with scratch see this video https://vimeo.com/121334195 french projects with legos and scratch here ( children 8 years old ) https://scratch.mit.edu/users/pommerit/ Alain
+

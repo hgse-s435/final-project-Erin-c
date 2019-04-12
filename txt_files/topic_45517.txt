@@ -1,0 +1,8 @@
+Hi All, I recently created a class in my Scratch teacher account and uploaded 97 student user names and passwords via CSV files. I then tested several student accounts, and in each case Scratch says the password is incorrect. The passwords in the uploaded CSV files each had seven characters - a combination of letters and numbers, and the minimum number is six, so I don't think that is the problem. If I enter a student's account and change the password manually, the account will log in.I hope there is a more efficient workaround to resolve this issue. It is not practical to enter 97 accounts and change each password manually. This is especially daunting in that I have another class to create that will have 120 students. I'd appreciate any suggestions and insights the ScratchEd community might have. Thanks! Tim
+
+Hi, Tim. Actuially I got same problem, too. And My event will be tomorrow! Yassi
+
+Hi Tim. Might you please send a message to help@scratch.mit.edu so we can look into what is going on? Since we will need to ask you account information, it is best not to do so publicly. Thank you!
+
+Hi Yasushi. Will you also send a message to help@scratch.mit.edu about the situation? Thanks!
+

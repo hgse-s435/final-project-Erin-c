@@ -1,0 +1,4 @@
+I just started teaching Scratch for the first time, on iMacs running Mac OS 10. Several students have had this problem: They deleted a sprite, but the image of the sprite remained on the Stage. Since the sprite itself does not appear on the Sprite List, nothing can be done to remove the image of the sprite from the Stage.  Any suggestions?
+
+Is the "stamp" block (in the "Pen" category) involved? Sometimes a sprite will "stamp" out its image and the image will remain even after deleting the sprite. Try using the "clear" block (also in the "Pen" category). I'm not sure if that's the problem, but I've experienced that problem before! Thanks! K
+

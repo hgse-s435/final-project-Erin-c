@@ -1,0 +1,8 @@
+Hi, I was wondering if anyone has used Scratch with a class of children- probably aged 9-11. I was wondering what, if any, misconceptions the children had either before or while using the game. Thank you for your help. Naomi
+
+Hi Naomi Not sure how helpful I can be but I have worked with a few classes now over the past 3 years (as a researcher not a teacher but leading the lessons), The only things I have noticed are : The children may think that when you ask a sprite to "say something" it will literally say it and are dissappinted when the text comes up. The children are surprised when I learn from them. Sometimes I have discovered little parts of Scratch things that I didnt know through the children. On the other hand children get surprised when I say I will have to go away to find out what they have asked me and come back to them the following week with an answer to their problem. Amanda
+
+Amanda, Thank you for your response. I also experienced the second two comments that you mentioned. There is so much to learn from scratch and I found that children were much more willing to explore and try out different commands to see what happened with them. I am a student teacher and we taught scratch to a class of year 5's, they loved it, and I learnt so much more about the software. Thank you again. Naomi
+
+The mostfrequent misconception that I encounteredis that the "if" block is expected to work likea "forever if" block. It is not clear to manychildren that an "if" checks its condition only once, so it does not wait until the condition occurs. I have introduced special exercises to deal with this. Bernd.
+

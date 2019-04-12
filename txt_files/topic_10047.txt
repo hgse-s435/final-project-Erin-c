@@ -1,0 +1,18 @@
+During Monday's terrific Webinar I received a phone call. I never receive phone calls, but of course when you don't want one is when you get them. Although, In this case the call was interesting, because a woman wants me to teach her 9 year old grandson, Scratch online. I have received this request before and blatantly put it aside, but now I am seriously thinking of trying to do it. What tools do you suggest? Need less to say the tools you use are fantastic. I imagine I'd need to go a cheaper route. As a side note this is also an interesting way to reach the more severely handicapped. Thanks, Vicki Gold
+
+We use Adobe Connect for the monthly webinars and it costs us $58/month. There are definitely other webinar tools -- Michelle researched them and I'll see if she has any notes that she can share. Thanks! K
+
+Hi Vicki, Webex was also another software that we explored before deciding on Adobe Connect. Another option I'd suggest is using remote desktop control or screen sharing on Skype. This might be a really interesting opportunity to use remixing and the Scratch website to your advantage since you both will be working online. M
+
+Or wiziq.com (free) or elluminate (there is a free version for 3 people). But the best sound and video is probably Skype. And free is always a good start.... ;) Vicky, please share your efforts with Scratch-distancelearning. Its interesting... :) /Anders
+
+Thanks everyone. The woman interested in doing online classes for her grandson said it will take her some time to set up a laptop, but as soon as she contacts me I will tell you how it goes. And I'll probably start with Skype. Thanks again, Vicki
+
+I'd be happy to host a discussion about teaching Scratch online some Wednesday evening at Teachers Teaching Teachers. I've been thinking about this too! We could even try out a few things live - which is what makes it fun. teachersteachingteachers.org and edtechtalk.com to find us. -Susan
+
+Susan, That is a very generous offer that I'd love to take you up on. My issue is I would be using online tools for private paid tutoring, so I am assuming the tools that you use on teachersteachingteachers.org I would not have access to. How simliar to skype are your tools, and if they are similiar this Wednesday is great. If it can't be this Wednesday I will be at csit in NYC at Columbia University next week, but any following Wednesday is fine. Thanks, Vicki Gold
+
+Hi All, I skyped a tutoring session with a very sick High School student. It wasn't Scratch it was a Java lesson that went very well. A few days prior to the session she sent me the programs. During the session we discussed her problems and ways to solve her problems. We talked about using the debugger. While in discussionn I emailed a few but not all the solutions back to her. I think our discussions were very casual and she was more relaxed then had met in person. I think the same for hold true for Scratch, but I think a lot depended on her age. She is just going into 10th grade, so she is quite comfortable with the technology.With Scratch you could use the Web site to post and repost work in progress. Thanks Vicki
+
+Vicki, That's exciting about your work with the 10th grader. Do you teach high school? I'd love for my animation students to have regular exchanges with other high schoolers using Scratch. I'm working on my curriculum now...
+

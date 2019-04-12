@@ -1,0 +1,6 @@
+Hello, I was wondering if anyone has ever tried to do some sort of reverse engineering with kids on Scratch. Maybe something like having them watching an animation running and try to conceive what Scratch program is running on the background. Comments very welcome. Thank you very much.
+
+Hello Roberto, I teach computer science in high school (age 14 -16). Just yesterday, I invited students to analyze and makewith Scratchan Android application ( a game) called "Parking". Just realize some projects Iwill share the results online and I'll tell you the experience. Sergio.
+
+Interessante Roberto e Sergio, mi aggiornate? Avete provato?
+

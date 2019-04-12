@@ -1,0 +1,2 @@
+Hi all! Does the stop script block have any effect when it's at the end of a scipt? Is there a semantic difference between a script without a stop script block at the end and one that has a stop script block at the end? Thanks! - mulhern
+

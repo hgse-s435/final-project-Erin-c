@@ -1,0 +1,12 @@
+How do you remove the background on any imported pictures? We want to take the kids pictures in front of a green screen and then remvoe the green. Thank You, Barb Ericson
+
+Hi Barb, I think this would be a task better suited for a 3rd party photo editing software like Photoshop or perhaps the Gimp. They include tools that make selecting and removing backgrounds easy, especially solid colors. The Paint Editor in Scratch has an eraser tool that you could use to remove the background, but it'll be tough following the silhouette of the portrait to cleanly remove the background. Mike
+
+Hi Barb, This is really easy to do with Scratch. In the image editor, you can select the Fill tool, then the "transparent" color (the grey/white checkerboard pattern) in the color palette. Hope that helps! K
+
+It looks like we will have to use a combination of the transparency fill and the eraser in Scratch. The greenscreen pictures don't give a perfect background and shadows near people are hard to erase.
+
+How do you do it in GIMP? I downloaded it but can't figure out a good way to do it.
+
+GIMPhas something called the Fuzzy Select Tool (looks like a wand in the tool palette). When you touch the fuzzy select tool to a spot of color it selects all the entire area of color. You can then delete it, which will leave a white background in place of the deleted color. If you want a transparent background, add an alpha layer (from Layers >Transparency) before you use the fuzzy select tool. Then when you delete the block of color you'll have a checkerboard pattern, like Karen described with the transparency fill. Since you have shadows on your green background, using this tool will take out large chunks of the background at one time, but it won't get you as clean of an outline as you might want. GIMP also has a tool called the Free Select Tool(looks like a lasso). This lets you outline parts of your image so you can delete it. I don't have the patience to edit images like this, but you might :). The best advice Iwould give you is to find a graphic designer to do this for you. A more practical ti would be to zoom in on your image and work with small areas at one time. There's probably other ways to acomplish this. Best to experiment. Mike
+

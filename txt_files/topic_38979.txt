@@ -1,0 +1,6 @@
+There must be a bug in the latest Scratch 2.0 offline editor. Today in school on my MacBook Air I launched Scratch 2.0 offline editor and it said a newer version was available, v441.2. So I dowloaded the new version and at the end it said: "Adobe AIR The required native extension is missing for this application. Try re-nstalling or contacting the publishre for assistance." I then tried to troubleshoot. Removed Scratch 2.0 and uninstalled Adobe AIR. Then downloaded Adobe AIR and Scrtach 2.0. Same error message as Scratch 2.0 was trying to complete installation. On my home iMac I refrained from upgrading Sctach 2.0 and everything works fine including the WeDo extension and the Wedo extension on the online version. As an aside the WeDo extension in the Scratch 2.0 web version didn't work but did on my laptop. So I conclude that the Scratch 2.0 off line iupdate must have caused these errors. Thanks for any help.
+
+Problem all solved courtesy of Scratch team. Adobe AIR 20 was the culprit. Don't upgrade to Adobe AIR 20. Stay with version 19.
+
+I think the problem is with Adobe Air. I declined Scratch 2.0 on my iMac but accepted the Adobe AIR update. Then I got the same error message when Scratch 2.0 offline loaded. SO it must be an Adobe AIR problem. Sorry about the conclusion that Scratch 2.0 was the culprit!
+

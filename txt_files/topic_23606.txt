@@ -1,0 +1,2 @@
+I am trying to have students use Scratch 2.0 to record stories but the sound recording does not always work. Each time students access their project and try to record they are asked to allow flash to use the mic and when they click allow sometimes it lets them record and sometimes it dosen't. I am having the same issue with the Chrome browser. Safari has been working pretty consistently for recording. Only one student out of 60 had an issue.
+

@@ -1,0 +1,68 @@
+Hola a todos, Hace unas semanas, Karen Brennan present el curriculum de Scratch, obviamente en Ingl_s. Como me pareci un material valioso, comenc_ con la traduccin al espa_ol. Traduje hasta la pgina 20 (un poco ms de la cuarta parte del documento) aunque en la pgina 14 falta traducir lo de las competencias que me parece que la gente de Eduteka puede ser de ayuda. Me pareci importante traducir la primer parte, sobre todo para tener un lenguaje en comn y poder utilizar los mismos t_rminos a lo largo de de todo el documento. Quedan por traducir 16 de las 20 sesiones que componen el documento. Adjunto aqu el enlace para que lo descarguen en formato DOC para que otros puedan completarlo. Sera ideal que coloquen en este mismo foro, como respuesta a este mensaje, su deseo de colaborar y el compromiso, por ejemplo: "Me comprometo a traducir las sesiones 5 y 6". De este modo sabremos qu_ tenemos que traducir cada uno y qu_ nos falta. A medida que vamos teniendo listas las traducciones las vamos subiendo a este espacio. Qu_ les parece? Espero sus respuestas. Aqu va el enlace: http://www.prog-edu.org/archivos/GuiaCurriculum_Scratch_ES-v20111108.doc Saludos cordiales, Cristin
+
+Gran aporte Cristin Me parece muy buena su sugerencia de organizarnos paratrabajar en la traduccin y as;evitar repetir esfuerzos.Podramos esperar a que ms colegas se incorporen al foro y as poder definir con mayor presicinla cantidad de pginasque podemos asumir. Uno de los materiales a los que se hace referencia (Debug it!) ya ya lo haba traducido con anterioridad ,pues lo estamosutilizando como recurso en una de nuestras guas didcticas, as como otro recurso que elabor Mitch, el cual se trata de peque_os desafos en Scratch. Pronto los estar_ enlazando desde ac. Oscar
+
+Perfecto Oscar, me parece bien esperar a que ms personas se sumen. Lo que tenemos que lograr es que se comprometan por sesiones, ms que por pginas para asegurarnos de que por lo menos haya unidad de t_rminos en cada sesin. Difundamos por nuestras redes la iniciativa para poder lograrlo en un tiempo prudencial. Saludos cordiales, Cristin
+
+Gran iniciativa Critian! Voy a difundir para que otros se sumen a este esfuerzo! Un abrazo! Claudia
+
+Gracias Claudia, ya vi tu tweet. Ojal pueda sumarse la gente de Costa Rica y de Colombia. Sera bueno si pudieras contactar a la gente de Eduteka por si no ven este post. Un abrazo, Cristin
+
+Contad conmigo.
+
+Hola Andr_s, Con qu_ te compromet_s? La idea es que cada uno diga a qu_ se compromete a traducir (expresado en sesiones) para as poder organizarnos. Por ejemplo: "Me comprometo a traducir las sesiones 5 y 6". Espero tu respuesta. Cristin
+
+Me comprometo a traducir las sesiones 3 y 4. Cuando las termine subir_ nuevamente el link con el documento actualizado. Saludos, Cristin
+
+Cual es el proceso? Descargo el word y traduzco?
+
+Y aqu va entonces la nueva versin del documento con las sesiones 3 y 4 traducidas. A ver qui_n se anima con el resto? Faltan traducir de la sesin 5 a la 20 incluidas. Los amigos de Eduteka? Aqu el link: http://www.prog-edu.org/archivos/GuiaCurriculum_Scratch_ES-v20111108.doc Saludos, Cristin
+
+Hola Andr_s, Primero poste aqu a qu_ te compromet_s y luego s, descarg el documento, traduc las sesiones con las que te comprometiste y volv_ a subir el documento traducido en este mismo foro. Muchas gracias!! Cristin
+
+No seria posible subirlo en formato google docs y modificar online un unico documento?
+
+Cristin, ya los de Eduteka lo saben. Voy a mirar las sessiones a ver con cual me comprometo tambien ;) Abrazos, Claudia
+
+Ac estn los dos archivos que yo ya haba traducido previamente para utilizar en Costa Rica. Uno es el llamado Debug it, cuya versin original corresponde a Karen Brennan y el mismo aparece en documento compartido por Cristin en la sesin No. 19 (Yo lo traduje como "Depralo", y no "desplgalo" como aparece mencionado en el documento). Est traducido tanto el texto como los bloques de programacin: https://docs.google.com/document/d/18_FMrFUFSMTKcWp4yI0lKsXOkeO1Sijq53fboBziqNE/edit El otro corresponde a una serie de desafos dise_ados por Mitch (Short Scratch Programming Challenges). Este documento, adems de traducirlo le hice una ligeras modificaciones para hacerlo ms apto al entorno nuestro, as que es posible que noten algunas diferencias: https://docs.google.com/document/d/1C_PuqkSGFmUjnL1ytUKGKiNv3seE9y8g-G2K4gahHhM/edit Espero que ambos documentos sean de utilidad para la causa. Oscar
+
+Me comprometo a traducir las sesiones 5 y 6.
+
+como lo subo?
+
+Hola Amigos! Acabo de ver el post! Yo lo estaba traduciendo tambi_n sin tener idea de que alguien ms lo haca! Hay que estar ms atento!! para, como bien dice Oscar, no repetir esfuerzos! Gracias!!! Claudio
+
+Yo voy entonces con la 7 y la 8! Saludos!
+
+Perfecto. Para subirlas, yo intent_ subir el archivo a GoogleDOcs pero no me dej por el tama_o (debido a las capturas de pantalla). Lo que sugiero es que simplemente tomen el archivo original que est posteado aqu, hagan la traduccin de las sesiones con que se comprometen y suban el archivo nuevamente. Yo despu_s me encargo de juntar todas las traducciones, darles unidad y subo el documento final. Saludos y gracias. Cristin
+
+Intent_ pero no me dej porque es muy grande el documento, no pudo convertirlo.
+
+como a_ado un archivo al post? No permite adjuntar un archivo, no? Yo te lo he enviado por mail, cristian.
+
+Hola, Traduje las sesiones 7 y 9, Y en estos das traducir_ la 10 y posiblemente la 11. La 7 y la 9 estn aqu: Observaciones: No encuentro una buena traduccin para Remix, la traduccin literal es Remezcla pero no me parece adecuada al contexto. Alguna idea? Debbug it! Lo traduje como Depralo. Esta traduccin hace perder un poco el juego de palabras original propuesto, pero es un juego de palabras slo vlido en ingl_s, puesto que en espa_ol no se usa la palabra "bicho" o "pulga" para hablar de errores, sino que usamos "error", "falla", o incluso frecuentemente la palabra en ingl_s "bug" "pass-it-on" lo traduje como psalo, pero no me termina de gustar.... creo que se pierde algo... si alguien tiene unaidea mejor, bienvenida sea. Saludos! Claudio
+
+Hola Claudio, Para m no hay que traducir remix, as est bien y la gente lo entiende. Ok con depralo para debug it y tambi_n me parece acertado lo de pass-it-on como psalo. En los prximos das subir_ un documento actualizado con todas las contribuciones. Desde ya muchas gracias. Cristin
+
+Este es mi modesto aporte hasta ahora: Sesion 7 y 9 Sesin 10 Saludos! Claudio
+
+Y ac va la Sesin 11 Saludos! Claudio
+
+Hola a todos: Acabo de ver esta discusin en mi paseo por la web y el trabajo me parece muy interesate. Sigue activo? Est acabada la traduccin? Gracias
+
+Hola Alvaro, Lamentablemente no tuve mucho tiempo a fin de a_o pero mi intencin es poder activar nuevamente el trabajo ma_ana. Tomar_ las contribuciones realizadas y postear_ un nuevo documento para continuar la colaboracin. Gracias por tu inter_s en el proyecto. Saludos, Cristin
+
+Aqu les dejo una nueva versin de la Gua de Curriculum de Scratch en espa_ol. Ahora ya tenemos traducidas la mitad de las sesiones!!! (de la 1 a la 10). Gracias a la ayuda de Claudio, Andr_s y Oscar. Invitamos a otros participantes a sumarse a la traduccin. La forma de hacerlo es sencilla: slo deben responder a esta invitacin diciendo cules sesiones se comprometen a traducir. Luego bajan el archivo, traducen y vuelven a subirlo traducido. A los que lean este post y no tengan tiempo para traducir, por favor difundan el mensaje a trav_s de sus contactos en redes sociales. Yo lo har_ a trav_s de mi Twitter en @rizzicristian Un saludo para todos, Cristin
+
+Empiezo el curso y creo interesante reactivar el tema. Yo podre continuar con algunas lecciones, algun voluntario ms para dejar el libro acabado???
+
+Cristian, Cuanto queda para tener todas las lecciones traducidas? Podiamos hacer un ultimo sprint y acabarlas?
+
+cristian, cuantas lecciones quedan para acabar la traduccion??? Podemos hacer un ultimo sprint para finalizarlas?
+
+cristian, cuantas lecciones quedan para acabar la traduccion??? Podemos hacer un ultimo sprint para finalizarlas?
+
+Hola! Sabes si hay tutorialesde videode usar Scratch en espa_ol? Estoy creando una program de dise_o de videojuego para ni_os de 10 a_os hasta 13 a_os y necesito tutoriales de video que ense_a como usar Scratch. Muchas Gracias y Saludos, Tiffany
+
+http://www.youtube.com/watch?v=P4jOL69FqP0
+

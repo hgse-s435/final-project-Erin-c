@@ -1,0 +1,10 @@
+Hi Scratch Community Members, I am designing videos tutorials that guide users through the features of Scratch 2.0. These videos are primarily meant for facilitators who want to learn Scratch so they can teach it to their students. I would love to receive some feedback from the Scratch community. Here are a few sample videos: 1) Change your sprite's color -vimeo.com/58784073 2) Make your sprite follow the mouse -vimeo.com/58865828 3) Make your sprite glide -vimeo.com/59385986 4) Make your sprite jump when you clap -vimeo.com/59378540 Thank you, Kunal
+
+I just wanted to add how much I appreciate your work thoughtfully developing these videos. I will be interested to hear feedback too!
+
+Hi Kunal, Thanks for sharing these! I really enjoyed watching them. A few things I really liked: not too fast or too slow (nice pace) clearly pointing out blocks/categories (yellow highlighting and zooming into specific parts) inviting further exploration (challenges at end) You mentioned that these videos will be aimed towards guiding teachers and facilitators -- although I could see students finding these useful as well! One thing I wonder is, do you have a sequence in mind for introducing new topics, for example, when to introduce the "when green flag clicked" block or what a sprite is? Looking forward to seeing more. M
+
+Hi Michelle, Thank you for your feedback! I intend to put all the videos in a playlist so they can be shared easily. That should also help teachers (and students) build on previously acquired block knowledge. Do let me know if you have additional comments on the videos. I will share a few more videos with the ScratchEd community soon. Kunal
+
+Hi ScratchEd Community Members, I want to share the following playlist of 10 videos that helps new users learn to program while using Scratch 2.0. vimeo.com/album/2308198 I would love to hear feedback, if you have any. Kunal
+

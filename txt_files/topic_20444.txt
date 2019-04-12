@@ -1,0 +1,84 @@
+Hi. Just wondering what the status is for this tool. I seem to remember it wss scheduled for relaese sometime this summer?
+
+Am Interested in the answer to this also. I was hoping it would be released by the start of this school year.
+
+School starts next week. Any news on the classroom management tool? marty
+
+I just received an update. Development is progressing more slowly than anticipated. (This is partly due to an outside group being hired to do the work, and it always takes time to get going with someone else's code base.) Much of the key functionality is in place, but the front-end for that functionality isn't -- so that also still needs to be done. I'm trying to get a sense of what that means for the timeline, and I'll share updates when I have them. K
+
+Thank you for the update, Karen. Ah, the best laid plans, right? Should we hold off on creating accounts for our students on the 2.0 website? I can continue to have my students use the downloaded Scratch client or have them use 2.0 for practice without saving their work. I guess I am looking for some guidance since the classroom management tool will not be in place for the beginning of the school year. Thank you for keeping us posted, Karen. marty
+
+Unfortunately, I don't have enough information about the revised timeline to make a good suggestion. But, very practically, if I was teaching next week, I'd have students make their own 2.0 accounts and then either stick with that, or create new accounts for them when the educator account feature is released. Hope that helps! K
+
+I'm trying to create accounts on Scratch 2.0 for my students but it requires an email address. Our students do not have email addresses. Is there a way around this? Thanks, marty h
+
+I'm creating accounts with my email address, such as student 1, student 2 etc and replacing student with our school acronym.
+
+I have two students in a morning Scratch club. I had them create their own accounts. I am having them solve the Debug-Its! from our summer CCOW course. It's perfect for them! They have created studios and are working on the debug it projects from Week 1. I am having them document what they do in the project notes. These students are dyslexic (I teach at a school where all the students are dyslexic) and it's great to have them problem solving and WRITING about their experience and solutions. Thank you CCOW Team! CCOW: the gift that keeps on giving! ,artu
+
+Any new information on this? We delayed our start dates, but classes started this week with an Intro via LIght-Bot. Next week we dive into Scratch. How do we deal with new students accounts for so many kids?
+
+Hi All, I would also love an update on this. We are piloting teaching Scratch in 6 schools but it's becoming difficult to continue to push student understanding without giving them the ability to save projects and work on them over multiple days. Thanks, David
+
+What email addresses are you using? Or do you have 30 emails?
+
+I, too, would really love to use this. -Jonathan
+
+Hi, I'm new to Scratch but really want to use it next week (Hour of Code activity) with my middle school tech classes. I've looked on both the Scratch site and the ScratchEd site for a classroom management interface and directions for use, but haven't found anything. Is this still not oprerational?
+
+Until the classroom management is available, using either the offline editor or the Scratch website, just get your pupils to save to their Documents folder. We have been doing this since July and have had no problems. However, I know that when the classroom management is available, it will allow for sharing, remixing and commenting for the students and setting activities and tracking progress for teachers, which I am looking forward.
+
+Any updates on this?
+
+Yes, whatever happened to this? marty
+
+I would be very interested in knowing about (and testing) this tool :) Any news about the timeline?
+
+Hi all, The MIT Scratch Team has informed us that they are planning to release educator accounts later this spring. We will share more details as soon as we know. Sincerely, Michelle Chung, on behalf of the ScratchEd Team
+
+I made a Gallery for each class and have them log-on and save their work under a shared account. I change the password after each class.
+
+Where can I find a description of the features of the class management tool?
+
+This does seem like a dilemma. Most online email services require a child to be 13 to get an account. This is probablydue to concerns over the Children's Online Privacy Protection Act of 1998 (COPPA). Parents don't have very many good options for getting kids email below age 13 unless they own their own website and control the ability to create email accounts. I am preparing for an online Scratch class that will be delivered through a Webinar primarily directed at homeschool kids, but open to anyone. I had the same concerns with getting kids access to Scratch 2.0 as well.My solution is to use standalone version of Scratch (1.4). The parents can download Scratch 1.4 for the kids. There is no need for an email address for the kids.
+
+That's great news, Michele. I hope that the Educator accounts don't require the students to have email accounts. marty
+
+In talking to Scratch educators working with younger children, I've heard a few different strategies for setting up Scratch accounts: Have students use a teacher's email to create their accounts -- this approach is often even preferred by teachers since notifications of innapropriate behavior on the Scratch website will be sent to the email on file for the account. Set up a class email account -- teachers can create a free class email account using Gmail and have all the students input that email when signing up. Get a parent/guardian to provide an email address -- this can be done by sending a note home about Scratch with the student. As you mentioned, using the downloadable version of Scratch is another option. I think it all depends on your situation and needs.
+
+Still waiting and eagerly anticipating this. I still hope for the following: 1. Classroom management implies identification/authorization. The only way this is possible without the teachers becoming manual admins for this (which should not be their role), is to use a login from the school. My suggestiomn would be to allow google-IDs, it will also eliminate problems with age for private accounts. It will also give the freedom to still use private accounts for those that have no school-systems. 2. Preferably storage will be shared in an easily accessible way.
+
+How about Quest Based Learning?
+
+Hi Michelle, Has there been any update with regard to the classroom management system for Scratch? Rose
+
+I would love to see a TEACHER DASHBOARD similar to what Common Sense Media has done with Digital Passport. It was so easy to get my young students to access! Please let us know what's the progress. Thank you!
+
+SO very important for this to happen. There are so many examples of efficient student managment systems (SLO)out there so many websites we use with our students. I know: all in good time ---but sooner would be so much better! I am having my students set up accounts using my email address and all was working well until today. The last 5 would not go through to my email. I am hoping they eventually come through but until then they cannot share projects with me. Really slows things down. . When I have the ablity to use a database and log in all my students in the site as prep, I save so much precious time. Keep us posted.
+
+I've supported Scratch in elementary school classrooms for a number of years, and have always been uncomfortable with young children using email for accounts in an open network. Since I couldn't find a good solution for this, a few of my friends decided to make one. Class Locker is a cloud-based class management tool for K-5 which lets students store and share a wide range of files, including the .sb and .sb2 formats used by Scratch. While this does require an extra step for students to download from the Scratch Editor then upload to Class Locker, it offers a number of benefits: Class Locker "student cubbies" are provisioned by the teacher without the need for student emails. No need to create Scratch accounts for students. Walled garden controlled by teacher so students don't get random posts from people outside the classroom. Scratch projects can be included within a central student portfolio rather than a Scratch-specific silo. Parents can "subscribe" to all of their child's projects in one step, and receive project updates by email. If you'd like to take a spin for your classroom, visit classlockers.com and click Teacher, then Teacher Registration to sign up. Use the Promo Code scratched to enable Scratch files. Let us know what you think. We'll do our best to make it easy for you to integrate Scratch into the classroom.
+
+Hi Jack, Would you be willing to create a screencast to show us how to set up a class locker, and then also how to use it from the student's perspective in scratch? Paule
+
+Hi Paule, Certainly! Here are 2 videos to show how this works. Student -http://youtu.be/bLDVGoVqYv8 Teacher -http://youtu.be/jXy3Fwr1HSg Cheers, Jack
+
+Jack, I'm thrilled about Class Locker! I am setting up classes and adding my students right now! Do you recommend setting up a test locker for yourself (or adding yourself to a class) to see how it works as a student? I haven't watched the videos yet, but I will. It is very easy to set up classes and add students. Since I have very small classes, I just added their names but I like having the option to upload a CSV file. I also like the simple look and feel of the interface. Good job! I'm looking forward to using it with my students and Scratch! marty h
+
+Jack, the sound doesn't seem to be working on the videos. marty h
+
+Although I wish Jack all the best, I'd prefer a solution that plugs into the most common clouds in education.
+
+Glad you like it. Yes, you can add yourself as a student, then delete your profile later. For a quick taste of what students can see, check outclasslockers.com/demo/with the password "scratched"
+
+Good point, Joost. Which education clouds do you suggest we plug into? Class Locker started with an "open cubby" metaphor so K-2 students in the US could easily upload files from iPads without logins or passwords. We added individual passwords and Google docs support after requests from 5th-6th grade teachers, and are now working on centralized authentication support for schools who have it.
+
+Hi I would also be really keen to get a some kind of class manager option. I have different classes using Scratch and despite my best efforts they have problems remembering their accounts and passwords, which makes it hard to save, share and remix as I'd like them to. Would be great to be able to have a list of your student accounts and ability to reset passwords. Thanks
+
+Hi Jack, Since I am not US-Based I'd find your solution hard to sell. I like the integration you have apparently realized already. Personally, I think the burden of having to remember extra accounts (specfically for one puppose, like scratch) is bound to be frought with problems. Scratch itself should allow integration with accounts that schools already have (this would also eliminate 13+ problems). Ideally group-management would be supported too. Google-apps integration would be great, but a moodle-plugin could do the trick too, perhaps? Personally, I'd go for Google in a flash.
+
+I would like to see Google Apps connection as well. My class sign up individually using my email address as the guardian. They use their Google usernames and passwords already but it would certainly be easier in the future for students to join using their google apps accounts.
+
+Hi All Firstly, apologies if this has all been asked before but as a school we are new to Scratch and are learning along with our students. I would like to create logins for our pupils who will be using Scratch, 360 in total. Can anyone out there let me know the easiest way of doing this please? The children are all very excited about using Scratch and I don't want to let them down. Thank you
+
+Hi Linda, We have a great tool for Scratch for teachers; Itch has all the classroom management features teachers have been asking us for; we combined Scratch together with a complete learning management system so you can do pretty much everything that folks on this list that folks have been asking for (and it's available now :-). http://itchcode.com/ Jason
+

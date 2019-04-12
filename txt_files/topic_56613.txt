@@ -1,0 +1,4 @@
+What is the difference between these two blocks of code
+
+I can't see the second block of code. Did the second block say: When key pressed, forever move 10 steps. The first block says that only if the green flag is pressed, then check the space key, otherwise don't do anything if the space key is pressed. Hope that answers your question
+

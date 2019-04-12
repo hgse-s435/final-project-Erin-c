@@ -1,0 +1,4 @@
+Hello, I want to make a promotional video of several of my students' scratch projects in order to generate interest in taking my programming class next year. I'd like to be able to walk in to a classroom and double click on a file on my flash drive and have the video play... without Scratch being installed. There are several Scratch projects I'd like to link together and also I'd love to include 20 seconds of someone playing a Scratch video game. I don't need video of the student I'd just like video of what is on the screen. Does anyone have any ideas how to do this?I know Icould embed links to separate Scratch projects and then click on them individually but I'd like something less complicated. Thanks! Jessica H
+
+The easiest way to do this is screencast the Scratch Project. Are you using a PC or MAC? A common tool for PC is Jing from Camtasia. On a MAC this feature is built in using Quicktime. You can then use a movie editor to join the clips. Hope this helps.
+

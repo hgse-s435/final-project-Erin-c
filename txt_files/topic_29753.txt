@@ -1,0 +1,38 @@
+We will be participating in this in December as we did last year. Will you be providing new tutorials? All of our students used the Scratch holiday tutorial last year and will probably want something different for this year.
+
+Hi Janet, Members of the MIT Scratch Team are planning to prepare some additional tutorials for the Hour of Code event. We'll make sure that they get announced here on ScratchEd when they're ready! Sincerely, K
+
+Great news, thanx Karen, team.
+
+Counting down...only four weeks left.
+
+And here's the page with the two new tutorials... http://scratch.mit.edu/hoc2014/
+
+Fun! Tried it: http://scratch.mit.edu/projects/34266460/
+
+Love the addition of the Pong tutorial! This is super! Stacey
+
+I want to translate these tutorials in my Language.(Turkish) Is it possible ? if so how?
+
+to whom is looking for ideas,here is a Scratch studio with a compilation of projects to be used during HOC sessions. HOC Scratch Studio There are projects to be completed and debugging projects. When a project is complted you can also use it as starting point for a new version, adding activities and/or sprites Hope they are useful
+
+Hola!estoy traduciendo el tutorial #Scratch del juego pong de la #HourofCode 2014. Si alguien desea colaborar por favor escribirme a moralesn@gmail.com Soy de Argentina y ense_o a programar en primaria. La traduccion est lista pero las capturas de pantalla faltan...pronto compartir_. Saludos! Hi!I am translating the tutorial of the game Pong hour of code 2014. If someone wants to collaborate please email me at moralesn@gmail.com I'm from Argentina and I teach programming in elementary school. The translation is ready but the screenshots are missing ... soon I will share. Regards, @nancito
+
+My kids are testing them out and enjoying them. They propose adding pandas to the animal sprites. :-) I showed them how to import or draw their own, but pandas are popular if you want to add them to the list.
+
+Where is the scrat tutorial?
+
+Thanks for sharing such a wonderful resource.
+
+Thank you Karen for sharing this! Very helpful!
+
+Found him in the last five slides of the HoC basic tutorial that starts out with Angry Birds.
+
+Yes, you can translate the tutorials using http://translate.scratch.mit.edu You will need to search for the tutorial phrases. You can ask any questions about the translation at translate@scratch.mit.edu Thanks!
+
+Glad to hear you like the pong tutorial! http://scratch.mit.edu/hoc2014
+
+That's helpful to hear that they were looking for pandas in the animal sprites. We'll put them on the new sprites wishlist!
+
+I completed all the translation of the Pong Game. I will be working on the images. Let me know if you have done any progress with those. Claudia
+

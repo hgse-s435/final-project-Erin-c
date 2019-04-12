@@ -1,0 +1,6 @@
+Hi Guys, I have to introduce scartch to this group who have no prior knowledge. I have 55 minutes to do so. What can I do in that time to teach them something in an interactive way? All tips welcome :-)
+
+The straightforward way is to make a few plastic coated sets of the official(?) Scratch Cards from this site. Very accessible to both you and the students. My experience is, that many will start improvising, extending and playing with the scripts after just a few cards. Let them decide the order of the cards, and encourage the use of all cards within the lesson. I usually "promise" my students, that they will be able to make games, when they have completed all 10 cards. (Which they actually will!!!) Regards, Henrik
+
+I second that suggestion, Henrik! Zubair, you can find a .pdf of the Scratch Cards to print out at http://scratched.media.mit.edu/resources/scratch-cards. I would also recommend looking at the Scratch curriculum guide draft which has includes activities and handouts to help get students started. You can view the guide athttp://scratched.media.mit.edu/resources/scratch-curriculum-guide-draft
+

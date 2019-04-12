@@ -1,0 +1,34 @@
+I received a question via email about how to share Scratch projects beyond the main Scratch site. In case others are also interested, here are the links I sent along. You can post your Scratch project on the Scratch site, but embed it in a different site. You can post your Scratch project, without having it on the Scratch site. You can also set up your very own Scratch site. ScratchR is the name of the Scratch site platform. People have discussed setting up ScratchR on the Scratch forums, here and here.
+
+Karen, any suggestions on what to do for a "Scratch Classroom" group login? I'd like the students to be able to post their projects to scratch.mit.edu under a central "classroom" login but I'd also like to avoid the more adventurous students experimenting with changing the group login password and so on. There was some discussion of this at the Scratch@MIT conference. Any thoughts? Best regards, -- DanG
+
+Ah, good question. For those who weren't there -- at Scratch@MIT, we presented the idea of Scratch Clubs, which was one way for educators to be better connected to participant/student content and contributions. Unfortunately, the original design didn't fit the different things people wanted. :) We've put the project on hold indefinitely. So, there isn't a mechanism for centralized login in the current system that avoids the potential for password or email hacks. What about having individual logins, but setting up galleries to aggregate projects? Anyone else have stories or experiences of the shared login? K
+
+It's taken a fair ammount of tweaking, but I finally have a Moodle course serving Scratch projects. I don't have a class to try it with right now, so if anyone would like to take it for a test drive, I'd love to hear from you. Since I'm not using anywhere near my alotted bandwith at the moment I'd be glad to host a few assignments in a closed environment. Here's an example: www.rickashby.com/catalyst the "Questions and Comments" has an example of a nested forum with embedded projects hosted on my site.
+
+I noticed that glogster.com/edu has an option to "register a virtual class up to 200 students." Maybe that's a way to go or at least explore. Google apps for education also allows adding student accounts, but neither of those are exactly a Scratch Club nor are either of them exactly a trivial exercise to implement. 8^) Anyone else seen anything similar where you can as a teacher or administrator maintain the usual block/disable/enable/reset-password routines for student accounts without having students hit the reset button on your admin account?
+
+Daniel's question from Sept. 16 is exactly the question I wanted to ask. I have two classes of 5th graders who created individual scratch projects to animate diagrams of plant and animal cells. They drew sprites for each part of the cell and created scripts so a label will appear and voice read aloud the name of each part as it is clicked. They were really excited about the project and I would like to let students shareit with a larger audience, but to add their projects individually on the Scratch site would require me to get get permission from 48 parents. I started to set up a class membership and a gallery for this project, but then I realized that if students logged in, they could also change the password or make other unauthorized changes. Has anyone developed a solution for this? Pam
+
+Hi Pam, Unfortunately, the two options you described (separate accounts with the hassle of permission-seeking vs. centralized account with hazard of unauthorized changes or inappropriate postings) are the only options we currently have available. K
+
+I always used the class membership method and never had any trouble with kids changing the settings. It might be worth giving your students the benefit of the doubt. If you dont want to tempt them too much, you could change the password yourself right after they the class submits projects.
+
+With 2nd grade I have had them use my login to post animations. That worked fine. I am a big believer in opeing things up and trusting students. With older students my school has done a lot with Google Apps. I think it is a much better way to go than Moodle because it is user-centered. 5th graders can set up the site themselves. Have done a lot of sharing of data that way. But I have not tried it with Scratch yet.
+
+HI Pam... What I did was set up a pattern password for each class so I could remember any classes password. Then I created a Scratch account for any classroom. I named them  "rayschool23" for Room 23. Before they came in to class to post their completed projects as a final step; I changed the password to 232323. They can then post their projects, and when they leave, I change it back to my patterned password (23xxxxxx, say, put what you want instead of xxxxxx) I encourage them to get individual accts. at home with their parents' help. I was working with 5th graders. For 2nd and 3rd graders, I just posted their projects and put up links to them. see: http://rayschool.org/pinksheet/2010/03/25/third-grade-haiku/ http://rayschool.org/room15 for example Let me know if you have any questions
+
+I've just created a scratch plugin for Moodle based VLEs to allow students to upload and review their work to a forum on their school VLE. http://scratched.media.mit.edu/resources/scratch-filter-moodle Hope it's useful.
+
+When we did this with a 6th grade language arts project, we created a grade level login and password. During class they would upload the newest version using that login and password. Students were not only assesed on the quality of their own work, but also on the feedback and comments they left for their peers!
+
+Hello, I wonder if there are any new developments in the Scratch 2.0 world for creating shared libraries for groups of students....is it possible on the Scratch 2.0 site for a group of students to view and share each others work, other than viewing and sharing with the entire Scratch community?
+
+Code.org has something that Ireally liked that I hope could be done with Scratch. Rather than requiring an email to register, teachers set up their educator account and can then set up individual sections or classes. They get a code for students to use when they register, then students can sign up with just a user name, password, and the course code. If something like that could be done with Scratch that would be perfect for education - especially with elementary school kids.
+
+Hi Karen, We stuck in between while configuring the scratch server in our local system. Could you please tell us to whom we need to contact for the solution.
+
+Hi karen, Could you please tell us how to integrate scratch application with other application?
+
+Hi Rajagopal, I'd recommend contacting the MIT Scratch Team at help@scratch.mit.edu Sincerely, K
+

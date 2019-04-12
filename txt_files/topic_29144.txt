@@ -1,0 +1,2 @@
+I'm wanting to make a classic matching card game where you flip over 2 cards at a time. If they match they disappear, if not they flip back. I can get the game to work easily enough in both Snap and Scratch with a separate sprite for each card. Obviously, this creates a lot of repetitive code. I'm wandering how I might tackle the task using only one sprite for all the cards. Is it possible to approach it thorugh cloning? If so, how do I reference each particular clone to check for a match. Any help much appreciated.
+

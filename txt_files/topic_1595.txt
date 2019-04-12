@@ -1,0 +1,8 @@
+Hi, Is it possible to export a variable list after someone uses the project from the mit.scratch.edu website? We have created a project that shows math equations and are using scratch to record their response and reaction times by entering them into a variable list. But I can't seem to figure out how to look/export the response list from the website. Thanks!
+
+Unfortunately, I don't think you can do the same sort of exporting on the website that you can do in the desktop application. Maybe you could display the responses and reaction times within the program and manually record them? K
+
+That would work but can I see when someone is using the project? Or would I have to ask the person to send a screenshot after they've finished?
+
+No, unfortunately, you can't see when someone is using the project online. In the project notes, you could ask people to record their responses/reaction times in comments.
+

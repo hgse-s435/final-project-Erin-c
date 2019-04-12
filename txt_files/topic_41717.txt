@@ -1,0 +1,4 @@
+A student who wants to learn Python is using Python for Kids. He is stuck on loops and it got too hard for him to continue alone. I thought I could use Scratch to then show Python code to help but I'm not getting it to work. Help! Any advice please?
+
+At what point is he stuck? Python uses While and For loops which are not directly transferable to the Repeat loops in Scratch. There are numerous Python tutorials available which may augment/clarify the examples in the book... http://www.learnpython.org/en/Loops http://www.python-course.eu/python3_for_loop.php
+

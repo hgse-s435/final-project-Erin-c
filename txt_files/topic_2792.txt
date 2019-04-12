@@ -1,0 +1,6 @@
+Hi there, I am newbie in this site. I was looking in documentation of Scratch on how someone can handle the DoubleClick from the mouse. Unfortunately I did not find anything, so I decided to implement a new function - scenario. In theproject there is my suggestion, in a simple project. The only sprite in scene, can accept single or double click from mouse and react accordingly. For those who want to play with the double click speed, can change the value in the wait block. If someone else has a better implementation, please lets he give it to me. Thanks NikoS
+
+Hi Nikos, I search the Scratch website and found the following projects: http://scratch.mit.edu/projects/Giantfishy/528456 http://scratch.mit.edu/projects/happydude/124331 http://scratch.mit.edu/projects/dsdude10labs/335607 K
+
+Thanks Karen...
+

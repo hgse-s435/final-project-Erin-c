@@ -1,0 +1,8 @@
+Hello, I'm Al Sweigart. I've written a few Python programming books for young adults and beginners. (You can download them from http://inventwithpython.com) I've started making a series of screencasts covering some small games in Scratch 2.0, which show step by step how these programs are put together. They may be helpful to distribute to kids who would follow along and get ideas for how to implement their own games. The screencasts are at http://inventwithscratch.com I'd be interested in any feedback or suggestions for new programs to cover, or if anyone knows people or organizations I should contact about these screencasts.
+
+Just watched two of them (boomerang game, pinwheel). Love them. Inspires to make some Dutch screencasts.
+
+Nice, and you have a soothing voice :) I instruct young students in Scratch and am always looking for new ideas. I have too many students mirror my ideas instead of being creative. I will link you up as a resource to help them think up new ideas by mixing components up with what I teach. Thanks!
+
+Al, your tutorials are much loved by my 4th-8th grade students. You get right to what matters to them, which is to learn the basics so they can improvise later. Thanks.
+

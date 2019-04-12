@@ -1,0 +1,6 @@
+I am stuck. If you have a game where sprites disappear after clicking on them, etc. and you want the game to be "over" when all the sprites are gone, what blocks would you use to program this? As the programmer, I have no idea which sprites will get clicked first, second, last, etc. Good examples of this would be as in a concentration game or block busting game. Thanks!! Jen
+
+Hi Jennifer, One way to do this might be to create a variable like score that counts how many sprites you've clicked on. When the score reaches the total number of sprites, then you can broadcast the end of your game. Here's an example for adding a score variable to your project - http://scratch.mit.edu/projects/ScratchEdTeam/2042755 Hope that helps! Let me know if you have any other questions. M
+
+Thanks so much! That works well.  I just hid the variable from the screen so it's part of the interior of the program. Great! Jen
+

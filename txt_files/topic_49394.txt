@@ -1,0 +1,2 @@
+In this project, if you manually click in the script editor, the blocks run fine, but as soon as you try to activate the script with an event when clicked - with a letter or arrow key, the script doesn't run... ideas please??? Here is the project:https://scratch.mit.edu/projects/153871202/
+

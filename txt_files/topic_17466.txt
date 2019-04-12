@@ -1,0 +1,6 @@
+I was trying to upload a student project onto the site, but received an error message because of the file size. I have compressed sound and image sizes to the minimum values but it is still 14.3 Mb. The reason for uploading it is so I could get the applet code, which I was then planning on embedding in a Wix website. Anybody have a way around this? Thank you
+
+Hi Afek, Unfortunately, the file size limit is 10mb. There are suggestions for reducing file size other than compressing sounds and images at http://wiki.scratch.mit.edu/wiki/Is_There_a_File_Size_Limit_for_a_Project%3F. Another strategy is to record a video of someone interacting with the project and post it on YouTube or Vimeo, although this might depend on how interactive your project is. I hope this is helpful. Let me know if you have any other questions. Sincerely, Michelle Chung, on behalf of the ScratchEd Team
+
+Thank you for the suggestions.
+

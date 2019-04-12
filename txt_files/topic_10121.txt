@@ -1,0 +1,6 @@
+I found these sensor boards on ebay called PIC Development Board for PIC16F877 PIC16F877A Does anyone know anything about them and could I use them as picoboard. The cost is cheap.
+
+Betty, PIC Development Board for PIC16F877 PIC16F877A is a card that is used to program the PIC (programmable interface controller). They are used in circuit boards and such has been used to program the picoboard. But you can not use a PIC programmer instead of picoboard. Sergio
+
+Have you ever hear of the virtual sensorboard?
+

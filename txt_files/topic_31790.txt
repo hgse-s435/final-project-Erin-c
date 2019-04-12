@@ -1,0 +1,4 @@
+I'm using the BYOB 3.1.1 version of Scratch on Macs (OS 10.6.8) in my classroom. I want to make the default sprite one of my own design (a pretty simple arrow), and tried exporting it to the Costumes folder with the name default.sprite.ysp as per advice from a discussion thread from the Internet (relating to Scratch 1.4). This has not worked. Any advice?
+
+You can replace the default Alonzo sprite with a sprite of your own. Your default sprite can include multiple costumes, sounds, and even scripts. To set this up, just create your sprite and export it. (To export, right-click on the sprite and choose "export this sprite."). Then rename it "default.ysp" and place it in the Costumes folder.
+

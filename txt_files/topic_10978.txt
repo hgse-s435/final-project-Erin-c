@@ -1,0 +1,4 @@
+I think I'd like to see a Power search added to this site because I noticed when you share a resource, all sorts of meta data is collected and I'd be interested in being able to search specifically using this. If the feature already exists, please let me know where it is!
+
+Hi Colleen, Sorry for not getting to your suggestion sooner! The upgrades to ScratchEd launched earlier this week should make some of this searching easier. You can filter the metadata from the Explore Resources page(http://scratched.media.mit.edu/resources/all) and via the Search page (http://scratched.media.mit.edu/search) If you have any suggestions for other types of search interfaces, please let us know! Thanks, K
+

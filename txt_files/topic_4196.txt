@@ -1,0 +1,4 @@
+How do you find out how much of a Scratch project has come from someone else? Thanks, Barb Ericson
+
+Hi Barbara, We do not have an automated mechanism that given a particular project it would search for projects that are similar. However, whenever someone uploads a project to the website, we do run a process that reads the header of the file to figure out if it is based on someone else's project. This is how the automatic credit-giving line in remixes works. This works for the most part but as you can imagine there are always ways to get around it. If you are trying to compare two projects that are already on the website, we have a barebones version of a project "diff" that gets two project id's and tries to figure out what are the differences. This is not ready for the public but here it is in case you're interested: http://stats.scratch.mit.edu/diff/remixcomparator.html Let me know if you have any questions/feedback. Best.
+

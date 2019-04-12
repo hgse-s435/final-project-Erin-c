@@ -1,0 +1,6 @@
+I searched for ways to record internal sounds in Windows7 computers, and I found out that I needed a sound recording driver called "Stereo Mix", which Windows 7 does not have. So for the time being I'm using a web page that transforms YouTube audio into MP3 files: http://www.youtube-mp3.org Anyone's got a better solution?
+
+http://soundbible.com
+
+http://www.audacityteam.org/
+

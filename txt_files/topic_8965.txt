@@ -1,0 +1,8 @@
+I am not sure if this is the right area to post this question/suggestions -- is there a way to drive two motors with the standard wedo setup?We have just started using the WeDo board with Scratch, and often wish we can have dual axis control... Any creative ideas? P.K.
+
+Hi P.K., This is definitely something that people want to be doing (e.g.http://scratched.media.mit.edu/resources/wedoscratch-miniguide), but unfortunately it's not possible. I, too, would like to know if anyone's come up with some interesting workaround! Thanks, K
+
+Hi PK Hmmm... if you use Scratchclone S4A and an arduinoboard... but wait a minute its an answer to another question. I havent tried, but the WeDomotor is to expensive to experiment with so maybe its not a good idea. But there are cheap DC-motors... But its not a solution... but if, hmm, you make a legobrick with a special connector you dont have to damage anything... and buy an arduinoboard. Ive seen someone who built something like that http://www.instructables.com/image/FA3BYDDGB5HDHVR/Lego-Motor-Arduino-Interface.jpg I must try... :)
+
+Please refer to thread http://scratch.mit.edu/forums/viewtopic.php?pid=500075#p500075
+

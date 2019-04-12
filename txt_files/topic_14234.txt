@@ -1,0 +1,8 @@
+I'm creating scratch lessons in my blog. I want to add particular project file of the exercise via a screenshot of the final stage and use it as a link to download that file. I have seen project files in a post like this :http://scratched.media.mit.edu/resources/introduction-programming How can I do that? Please help me! Thanks and Regards sonal
+
+Hi Sonal, The Scratch project files that you are referring to in the ScratchEd post have been uploaded to the ScratchEd server. I'm not sure if you can do the same with your blog.An alternative might be to post a picture of the Scratch project and then use the picture as a link to the project page on the Scratch website, where the person can then download the project. If you just want the project to be able viewable on you blog, you could embed the project in your blog website. You can find the embed code for a project on the right side column of the project's page: Hope that helps! M
+
+Michelle Thanks a lot for the detailed answer. I'll try to do apply both of your options and see how things go from there. Still trying to gather ideas and put them in correct format... So I can make the blog as much interesting as the Scratch itself is. I wish I could put some link over here for smart people to look and comment. But, still on the way.... sonal
+
+Sounds great! Let me know how it goes. M
+

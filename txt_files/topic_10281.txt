@@ -1,0 +1,16 @@
+Karen, Before we're done at MIT this week I'd love to hear what's next for Scratch. What are your short term and longer term goals for Scratch? Where do you think it is headed from here both as a community and as a programming environment? Thanks for a great program.
+
+Hi Susan, Thanks for the suggestion! We've added this to the list of things to talk about today. Additionally, you might be interested in checking out the Scratch blog athttp://blog.scratch.mit.edu/-- which has periodic updates about plans for Scratch 2.0. Thanks, K
+
+In what's next, I would love to see and/or be involved with a more intuitive music component in the world of Scratch. I'm not sure how that would look, exactly, but I'd love to think about it!
+
+I plan to go back to my summer camp where I am teaching technology for the summer. I will first explain to my campers that I just got back from 'Scrach Camp.' Then I will show them my projects that I did will I was at MIT. Second I will give them a project theme 'What was the best thing that I did at camp this summer.' Third I will give them a little time to write it out. Fourth I will have a little time to share them with the class. Fifth I will ask them to explain how you think about something and then how do you do it. Sixth I will show them the basics and explain to them that their are no mistakes and try everything. Finally I will explain that I am a novice and if I have to I have resources that I can contact to answer their questions. Have fun I will not grade these...LOL
+
+What's next for Julianne? Well a few things. First, thank you ofr a wonderfully informative, hands-on, collaborative workshop. I no longer feel afraid of Scratch and feel comfortable to introduce it to my students and colleagues. And I now know what I don't know i can ask my fellow Scratchers...BTW why is it called Scratch? My plans Work with my Ramapo colleagues to integrate Scratch Continue to hone my skills by attending additional workshops and connecting with Scratchers I would plan to run an afterschool program through our 21st C Grant... What's next for Scratch...hmm not sure but i would love to be aboe to open 2 projects at the same time...I often look back at code.
+
+I finally finished my project that I started at the workshop. It's posted on our gallery. I still want to work further on the timings and the appearance, but it works (all the time, I think).
+
+So cool Janet! I was playing the project and it's great, but for some reason, if I continue playing, it starts to give me the wrong room number. Any idea why? M
+
+I guess I go back to debugging. Thanks for trying it out. I needed a second opinion. My biggest mistake was relying on the costume names in the stage. For some reason it kept changing the names of the costumes. What was originally room1 became room3. Is that a bug? So I switched to using background #s and that helped but I probably missed a change I needed. Stay tuned.
+

@@ -1,0 +1,2 @@
+I divided my classroom im four groups, each one developping their own project and now I need to group then in one project, but they have same names of the sprites, variables ... etc. There are any way to one project load (or call) another project? thanks
+

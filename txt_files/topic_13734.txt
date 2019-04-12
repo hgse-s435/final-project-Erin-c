@@ -1,0 +1,30 @@
+Is there a helpful resource (ie:Scratch projects, links, strategies) that you shared (or would like to share) with other participants? Please post it here! Is there a resource that was mentioned during the workshop that you want to know more about? Post a comment about it!
+
+Here are links to more info about the Media Lab research groups you visited and tonight's guest speakers: High-Low Tech -http://hlt.media.mit.edu Opera of the Future -http://opera.media.mit.edu Joe Douillette -http://www.icateens.organdhttp://www.rymaec.org Teon Edwards -http://edge.terc.edu Sep Kamvar -http://wefeelfine.org M
+
+further explorations WeDo (lego robotics for Scratch) http://www.legoeducation.us/eng/product/lego_education_wedo_robotics_construction_set/2096 BYOB (build your own block) create subroutines in a Scratch like enviroment. http://byob.berkeley.edu/
+
+Great Book- " Scratch Programmingh for Teens", Jerry Lee Ford,Jr. Has a CD as welll
+
+Website for teaching web design: msbswebclass.com At the bottom - weekly lessons Semester B - all Flash
+
+http://www.bundlenut.com/b/272004 http://tech4kids.wordpress.com/scratch-resources/
+
+www.eastonhome.co.uk/Scratch/index.htm# Teach Scratch through gaming
+
+Video to show kids what you can do in Scratch http://vimeo.com/29457909
+
+Buildling math games in SCRATCH http://www.computersforcreativity.com/resources/scratchmathgames
+
+How to find good royalty-free music (or that's what they say...) http://edtechideas.com/
+
+Easy 3D game programming (Microsoft only) Kodu is a new visual programming language made specifically for creating games. http://www.microsoft.com/en-us/download/details.aspx?id=10056
+
+Here are the example Scratch projects shared during the workshop - http://scratch.mit.edu/galleries/view/174152
+
+If you're interested in printing out images of the blocks, they're available in jpg or pdg format here - http://scratched.media.mit.edu/resources/blocks
+
+More manipulatives -- lots of "offline" activities at csunplugged - http://csunplugged.org
+
+Lessons for learning Scratch: http://shallwelearn.com/index.php/en/scratchprogrammingforkidscategory/scratch-lesson
+

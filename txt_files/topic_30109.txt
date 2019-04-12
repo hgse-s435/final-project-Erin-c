@@ -1,0 +1,4 @@
+Hi, This is my first post so sorry if it is very basic. Which interface is better for kids?Web or scratch client? Do both of them provide same functionality?
+
+Hi there, I believe the functionalities are the same, but I chose the offline client so that the teaching experience is smoother and I'm less dependent on the network/ wifi/ connections (which can be very frustrating when the connections drop...). Once the kid's projects are done, just upload it to the web :) Hope that helps, cheers,
+

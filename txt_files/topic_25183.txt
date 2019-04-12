@@ -1,0 +1,2 @@
+Hi Scratchers! I am a doctorate student at Rey Juan Carlos University (Madrid, Spain) and a teacher at a secondary school where I have been working with Scratch for several years. We would like to do a software analytics research on Scratch projects stats and we are wondering if there is a simple way to get a copy of the projects in the repository. Best regards, Jess Moreno.
+

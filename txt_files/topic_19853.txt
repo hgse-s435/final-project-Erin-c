@@ -1,0 +1,4 @@
+I have a student who wants to know if Makey Makey is compliant with Scratch 2.0. Thanks Vicki Gold
+
+Yes! Very much so. To the computer, a MaKey MaKey appears as a USB keyboard and mouse. Workds great! -Alex
+

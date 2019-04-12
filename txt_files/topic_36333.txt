@@ -1,0 +1,8 @@
+In classrooms where students are imagining, inventing and tinkering, we hope that learners will be fearless and daring.
+
+I think fun needs to be a very huge element of the kid's project. I've observed that when kids are having fun creating their own games or animations, they become very experimental, and love "showing off" to other kids when things go wrong with their code in a funny way.
+
+Hi David, Thanks for sharing your thoughts. I like your point that fun is an important ingredient in experimentation. It's great that your students can celebrate their mistakes when things go wrong with their code, especially if sharing these funny moments propels them to keep iterating. I'm curious to know what kinds of things you say or do to support your students in harnessing these fun experiences while also pushing themselves to keep trying new approaches to the problem. Thanks so much, Willa
+
+Hi Willa, Very often, if I have an even more goofy way of "screwing up" the code, I join in, and show them what will happen if certain "wrong" codes are inserted. I also emphasize to the kids that there is no correct way of writing code, and there are many ways to write code to achieve what they want. The 2 keys points that I stress are: 1) Is the code working in the way they designed it to work? If not, its a bug! But sometimes, a bug can become a feature :) 2) Is the code doing it in the most efficient way possible (at the moment) This approach does seem to work so far :) Cheers, David
+

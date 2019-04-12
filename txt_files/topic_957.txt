@@ -1,0 +1,6 @@
+OK, Iheard someone, Peter, amybe. saying scrolling backgrounds were tough... so how do we do it? thxs
+
+There is a forum topic about it: http://scratch.mit.edu/forums/viewtopic.php?id=2440 I found it by searching the web: Scratch scrolling backgrounds
+
+Not too tough, I don't think. It depends on exactly what you need. Ie.. scrolling one direction, two, four, etc. I have a project that uses an infinitely scrolling background. It is based on a method commonly referred to as "scrollx." Here is a link to the scroller... (um, ignore the cat? lol) http://scratch.mit.edu/projects/Locomule/707613 and here it is being used as a random dungeon generator.... http://scratch.mit.edu/projects/Locomule/708768 If you have any questions, note me using a Reply here and I will receive a message and respond asap. I'll be glad to help you with any specific usage that you require or just general info. http://scratch.mit.edu/projects/Locomule/716067 or you can send me an email of course :) zac_ray@fastmail.fm
+

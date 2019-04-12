@@ -1,0 +1,2 @@
+Anybody knows how to use the Block "Bubble", "Lights On" and "Lights Off"? They are the Blocks available for the drag and drop programming, but nowhere at the instruction manual mention or explain how to use them? Or in what context?
+

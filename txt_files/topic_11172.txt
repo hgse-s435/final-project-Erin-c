@@ -1,0 +1,8 @@
+If I delete a variable then all uses of the variable should disappear from the script in which it is used or at least turn a funky colour to indicate deadness. Instead, they sit there looking just fine and breaking the script that uses them.
+
+Also agreed!
+
+Thanks, I think this problem really does qualify as a bug...and it causes my students serious problems sometimes...but as I said in the other post, I don't know where to go to make sure it gets some serious attention from the Scratch Team. - mulhern
+
+Check out my response on your other thread about how to report bugs...
+

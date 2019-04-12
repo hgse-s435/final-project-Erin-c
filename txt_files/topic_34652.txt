@@ -1,0 +1,2 @@
+My students and I are so far unsuccessful in getting the Pico Board to work! I know everyone says it works great so I am clearly missing something basic! Please help!! If we click the block with the Pico Board hat, it works. Clearly the problem is that the computer (Scratch) is not recognizing the input from the Pico Board. We did download and install the plugin. What could be wrong???
+

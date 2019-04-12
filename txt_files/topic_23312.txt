@@ -1,0 +1,6 @@
+We, at the FGPU would like to know if you are planning to allow the connection of external devices in the 2.0 Scratch version like in version 1.4. The two functions missing are : Sensor and Sensor value in the Sensors block.
+
+You can now connect Scratch 2.0 to external hardware devices such as the WeDo and PicoBoard! Activate the Scratch blocks needed to control hardware by clicking on "Add an Extension" under the Make a Block category.
+
+How about Lego Mindstorm EV3 ? I'm in west africa and it would be great to have our kids storm the scratch code in the lego's mind ! A bonus if that could be done with linux ! Thank you
+

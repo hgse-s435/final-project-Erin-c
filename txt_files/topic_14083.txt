@@ -1,0 +1,18 @@
+Hi. We are eagerly awaiting the web version of Scratch 2.0 at my school, where we have only Google Chromebooks. In the new version of Scratch for the web, I would like to ask if there will be some sort of autosave. Using Chromebooks, sometimes kids will close the browser tab, or the connection may be lost. It would be nice if Scratch autosaved so work was not lost. Again, really eager for the web Scratch. Thanks for doing this! Peter R.
+
+Hi, Peter. Yes, Scratch 2.0 will automatically save your work as you edit projects, similar to gmail or Google Docs. Your work will be saved even if you close the browser tab. -- Johnm
+
+Thanks for the response. I know you all are working furiuosly on the release of Scratch2.0. As I mentioned, my school is Chromebook only, which means we rely on web-only apps. From what I understand, the release date is end of 2012. I'm hoping this is solid as I am planning for Scratch in the second semester. I just thought I'd advocate for web-based app only schools. We're really couting on this for the new year. Scratch on!
+
+Hi, Peter. Yep, we're certainly working furiously and hoping to launch by the end of the year. But it's hard to predict how smoothly it will go. You'd be wise to have a backup plan in case the release is delayed. Are you an alpha tester? If not, would you like to become one? That would give you a chance to see how well Scratch 2.0 runs on a Chromebook. It should work well, since it works well in the Chrome browser, but we don't have any ChromeBooks to test it on. If you're interested, email a request to help@scratch.mit.edu with your Scratch user name and I can set you up. -- John
+
+John. I'm a teacher at an international school in Japan and I would love to alpha test. Also is there going to be a chance for extensions? One of the things I was planning was using scratch and then extending into robotics with enchanting. Will this still be a possibility? Kevin Ktracy@fis.ed.jp
+
+I'll leave it to John to answer the extension question, but if you'd like to be a tester, you can add your Scratch username to this list.
+
+Hi, Kevin. I'm working on a system for Scratch 2.0 that will allow folks to add extensions to control robots and other hardware. It won't be ready for the 2.0 launch, but I hope to make it available in the first half of 2013. If you become a tester you can get a feeling for it by enabling the LEGO WeDo blocks. Exension blocks show up in the new "More Blocks" category. TheLEGO WeDo blocks don't actually work in the alpha version and WeDo supportmay not be ready in time for the release, but should be available soon thereafter. -- John
+
+I am very interested in being an early tester. I am using Scratch in all the schools - 19 classes of 6th graders in the Los Altos School district, in California. We work mostly on Macs in the labs. Now, we also have Chromebooks in the schools and my students would love to have a web version of Scratch for work in the classroom and at home. Please add me to the list.
+
+Hi Sheena, It would be great to get your feedback on how Scratch 2.0 works in your classroom. If you'd like to be a tester, please contact Karen Brennanwith your Scratch username. Michelle
+

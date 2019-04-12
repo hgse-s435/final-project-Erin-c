@@ -1,0 +1,18 @@
+I saved something in the wrong category, and found I could edit it and move it. Nice.
+
+What is the platform you use for this site? It is a very sweet project platform. Update: I think I see Drupal things in page sources - is it a Drupal template?
+
+Yep, ScratchEd is built on Drupal.
+
+I notice that when I post to discussions, I am forwarded to a blank page and have to use my browsers back button to return to the site.
+
+I've noticed this too. (And I find it quite annoying!) It's on my bugs list. Thanks for the report -- if you notice any weird behavior, I'd be happy to know about it! K
+
+Karen, Are you aware of anyone who's got a Drupal/Scratch integration up and running, so that Scratch files attached to a Drupal post play in the browser? There's advice on how to make a start on this athttp://drupal.org/node/921736 but nothing plug-and-play that I've found so far... Miles.
+
+Hi Miles, I created a Drupal scratch project field module for the Scratch Tours on the main Scratch website. http://info.scratch.mit.edu/Scratch_Tours Is that what you're looking for? Thanks, K
+
+Hi Karen, I think so - I'd like to make it possible for my students to be able to embed Scratch projects inside Drupal nodes, as you have at http://info.scratch.mit.edu/node/120/5 Best wishes, Miles.
+
+Here a link to the module that makes a Scratch project field possible:scratch_project_field.zip And how to install... Install modules: Views, CCK, Token, Pathauto Copy the scratch_project_field module to sites/all/modules Enable the scratch_project_field module Hope that helps! K
+

@@ -1,0 +1,6 @@
+How come scratch takes up well over 10% of my CPU even when I'm not running any programs in Scratch? Has anyone else observed this or come up with an explanation? It seems excessive.
+
+I asked John Maloney (the lead developer of Scratch) about this, and here's what he had to say: It's a combination of several things -- first, Scratch tries to keep thumbnails of sprites updated as the sprites change. Although there are optimizations that save most of the work when nothing changes, it still takes some processing time just to check. When I first open Scratch viewing the default project, Scratch consumes about 2.5% of the CPU on my MacBook Pro. If I open a project with many sprites, it goes up to 4.3% However, there a more significant cycle consumer. The sound player seems to use about 11% of my CPU even when no sounds are playing. The sound player is started the first time any sound is played and it is never shut down after that. So Scratch burns about 13.5% of the CPU time on my computer after playing a sound. Finally, if you use the "loudness" or "loud" blocks, that opens the sound input channel, which seems to burn another 5%. I agree, this seems excessive for "doing nothing". Scratch should probably turn off the sound input and output channels when they haven't been used for a while.
+
+Thanks!
+

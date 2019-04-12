@@ -1,0 +1,4 @@
+I created my class and accounts for my students. I assigned a password(that is the same for all students) that student will change once they login. I tested logging in as several students but get the error message "Incorrectusername or password" for most. I know that is not the case because I double checked the username and password. Does anyone have a fixer for this? I contactedscratched@gse.harvard.edu but was directed to ScratchED.
+
+Hi again, Mariette, You'll want to contact the Scratch Team at MIT with this question. They can be reached via:teacher-accounts@scratch.mit.edu And in case it's helpful, here's a little visual to break down the difference between Scratch, Scratch Teacher Accounts, and ScratchEd. You're not the first person to be confused! :) Hope that helps, Willa, on behalf of the ScratchEd Team
+

@@ -1,0 +1,6 @@
+Does anyone have a suggestion or fix for "jumpy" sprites when doing the maze activity? We draw the maze on the stage and use an IF statement for touching color to go back to start position. To move sprite, we have When key pressed, point to direction, move 5 steps. The sprite jumps about 100 steps when key is first pressed and may even jump over lines.
+
+Hi Susan, Some of my students had a similar problem with 'jumpy' sprites on a maze. On their project, the problem was that they had altered the rotation centre on their sprite's costume so that whenever they turned the sprite, it jumped. If that is the problem, all they need to do is edit the costume and move the costume center. There's some info on how to do this on the Scratch wiki: http://wiki.scratch.mit.edu/wiki/Costume_Center Chris
+
+Try adding a WAIT block with value of .1 secs after each MOVE block (you can adjust the value for optimal movement speed).
+

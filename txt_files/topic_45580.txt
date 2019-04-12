@@ -1,0 +1,2 @@
+Hello, I have a 5th-grade science teacher who wants to trigger videos to play when a diorama hot-spot is pressed. It sounds like a perfect job for a Makey-Makey. Have you had any success triggering videos through Scratch or another program? The best I can think of is triggering an audio file with a single image. Thank you in advance for your help. Sincerely, ?Jason Meltzer
+

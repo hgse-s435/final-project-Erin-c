@@ -1,0 +1,6 @@
+Hi everybody! I'm not sure if this is the right place to ask... Recently I've become interested in a series of projects with mathematical and trigonometric formulas inside, usually related to effects with PEN. I understand most of the code when I go through it but I get lost (cause I'm obviously rusty;-) when I come across these sin, cos, etc. So I'm wondering if there are any kind of materials, websites, forums... that can help me revise, understand and apply these. Thank you so much!
+
+Hi Gloria, here a place where to post your question http://scratched.gse.harvard.edu/resources/scratch-every-subject-math You can also remix activities made with Turtle art https://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials
+
+Thank you so much, Maria Beatrice! I'll take a look at those links you just sent me :-)
+

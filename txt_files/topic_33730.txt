@@ -1,0 +1,4 @@
+As a high school teacher, I need to be able to look at students work after it is completed. I had the students give me their user names and tried a few ways to find them in some of the posts, but to no avail. Any help would be greatly appreciated. Thank you, Deb Houghton
+
+Hi Deb, The web addresses for Scratch profile pages always follow the same pattern: https://scratch.mit.edu/users/USERNAME For example, my Scratch username is "cshell" so you can find my page at: https://scratch.mit.edu/users/cshell This should help you to find your students' work as long as they have shared it. It won't help if they didn't share it! Chris
+

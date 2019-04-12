@@ -1,0 +1,4 @@
+How do I change the angle of a sprite based on a variable value? The variable changes in a non-linear fashion. I can only find the angle block which only accepts integer values not a variable. What am I mssing?
+
+Sorry for the uneducated question. I did not notice that variable would drop into the angle or moveto value area. Problem is solved.
+

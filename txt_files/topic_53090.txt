@@ -1,0 +1,4 @@
+Hello, I'm looking for input on good ways to describe "what is programming" to an audience of 14-18 year-olds who have not had much exposure to computers. If anyone has input in terms of verbiage, websites, videos, etc. which they've leveraged successfully with this audience, I'd very much appreciate it. Thanks! Lynette
+
+Hi Lynette! I wonder if Unit 0 of the Creative Computing Guide might be helpful, or you may find some interesting projects / ways of talking about coding here:http://scratched.gse.harvard.edu/resources/scratch-across-every-subject-recap!
+

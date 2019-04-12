@@ -1,0 +1,8 @@
+Scratch is a really great way to get kids ready for the MIT App Inventor, which uses Scratch-like blocks to code functional Android apps! Give it a try, it works best with Middle and High school ages.
+
+Hi, How can we use AppInventor in Computer Science education? Do you have any documents/e-book about AI education in classroom?
+
+There's an online curriculum located at http://www.appinventor.org/content/teaching-app-inventor/introduction/course-intro.
+
+Thanks a lot.
+

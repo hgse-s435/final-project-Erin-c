@@ -1,0 +1,14 @@
+If I have a forever statement with "turn 1 degree" inside, the sprite turns fairly slowly. Is the speed at which the sprite spins machine/microprocessor dependent? If I want a sprite to rotate 360 degrees (smoothly) in 4 seconds, what is the best way to achieve the desired timing? Thanks, Hans
+
+On my computer, it takes about 9 seconds to tun a full circle at 1 degree/ loop. Turning 2 degrees per loop makes a circle in 4.5 seconds.
+
+Like Rick, I found that ittakes 9.1 seconds to rotate 360 degrees, by turning 1 degree 360 times. > If I want a sprite to rotate 360 degrees (smoothly) in 4 seconds,what is the best way to achieve the desired timing? I used a timer to calculate the desired angle as a function of time. If I turn 2.25 degrees 160 times, it takes 4 seconds.
+
+I should have attached the code I used to experiment with the timing...
+
+In my experience it is machine dependent and also much slower in the Java implementation. I created a routine to test the speed and decided how far to move in each cycle based on that. You could do the same thing to determine how many degrees to move each time through the loop. The project is at http://scratch.mit.edu/projects/weissjd/5435
+
+Hans, is this something you need to be synched with, say, other rotating gear sprites such that you need exactly 4 seconds independent of CPU, etc? In the way that there's a [glide(4) secs to x:(0) y:(0)] motion block are you needing something along the lines of [rotate(4) secs through:(360) degrees]? Best regards, -- DanG
+
+Depending on exactly how smoothly you need it to turn and how much scripting/programing you want to do, you could fake it by using multiple rapid costume changes.
+

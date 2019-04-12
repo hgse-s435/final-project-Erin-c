@@ -1,0 +1,8 @@
+Hi all, Does anybody know or have plans to start a discussion group or forum for people who are teaching with BYOB/Snap! as much as with Scratch? I'm teaching a collegeprogramming courseright now withthe sequenceScratch -> BYOB ->Python and there are times when I'ld really like to be able to ask for ideas for teaching or questions specific to BYOB. Let me know. Thanks! - mulhern
+
+Hi Anne, You might want want to send an email to Brian Harvey about how/where they'll be dealing with BYOB/Snap! educator support. Sincerely, K
+
+Do you know about our "Beauty and Joy of Computing"curriculum? It's an APCSPrinciples pilot based on BYOB (soon to be Snap!). Check it out at http://bjc.berkeley.edu Also check out the progress of Snap!development at snap.berkeley.edu/run I'm bh@cs.berkeley.edu if you want to chat.
+
+Done! Brian, we've already communicated via email about this idea. - mulhern
+

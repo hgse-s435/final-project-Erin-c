@@ -1,0 +1,8 @@
+Hi, I just wanted to show you a cool thing to do if you have a Kinect and a couple of Lego Wedo Motors. And a few hours left for making, thinking and doing... I used the Scratch2Kinect from Stephen Howell, and the TwoMotors Scratchimage fromKazuhiroAbe. Kinect2Scratch scratch.saorog.com TwoMotorimage squeakland.jp/abee/tmp/controlingTwoMotors.zip The video ( I couldnt embed the video...) www.youtube.com/watch
+
+This looks great. I haven't used WeDo yet, do I need to purchase the WeDo software At all? Or just the construction set? Also, why can't you use a kinect powered through the USB?
+
+Hi Vanessa You don't need the lego software. Just plug in the legohub and Scratch take care of everything. I think the constructionset is a little bit expensive (in sweden), so just buy the motors, the usb legohub, a couple of legosensors.... And use old legoparts. The kinect needs more power, I think, than the USB port can handle. So get the extra powercable and experiment :) It's a lot fun... /Anders
+
+Hi Anderrs, I met you in Barcelona I have been doing a lot of wedo with the children in my local Primary schools. I have a kinect and can get my car to respond to gestures, although it is a bit erratic , possibly my programming or my pc. However i have a problem with my programming and i am getting a bit frustrated. I saw on your you tube video that you have two variables displaying what power the motors are delivering. How did you do this? I have made a scratch along the lines of the one on your youtube video. Some help would be greatly appreciated. Steve
+

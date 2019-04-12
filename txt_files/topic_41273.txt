@@ -1,0 +1,4 @@
+Hi! My first post/discussion. I am teaching a STEM program and using the SCRATCH program. Our school is thinking of investing in Amazon Fire tablets. I bought one and tried it on Scratch, but when I pressed CREATE, i got a message that said, "Oh, no! We're having trouble displaying this Scratch project. If you are on a phone or tablet try visiting this project on a computer. IF you're on a computer, your Flash player might be disabled, missing, or out of date. Visti this page to update Flash." Please advise if we can do Scratch projects on an Amazon Fire. Thank you so much, Phil Siegel STEM teacher Waukegan, Illinois
+
+Hi Phil, Thanks for your post. And welcome to the ScratchEd community! Sad to say that Scratch doesn't (yet!) work on tablets. (Scratch Jr. does but it's not ideal for middle school students). The Scratch team is working on a version of Scratch that won't rely on Flash. Sorry I don't have better news. Best, Willa
+

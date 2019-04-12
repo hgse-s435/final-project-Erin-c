@@ -1,0 +1,4 @@
+I would like you to look over the three senarios of the following programm scratch.mit.edu/projects/20687843/ In my opinion it works inappropriately. It seems that the three senarios do not execute simultaneously. The first lines of the senarios of the sprites 2 & 3 are drawn and then are erased. It produces the desired result if I put the clear command at the third sprite only or if I put the clear command at a senario at the background and insert a wait commad to all sprites. What puzzles me is that the three senarios do not execute simultaneously. Thank you for your time.
+
+It produces the desired result if I put the clear command at the third sprite only or if I put the clear command at a senario at the background and insert a wait commad to all sprites OR if after the clear command in the background senario create a message which when the 3 spites receive will start drawing.
+

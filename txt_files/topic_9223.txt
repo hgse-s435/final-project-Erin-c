@@ -1,0 +1,8 @@
+Hi all, i wonder how can i show summary of projects i have (like how many projects i created? which date it was created?) thanks
+
+Do you mean of the projects you've posted to the website? If so, there isn't really a quick summary to look at.
+
+Hey Karen, Yes, since the account i am using is used by several people at University, i thought it will be nice to see exact date user uploaded the project or at least when i download it i can see the creation date? well, i tried but it seems like there is no option :) Thanks, Ivete
+
+Hi, Ivete, I don't know whether you have tried this, but (with thanks to Karen) at the recent Scratch Educator Meetup we learned the 'trick' of holding down the shift key while selecting the File menu. The menu will show 'Write Multiple Project Summaries' which will let you get summaries for all the projects in a folder. I just tried it to see what would happen -- it creates a separate .txt file for each project, but in each file it does show author and history of saves, etc. It's not quick since you need to download each project to a folder, but once you have them all downloaded, you could generate the text files with that one command. Would that be helpful for what you need? --Sandie p.s. ...and then maybe if you combined the summary parts into one text file, you could use Scratch to read in the text, parse it, keep track of how many projects per author, etc....  Okay, I guess that's not a quick solution!
+

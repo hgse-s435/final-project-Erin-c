@@ -1,0 +1,6 @@
+We plan to implement Scratch using the new draft guide released in September, 2011. Since ours is a block schedule - 80 min long, ofr a 9 week course; are there any enrichment activities that will build on this curriculum while extending student learning.(And our students have varying levels in terms of ability levels as well - therefore the need to differentiate) I understand there are tons and tons out there, however I am looking for the activities to be simliar to the ones laid out in the new draft. Another approach was to use the BYOB as extensions. All suggestions are appreciated. Thanks, Ann
+
+How about going back to the roots of Scrath and do some turtle geometry? There are plenty of computational ideas with or without computers we can integrate into the curriculum guide using turtle geometry. Also students can see how computational ideas have developed and sustained over time. Here is an excellent wiki by Cynthia Solomon who worked with Dr. Papert during the development of Logo. I especially like the videos. I am thinking that students might be very interested in this piece of history of computers and technology. https://logothings.wikispaces.com/ neha
+
+It's not immediately obvious to me that you'd need more activities. There's something really nice about giving kids more time to go deeper with their projects... K
+

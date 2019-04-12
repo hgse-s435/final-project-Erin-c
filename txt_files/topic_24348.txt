@@ -1,0 +1,12 @@
+Hi, my name's Fabio Albanese, I'm a CS teacher at Collegio Vescovile Pio X of Treviso (Italy) We are planning to organize an event (workshop and exposition) on May 17th 2014 for the Scratch Day I didn't understand how to join the Scratch day organizers database to register our school and our events. Can anyone help me ? Thank you.
+
+Hi Fabio, It's exciting to hear that you're planning to host a Scratch Day event! You can join the organizers mailing list and post your event on the Scratch Day website at http://day.scratch.mit.edu. Sincerely, Michelle, on behalf of the ScratchEd Team
+
+Thank you Michelle, please, let me know how to join the mailing list. I didn't found informations about it. Thank you again Fabio
+
+I am also struggling with this question. I sent in a support request via the Scratch Day website but have yet to hear back so I'm bumping this thread in hopes of illiciting some help. Thanks!
+
+Just a quick note to others looking for information on this topic. I received this feedback from the Scratch Team to a direct inquiry: "The MIT Scratch Team is in the process of updating the Scratch Day site for 2014. We'll post an announcement on ScratchEd when they've updated the Scratch Day site." Regards
+
+I just took another look at the scratch day site. It seems that this was updated overnight. If you go to the login page you will now see a tab to create a new account.
+

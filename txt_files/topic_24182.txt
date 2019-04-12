@@ -1,0 +1,4 @@
+Hi I plan on teaching two projects this week. One is a simple holiday card. Pick a backdrop, import your picture, size your picture, put text in it... say happy holidays or merry Christmas.. save & share. then they go on the school tv in the lobby. the problem is the green flag is right in the middle of the card. can we get rid of it? thank you cynthia
+
+Hi Cynthia, Thanks for sharing and I can understand your concern. The green flag is a convention in Scratch to signal a project to start, similar to the play button on YouTube videos. Unfortunately, I don't think there is a setting option for not having the green flag appear. Since you're creating Scratch holiday cards, you might also be interested in the Scratch Hour of Code activity as well. - http://scratched.media.mit.edu/resources/scratch-holiday-card. Sincerely, Michelle Chung, on behalf of the ScratchEd Team
+

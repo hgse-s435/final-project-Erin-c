@@ -1,0 +1,2 @@
+I am using BYOB 3.1 to teach GR 11 students. Scratch 2.0 was unavailble at the time, and I wanted to teach the creation of blocks. I have one student who is trying to replicate Frogger. She has only 3 cars moving , and the lag on the frog moving is becoming quite un-bearable. She is using arrrow keys to move the frog, but often has to press the key multiple times to get the frog to move correctly. Any ideas? Is it a RAM issue? I have tried opening in the latest version of BYOB as well.
+

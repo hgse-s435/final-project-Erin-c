@@ -1,0 +1,4 @@
+How do I connect multiple student projects together in a loop for an art show?
+
+All I can think of is to use the new record feature and then combine all of the movie files into a single movie and then have that loop?
+

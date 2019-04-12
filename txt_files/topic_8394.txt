@@ -1,0 +1,6 @@
+Iam using the broadcast feature to have multiple sprites interact with each other. Is there a way to turn off the broadcast after the desired result is complete. My sprites continue to recieve the broadcasts
+
+What does the rest of your code look like? You will need to structure your code so that the broadcast block only gets executed once; you can also try using the stop script block.
+
+Maybe this is complicating things,but If the broadcast has to be executed more than once because of other sprites, you can create a variable for a specific sprite with initial value zero, have it incremented when the boadcast is received and have the sprite "react" only if the value of the variable is one. Ana Santos
+

@@ -1,0 +1,4 @@
+I created a Studio so that I could copy and paste my students' URL links into it and view/grade projects but I get the "Project not found" message. What am I doing wrong? Should I add all my students as "curators" and have them send projects that way? Help. What is the best way for students to send and I receive Scratch 2.0 projects and well as have them view each other's work? Thanks.
+
+The projects need to be shared first, then you can add them to your studio.
+

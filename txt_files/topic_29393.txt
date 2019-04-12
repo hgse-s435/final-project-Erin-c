@@ -1,0 +1,6 @@
+I've copied this from the 'Teaching with Scratch' discussion because I think I posted in the wrong place. Hi all I got quite good at making Activity Instructions for the pupilswith Scratch 1.4 using "Save picture of scripts" and then inserting them into a Word document. How do I do this on Scratch2.0? Anne
+
+Hi Anne, Unfortunately, I think this feature was taken out when Scratch 1.4 was upgraded to 2.0. Another option is to ask students to take a screenshot of their project code. M
+
+Hi Michelle Thanks for your reply. I must ask thenational Code Club www.codeclub.org.ukin the UK how they produce the activity notes, they make, for our Scratch2.0 projects. @codeclub
+

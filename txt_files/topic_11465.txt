@@ -1,0 +1,4 @@
+So, I think this behavior is wierd. I have a simple script that looks like this in text: When space key pressed forever I press the space key and the script starts to execute --- it should execute forever. I have another script for the same Sprite that looks like this: When green flag clicked forever When I press the green flag icon the second script starts and the first script stops. Is this a bug, i.e., is pressing the green flag just supposed to start green flag scripts, or is it a feature, i.e., is pressing the green flag really supposed to stop all currently running scripts? - mulhern
+
+Hi Anne, Yes, the behavior of the green flag is to stop all scripts, then execute scripts attached to "when green flag clicked" blocks.
+

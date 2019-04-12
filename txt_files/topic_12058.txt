@@ -1,0 +1,4 @@
+[scratchblocks] when green flag clicked repeat (10) set [tiaosanX] to (250) forever if <(tiaosanX) > [-300]> change [tiaosanX] by end end [/scratchblocks] I 'd like to repeat 10 times but I don't understand why only run it once Complete project is here : parachuting?? and ,this canrepeat 10 times,as follows: [scratchblocks] when green flag clicked repeat (10) set [tiaosanX] to (250) repeat until <(tiaosanX)< [-300]> change [tiaosanX] by end end [/scratchblocks] Who can help me ?scratch.mit.edu/forums/viewtopic.phpThanks!
+
+The internal loop forever if <(tiaosanX) > [-300]> cannot be repeated 10 times as this is an infinite loop (it will be repeated every time that tiaosanX is greater than -300) and it will just wait forever for the condition to be verified. To leave the loop as soon as tiaosanX is smaller than -300 you have to replace it with a finite loop, that is a loop in which the condition is reversed: repeat until <(tiaosanX) < [-300]>
+

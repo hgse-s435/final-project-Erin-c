@@ -1,0 +1,2 @@
+Hi everyone, We just fixed a funny bug this morning that may have some unanticipated side effects. If you notice anything strange with the site (specifically, it might manifest itself as content missing from pages), please let me know. Thanks! K
+

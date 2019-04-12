@@ -1,0 +1,14 @@
+A student of mine has ledges continually moving from one side of the screen to another. When the Monkey walks off of a high platform and floats downwards she wants it to hit the red ledge, stick to it and move with it back and forth and then be able to walk off of the ledge by using the cursor keys. Can anyone help?
+
+Are you able to share the project? It would be helpful to see the code. Thanks! K
+
+The game is here. Thanks for having a look. scratch.mit.edu/projects/12898801/ You can also find it by searching for "Somerset" and then in studios choose "Elim". My ICT consultant in Local Authority had a look but couldn't help. Taaaaaaaaaaaa
+
+First off, you can change the monkey's "if touching ledge" from "change y by 0" to "set y to" a set value (i.e. while standing on a platform y should not change)--I found a y of 80 worked well, keeping the monkey touching the green ledge. But the student also needs a way to tell the monkey the direction the platform is moving in so the monkey can move along the X axis with the platform. One way is to use "set x to" in the same if/then block, but instead of using a numerical value for x you want to use the x position of Green Ledge--fortunately there's a block in the SENSING group of blocks which "senses" the value of various parameters for each sprite in a project. [I remixed the orginal project and made these 2 code changes here:http://scratch.mit.edu/projects/12981133/] Depending on the student's learning style, it might be a good idea to just give them one of the above solutions, perhaps just the Y fix, then see if they can figure out how to adjust X on their own. Then they can transfer those solutions to the other platform(s). Once mastered, you could challenge them to set a hotspot for the feet so the feet must touch the top of the platform for the monkey to land on it. And/or a platform that hits a monkey in the chest might send them tumbling rather than pulling them up/onto it. For an older student add a bit of physics in the form of acceleration as they are falling.
+
+Also helps to increase the speed of falling, perhaps "change y by -5," otherwise it's hard to get past the green platform once you've landed on it.
+
+Thanks Derek. Great help. Sorry to be cheeky but how do I do a hot spot? How do I send the monkey tumbling after being hit in the chest? Thanks once again for your help, the student concerned will have something that now makes the game move forward..
+
+Sorry Ian, been too swamped this week to give your more guidance. But your questions have led me to add "Create simple platform game tutorial" to my Scratch build-it-soon list! If you go to my profile (scratch.mit.edu/users/breenworks/) and click FOLLOW you will get an alert when I share future tutorials.
+

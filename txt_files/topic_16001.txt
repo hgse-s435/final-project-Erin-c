@@ -1,0 +1,14 @@
+I am new to Scratch and I am obiviously missing an important piece. I had my student look at the examples of Names then create something of their own. We can not get their project to start back at the beginning when they open the document. I'll use the Tamika example to try to explain what I mean. When you open the file, it always starts with the letters in a line, with a solid black background. Once you click on the green flag, each letter moves leaving a color trail. When you stop or restart it always continues with the colors over the black; however if you close the file and reopen it, you start over -- letters in a line with the black stage. Every time my students close and then reopen their file, they get exactly what they had when they stopped. What needs to be done so that it always starts at the beginning the file is first opened. Thanks for your help!
+
+If I am understanding you correctly... The Tamika script has two scripts for each letter sprite both of which are activated when the green flag is clicked. One sets the intial position (go to x: y: ) in a line at the top. The other is a forever loop that moves the sprite and bounces when on the edge. You may need the intial position setting script.
+
+Thanks, I will double check to make sure they have the initial position. How do you get a "clean" stage again?
+
+Use the Clean-block from the Pen-section. Put it directly under the [When "greenflag" Clicked]. If I got you right...
+
+Hi Vicki Does Anders mean the 'Clear' block from the Pen palette?
+
+Anne, you are so right. :)
+
+It is an important part of any program to set initial assumptions to a known state at the beginning. Whether this involves clearing the playing field from pen drawn lines with the clear function, repositioning sprites to known locations, resetting sizes, visibility, colors, costumes, lists, variables, etc.everything must be reset if you wish to get back to a known state. Part of programming is the mental discipline to ask, "How should this whole thing start?," and answering that with code. In your case, it may involve reinitializing before saving. Good Luck! And let me know if I can help with figuring out how to get back to your initialized state. Al
+

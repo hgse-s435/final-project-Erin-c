@@ -1,0 +1,4 @@
+Has anyone had experience with Google's CS First athttp://www.cs-first.com? I ask because while I've skimmed the videos and resources, I haven't really had the chance to use it with my kids. We're exclusively using the ScratchED curriculum guide + workbook. My point of view is that CS First seems like a great idea if you want to get non-technical parents to help mentor in the club but may be too restrictive/scripted for very small groups that only need one mentor and that mentor is technical enough. What do others think?
+
+I felt like it's great for teachers that don't have any CS background - it's pretty much all directed and taught through video. I think for teachers that want to have a bit more input into the types of projects that the students will work on it might be too restrictive.
+

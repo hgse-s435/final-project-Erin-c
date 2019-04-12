@@ -1,0 +1,8 @@
+On a couple of student projects we are getting the message " Failed: serialization: buffer too small for compressed data" when attempting to upload to the Scratch website Any idea how to work around this issue or why this is happening? Thanks! Jennifer
+
+Hi Jennifer, I've never seen this message before myself, but I did some digging in the Scratch forums and found that unchecking the"Compress sounds and images" box that appears in the Share screen worked for some people with a similar issue. I suggest trying it and let me know how it goes. I'll also continue to investigate. M
+
+It worked!!! Many thanks!
+
+Awesome! I'm glad it worked out.
+

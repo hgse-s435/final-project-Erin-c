@@ -1,0 +1,16 @@
+Hi all, We're thinking about using Scratch in the first weeks of our Introduction to Programming course. Has Scratch been used at university level before? If so, where? With how much success? Regards, Manuel
+
+It's been used in Harvard's Introduction to Computer Science, http://academicearth.org/lectures/introduction-to-programming-and-scratch Facundo
+
+It's being used at the university level in several different locations. As Facundo mentioned, it's being used at Harvard. It's also being used at UW-Madison (http://scratched.media.mit.edu/resources/creating-animated-music-video-or-poem) and at Berkeley (http://www.eecs.berkeley.edu/news/cso.pdf) Hope that helps! K
+
+Thank you both for your answers. They were very helpful!
+
+Do the universities have to pay a donation/fee for using Scratch as part of their curriculum? If they did pay, was it a one-time payment or on a regular basis? Currently thinking of proposing Scratch as a module in a subject for a national curriculum. Trying to find out more about the implications involved when money is concerned as I need to let my bosses know. What if we want to propose using Scratch as a software for the students to do as a practical paper in one of the subjects in CIE board? What other implications are there? Thanks.
+
+>Do the universities have to pay a donation/fee for using Scratch as part of their curriculum? No. >What if we want to propose using Scratch as a software for the students to do as a practical paper in one of the subjects in CIE board? What other implications are there? I'm not sure what this means. :) But you're welcome to use Scratch, for free. Hope that answered (at least one of) your questions! K
+
+Some additional locations with online resources include Kent State, Ohio State, and University of Wisconsin at Madison. KENT: http://www.cs.kent.edu/~volkert/10051/ OHIO: www.cse.ohio-state.edu/~paolo/outreach/ScratchSE/LabOverview.doc WISCONSIN: http://pages.cs.wisc.edu/~dusseau/Classes/CS202/ Susan
+
+Manuel, look at this book. It is written for using after the initial programming lessons with Scratch. It is a free resource and covers a wide range of programming issues. http://scratched.gse.harvard.edu/resources/special-programming-topics-scratch
+

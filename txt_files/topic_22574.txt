@@ -1,0 +1,18 @@
+I am having a hard time locating my students accounts so that I can follow them (and then add them as curators to my class studios). What am I doing wrong? Do they need to have a finished project first? Is there a sequence of steps that I need to follow.
+
+Hi Patrice, I usually look up people by their usernames at http://scratch.mit.edu/search/users/?q=&sort_by=projectCount#and then click "Follow" on their profile page, or you could have all your students follow you first, and then follow them back. What do you do? M
+
+Hi Michelle, I was doing that, unfortunately Scratch can't seem to find their account and I don't know why. Also sometimes when I have them search for me, they can't find me either. Why is that? Is there another place I could enter in their user name? Thanks! Patrice
+
+Patrice, I am having the same problem you are. I cannot search for users (my students) and they can't find me. This is a problem because this is the way that I access and grad their projects. Ugg. I tried Michelle Chungs link but nothing came up. When I search for a specific username nothing is found. Nothing is found even if I select All Results. I wonder if the Scratch team has any leads. It sounds like a bug. I have used both IEand firefox with the same results. Iguess I will just have students email me their projects. Any ideas??? Thanks, Jessica Medford, MA
+
+Students post Scratch links to an Edmodo group?
+
+I'm having the same issue. Every once in a while the students will show up when I search for users. It's kind of frustrating because I'd like to be able to run their scripts and help them.
+
+I have been finding that very frustrating. I have the students share their projects and put them in a studio. I then will either search for their name, their project name, look in the studio. Unfortunately I don't always find them!I was doing this so that I could combine (re-mix) a completely new project with ALL of their sprites. It was very frustrating. However, if you just want to look at their projects, I would suggest you have them add them to a studio (which you could set to "open to all") Recently I had my project open on two different machines, and it saved the project to the older version, so I had to redo the WHOLE thing. I love Scratch 2.0, but it can be a bit frustrating at times.
+
+Hi Bob, I'm sorry you're having trouble finding the student usernames. I like Patrice's suggestion of setting up an open studio, and then having students add their projects . That way, you can organize student work as well as identify student profiles. I hope that helps. Please share if you have any other strategies. Thanks, Michelle, on behalf of the ScratchEd Team
+
+A simple way to find users is to directly enter the URLof their page: http://scratch.mit.edu/users/xxxxxx/ where xxxxxx is the Scratch user name. For example, my Scratch page is: http://scratch.mit.edu/users/rpbourret/ Odd that Scratch doesn't support searches on user names. Seems like a simple thing to do. -- Ron
+

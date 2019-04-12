@@ -1,0 +1,4 @@
+hello, is it possible to get a list of posts started by myself only ? thank you
+
+Yes. If you go to your profile page, then click on the "Contributions" tab, you can see all of the discussions that you've started. The link for your discussion contributions ishttp://scratched.media.mit.edu/user/176/contributions?type=forum
+

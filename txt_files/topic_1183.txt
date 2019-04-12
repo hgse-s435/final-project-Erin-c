@@ -1,0 +1,8 @@
+How do you send all sprites back to their original location so that you don't have to manually move them back to their starting point every time you start the scripts?
+
+You have to program all of the start-up conditions (initial position, initial size, initial costume, whatever else) with blocks. For example, if I want the cat to start at position (-134, 61) and then glide to position (0,0), I put a "go to x y" block at the top of the stack, then put in a "glide" block. After the cat arrives at (0,0), I want that sprite to get bigger, so I put in a loop with a "change size" and a short "wait". But I also add a "set size" to reset the cat's size each time. I put a "when green flag clicked" on top of the stack to make it easy to trigger. Here's a pictureof the script. I hope that answers your question! K
+
+This video tutorial shows one way to set a start state.
+
+Here is a tip for finding out what x,y values you want to use for a sprite. I'll explain using an short and simple method. 1) Start a new Scratch project. Click on Motion. Notice how it defaults with Scratch the cat at position 0,0 (in the center of the screen.) 2) Drag the cat sprite to any new location on the screen. Click on Looks. Click on Motion again. 3) Look in the Motion blocks for "go to x:( ) y:( )" and you will see that the values have been updated with the Sprite's current x,y position. Handy!
+

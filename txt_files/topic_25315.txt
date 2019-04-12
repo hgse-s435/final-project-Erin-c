@@ -1,0 +1,20 @@
+Hi everyone, We're excited to share this update from the MIT Scratch Team regarding Scratch and hardware connections: In a month or so: Scratch 2.0 support for WeDo will be available Later this spring: Scratch 2.0 support for the PicoBoard will be available Later this spring: An API will be released so that developers can develop Scratch 2.0 extensions for other hardware devices We will post launch details as soon as we know more. Stay tuned! Sincerely, Michelle Chung, on behalf of the ScratchEd Team
+
+Great Is it possible to make scratch run like a server and send HTTPrequest? In Scratch For Arduno version (and maybe BYOB) it was possible
+
+We're trying to use a Pico Board with Scratch 2.0 right now and we're having trouble. Is there a very current update to the status?
+
+Hi Susan, I haven't heard of any recent update for Picoboards. You might want to try writing to help@scratch.mit.edu. Sincerely, Michelle, on behalf of the ScratchEd Team
+
+The Pico Board extension for Scratch 2.0 is available and was released two weeks ago (only for the online version). I had some problems and I had to make some changes (COM port must be the lowest possible, on windows you can change the number on Device Admin settings). And now, It works (a little bit buggy, but works).
+
+Hi Frank, Could you please let us know about the PicoBoard extension bugs? Here is where you can create a bug report:github.com/LLK/scratch-flash/issues/new Thanks! Shane
+
+HI Shane, I don't know if it is a bug or maybe I am doing something wrong but in the following picture you've got a script that doesn't work as I expected as it always says "False". Is it a bug? There's no problem if you use the hat block "when button pressed". Could you add the feature of showing the value of the sensors on the stage? Thanks
+
+Yes! The offline version of Scratch 2.0 supports HTTP extensions
+
+Thanks Frank! That was a bug which has just been fixed and will go out with the next release (next week I think). Shane
+
+Shane - can you point us to some resources about this? Are there a group of people who would be interested in doing a hangout to learn and solve some sticking points that may be keeping some of us from being up and running? I'm happy to put together some documentation once I understand this and have it working!
+

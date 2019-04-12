@@ -1,0 +1,6 @@
+On Scratch 2 I can't find commands to program motor and sensors of WeDo. Are they not yet implemented? When it comes out the version wth this commands embedded? Thanks Dona
+
+Yes, I also miss the possibility to use We Do, Makey Makey and the Picoboard. It is very importent to have those for using Scratch together with hardware. Hope to get an answer soon
+
+I recently posted an update from the MIT Scratch Team about Scratch + hardware developments at http://scratched.media.mit.edu/node/25315. To note, Scratch does currently work with MaKeyMaKey... Thanks, M
+

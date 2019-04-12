@@ -1,0 +1,16 @@
+Hi everyone, We've finally had some time to upgrade the subscriptions and notifications features of ScratchEd. We've done some testing of the new features, but we could definitely use your help! If you notice any weirdness with the site or your email notifications, please send a message via the Contact Us form or via email to scratched at scratch.mit.edu. Here are three of my favorite new features from the upgrade: New interface for managing your subscriptions: Check out the Subscriptions tab on your profile page to add, delete, or modify your subscriptions. Auto-subscription to content:You can now opt to automatically be subscribed to anything you contribute to. For example, if you comment on a discussion topic, you will automatically receive notifications about new comments. Readable messages and digests:The notifications were really ugly and hard to read. We hope that the messages you receive are now more aesthetically and functionally pleasing! Here's a video that demos some of these new features (click the four-arrows icon next to "vimeo" for full-screen, and click the HD button for highest resolution video): We hope that you enjoy these new features. Please don't hesitate to let us know if you spot any bugs or if there are other features you would like. Sincerely, Karen (on behalf of the ScratchEd team)
+
+Thanks for the new features! I'll definitely let you know if I have any comments. Happy new year! :)
+
+Great, thanks so much!
+
+Autosubscribe is a welcome new feature and the video is a big help in showing all the other subscription options! For your feedback request, I'm wondering about the formatting for the digest e-mail message. Thank you for making it easier to figure out which link goes with which entery. As the e-mail showed up in gmail, though, there were no spaces between enteries. It also seemed like there were some duplicates involving links that were posted in a message, I couldn't figure out why the same link was on the list more than once. Karen R
+
+Hi Karen, Thanks so much for the feedback! If you don't mind, could you please forward me the message you received? It's great to be able to look at examples of messages that are being generated. Here's one example of digests that were generated (both HTML Mail and Plain-text Mail) during the testing process: sites/default/files/format-gmail-html.png sites/default/files/format-gmail-text.png In this example, the same types of items are grouped together without spaces between entries. But, again, it'll be great to get an example from the live site to see how it might be going awry (e.g. the duplicate links). :) Thanks again, K
+
+Oh that was slick--your subscribe worked and I knew you'd replied without waiting for the digest! The sample files in your links are different than what came through on my end. I'll forward that to you. Karen R
+
+And now the message that came today has separated sections and no repeats, so it's working.
+
+Oh, I'm glad to hear it! The previous message must have been queued up from before the change. Thanks again for the report, K
+

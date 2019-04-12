@@ -1,0 +1,4 @@
+Hello, I created some small games (educational, memory, action). You can see codes following the links. You can use the games in small kids to eterntain and educate them, or to bigger children to rearn them the code and give them ideas fto develop new ones. Visit my page atafarmakoris.wix.com/simplegames4u Till now the games are: Hangman (find the hidden word) Anagram (rearrange letter to find the word) Flags (identify the flags of all the nations) Continents (in which continent each country belongs?) Memory (remember where the number appeared) Memory cards (match same cards of animals) Sequence (remember the number sequence) Balloons Snake Ufo Attack Eggs Rocks Puzzle Energy Rainbow
+
+Nice interesting games you made! I just posted a stories about my experience with middle school students and games: http://scratched.media.mit.edu/stories/programming-through-games-middle-school-students
+

@@ -1,0 +1,38 @@
+Hi! The post and instructions below has been deprecated in favour of a much simpler setup. The new setup uses Windows 7 and the MS Kinect SDK and my free program Kinect2Scratch available on http//scratch.saorog.com I'd love for you to try it out and give me some feedback! Regards, Stephen Hi everyone, Thought some of you might be interested in my page on how to use your Kinect with Scratch: http://stephen-howell.tumblr.com The Kinect is a great add-on for the XBox 360. Many people had their doubts, and although core gamers will decry the Kinect, it can be really good fun to play around with. Literally, you are the controller. There has been some interest in hacking the Kinect to work with computers other than the XBox, and there are drivers available now to use with Windows, MacOSX and Linux. I became interested in coding Processing to work with the Kinect, but soon became disheartened when it appeared that bone data (or joint positions) were not readily available, instead only 3D depth data (cool but not enough) was readable. Then I found the OpenNI drivers (see links below) and the OSC server from Sensebloom. They were able to send joint data encoded as OSC commands to Processing, and I wrote up my own little Processing receiver to test it. It worked so well, I delved into their C++ code to see if I could send the same data to Scratch. When I couldnt see a way for Scratch to interpret the OSC code, I read about the remote sensing over the network that Scratch allows. This was perfect; I could send Scratch commands from a C program which was reading joint data from the Kinect. So after making a few Scratch proof-of-concept games to test it, I decided to release it all for you guys to test out. You will need: A standalone Kinect (one bought without a console) OR a Kinect that came in a console bundle and the separately available USB plug to connect it to your PC A Windows PC (other versions can be made by coders familiar with coding on OSX or Linux) The OpenNI.org drivers installed The OpenNI2Scratch program Scratch Some Kinect aware Scratch programs. Here are a few: Skeleton, Ball Bounce and Space Invaders (Links to all of these are available on the tumblr page mentioned above) Once youve set that up, you have to connect the Kinect to your PC and wait for the drivers to install. Then run the OpenNI2Scratch program. Run Scratch, execute the Scratch program you want to control. Calibrate the Kinect - this involves standing a fair bit back from it and standing in a calibration pose for a few seconds - see picture on site. Once the program has detected you, it will send the joint positions to Scratch. After that, see the variables on the sample Scratch programs to see how to use the joint data. Enjoy. Stephen Howell
+
+This is fantastic -- thanks so much for sharing!
+
+Whaoo, this is really nice. Must buy Kinect....:) Thanks Stephen, really really nice work.
+
+There's also a thread about this in the "Advanced Topics" Scratch forum.
+
+I loved the part of the video showing the Scratch cat with the jointed body. Thanks for extending the world of Scratch!
+
+Thank you Prof. Resnick, it means a lot to read that.
+
+New version of the Scratch/Kinect program available, get it at http://stephen-howell.tumblr.com New features include: GUI with some buttons to make usage easier, mirror mode (reflection on x-axis), z-axis information (how far or close are you to the sensor) and rudimentary and untested multiuser mode. I would have tested the multiuser mode more, but my 2 year old refused to stand still for the calibration. I would love to hear if any educators anywhere use this, I will be using it tomorrow in Dublin with 18 high school students, I hope to get good feedback from them. Regards, Stephen
+
+Thanks Anders, if you get a Kinect, please let me know what you do with it!
+
+Thanks Karen!
+
+Hi again Stephen I just ordered a Kinect (not yet arrived...). But after trying out I sure want to let kids in school (or after?) try and experiment. So in a couple of weeks I hope to have some result. I will try to set up (once a week) an afterschool activity for kids interested in tech and Scratch. I think they will love the kinect-scratch connection... :) I will follow your attempts to fix the multiuser interface...
+
+What a great idea! We'd love to hear (or see!) how it works out. Please keep us posted on what happens...
+
+Got a Kinect Tuesday after seeing Kinect Hacks on Gizmodo and Wired. Made a quick proof of concept app, Ilean left the cat walks left, Ilean right the cat walks right. So, this morning Isaw your thread. This is like a whole box of awesome. Ilove this community. Thank you for sharing. Iteach a middle school Student Technology Leadership class. "Your body as keyboard and mouse", a UI project, lights my kids up. I'm trying to come up with a game concept, using Kinect for whole body interaction, that teaches addition and subtraction of positive and negative integers. What Ikeep running into is that treating the idea of positive and negative quantities ( debit and credit transactions in a bank account) is too abstracted. Movement, right/positive and left/negative, seems to be easier to grasp because it is spatial. Scratch2Kinect lends itself to this task. Ithought Iwas going to have to work with FAAST.
+
+I'm delighted to read that Mark, where is your school? I'd love to see your finished projects. We are working on teaching science using Scratch and the Kinect at the moment. Regards, Stephen PS. My new sig: "like a whole box of awesome" - Mark Erickson
+
+Hello, Stephen, We, Kodomo Programming Circle, had a Scratch and Kinect workshop for junior and senior highschool girls with support of Tsuda University on Aug 22 in Tokyo. It was their first experience of computer programming. Nevertheless they much enjoyed making thier own interactive games. A report is here. (in Japanese): http://www.kumikomi.net/archives/2011/08/rp34fem.php Thank you for making fantastic Kinect interface. Cheers, Kazuhiro Abe
+
+Hello Kazuhiro, Thank you for the post, it is so amazing to me to see my software being used in Toyko. Thank you so much! I used Google Chrome to translate the report, and it looks like everyone had a great time. I have a new version of the software in beta-test, it uses the MS Kinect SDK so it is Windows 7 only, it is available from http://scratch.saorog.com I would love to hear more about the Kodomo Programming Circle and Tsuda Univeristy's experiences with Scratch. I hope you can email me details some time (my email is on the page linked above). My brother and his wife spent a year in Japan as part of their Japanese language degree. I can't wait to tell him about this. Thank you again. Regards, Stephen
+
+We, Kodomo Programming Circle, will have a Scratch and Kinect workshop for girls again on this weekend. http://www.rikejo.jp/stc/20120204ScratchEvent/ We're so excited!
+
+Yes, we have done it ! Nous aussi, nous l'avons fait :www.rcx-storm.org/Kinect2Scratch-nous-l-avons-teste Merci Stephen !
+
+Hi Stephen, That Is absolutely brilliant. Don't have an xbox but that makes it so tempting to get a kinect. Thanks also for enlightening me on the remote sensing. Ishall have to investigate that further. Thanks again, Mark
+
+This is so cool. I'm going to try it!
+

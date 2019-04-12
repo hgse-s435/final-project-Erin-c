@@ -1,0 +1,10 @@
+Hi - I'm hoping someone else has had this problem... My students log in. As soon as the website changes pages, they are logged in as each other. The user names get completely mixed up. The students are not even able to log back and be in their own user accounts. I'm trying to figure out how to fix this. Has this ever happened to you?
+
+I imagine this has something to do with IP addresses. Let me ask John and Amos to respond, if they have ideas.
+
+Ha. :) It looks like you already asked about this last year. :) Here's what Amos said at the time. K
+
+yes - last year's solution - not working this year... trying to get on the phone with central person today - will post results.... has anything changed on the Scratch end since then? I suspect the ip change caching issue is on a city level here - will post results....
+
+Ah - so we've since learned more info. Most people who experience this kind of problem are using a plugin called "HTTPS Everywhere" , which has a bug that lumped our site in with all others at MIT, and made browsers assume we support a common web protocol called "HTTPS" - which we emphatically do not. We've since contacted them and were told they'd resolve the problem in the next release. It would be good to pass this on to the folks you are working with in case it's helpful to them. Also - the entire Scratch website is being rebuilt, and once we release the new version, it's quite possible this problem may go away. So you migth just want to wait until then (early 2013 - still no firm date though.)
+

@@ -1,0 +1,6 @@
+Do you think that Scratch can be used for teaching hardware; Has anybody used it for this purpose; In that case do you think that students must create their own projects or experiment with given projects like these: http://scratch.mit.edu/galleries/view/79082 Dimitris
+
+Hi Dimitris, I work for SparkFun Electronics. I recently posted an Arduino teaching tool I have been working on in my free time here: http://scratch.mit.edu/galleries/view/110387 It's a little complicated if you don't have experience with Arduino or Scratch or a similar product, but read the project notes for some quick instructions if you are interested. It is a ruff draft and I posted it in the hopes that other educators would understand the idea and download for further development. Feel free to use it however you like and please post any improvements to the gallery. Dedicated to educating- Linz Also- checkout Modkit for Arduino hardware programming using a Scratch like environment.
+
+Hi Linz, I was thinking the possibility to teach basic hardware(and electronics)concepts, using Scratch projects or even Scratch programming. But Arduino takes this idea to a whole new level (e.g.Scratchable devices). I am not sure I can contribute to your project though. By the way, Modkit is great.Do you think that there may be a visual VHDL or Verilog out there...??? Dimitris
+

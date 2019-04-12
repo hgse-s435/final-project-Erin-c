@@ -1,0 +1,6 @@
+This discussion is being started as part of a workshop for Journalism Faculty through the CPATH Distributed Expertise project. As a result of seeing a bit of what you can do with Scratch, how can you use it in your journalism class or curriculum?
+
+Kim suggested looking at the following Scratch project to get a sense for how to "blog" in Scratch. http://scratch.mit.edu/projects/journogeek/226714
+
+Ishowed my news writing class a New York Times game about national landmarks in NYC, and thought we could do something like it locally. It showed two images of two locations side by side, such as the Chrysler building and the GMbuilding. The reader had to click on the one that was a national landmark. The game told you if you were right or wrong. It could've been a lot better, however, if it told you why and given you more information. It just said right or wrong.
+

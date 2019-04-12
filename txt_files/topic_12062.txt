@@ -1,0 +1,10 @@
+HI! This is the best venue I can think of for my question although I know it's not quite the right one. Does anybody know how I can check if a BYOB sprite has a parent? I'm looking to delete all clones except the prototype. There is an attribute parent block but I don't know how to check if this block is null or not. Thanks!
+
+Compare the block to (from Operators). If the comparison in True than the sprite has no parent.
+
+Thanks! Works a charm. - mulhern
+
+The answer was a big help. But I think it raises a problem that has arisen in programming languages over and over again. When I evaluate I get . Now, it turns out that is equal to which is why the suggestion works. But, even though is equal to if I try to use it in the same way as I run into difficulties. This creates a sort of semantic difficulty because the two values are clearly not equal. Would a separate operator be better?
+
+> Would a separate operator be better? Yes, I guess it would. A "nil" could be added to the list of the "is a" operator.
+

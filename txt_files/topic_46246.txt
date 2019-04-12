@@ -1,0 +1,2 @@
+I am hoping to work on some animation using Scratch but I can't stand the few options offered in their Library of sprites. We have been using png files to code but to animate I need vector files that I can "break apart/ungroup" with the kids. All my attempts have been unsuccessful. I have downloaded files which end up on Illustrator but when I save them as svg files they became one big black blob when imported into Scratch. Do you guys know the secret? Am I importing the wrong files? Is there a different software to help make it compatible? Thanks and have a great day!
+

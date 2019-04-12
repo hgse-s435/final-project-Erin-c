@@ -1,0 +1,28 @@
+My students are so frustrated! They are not able to upload projects at school. They work on something and have no way to get back to it the next day. I'm thinking they should upload projects to their Scratch pages and then download them to work on them the next class. Is that what schools do? How can I troubleshoot the uploading problem? Any suggestions are most appreciated!
+
+Hi Susan I have the same problem. Your network passes probably thru a proxyserver some where. But you should be able to save your projectfiles on the fileserver.... if you have one. Ask your IT-department they should be able to help you... (or not? ;)) Or maybe use http://www.dropbox.com/ (if you can install things on the computer) You can find the proxyfix here: http://info.scratch.mit.edu/Network_Installation About proxy servers Proxy server settings can be specified in the Scratch.ini file using the following entries: ProxyServer=[server name or IP address] ProxyPort=[port number]
+
+Thank you so much for your quick help!!! As I always say, there's good news and bad news.. it's me and it's me.. I suspected a proxy problem. Thank you for pointing me to the instructions!!
+
+I just realized that I installed it on each local computer and we are not using it on a network installation but maybe this will still help. Thank you!
+
+Problem solved! Thank you very much. We did find the right info, and add it just as listed above and as was in the help doc listed above. The final info does not have any paragraph marks around it. We just added it to the end of the file. We are replacing every .ini file on each local workstation with this file. We also used the help email for Scratch so thank you Amos for following up with us when all looked bleak! I can't wait for my students to return next week and be able to upload!
+
+Hi Susan, Thanks so much for the update -- I'm so happy to hear that things are working. Big thanks to Amos (on help@scratch) and Anders (here on ScratchEd) for identifying the solution! Thanks, K
+
+Lovely Susan And I love your last sentence (thats the spirit of a true teacher): I can't wait for my students to return next week and be able to upload!
+
+Hi Susan, It's Charlie Freij from East Brooklyn Community High School. I've been trying to get through the proxy setting for the last two years. I've tried to enter the ProxyServer name or IP address in the .ini file and I've never seemed to get the right address. Did you find out the address from your school IT person or did you go through the DOE helpdesk? We are at a loss over here.
+
+Charlie - I'm so sorry I just found this message. I can definitely help you when I get back to school!
+
+Charlie: add this at the end of the .ini file.. let me know if it works! ProxyServer=filtr.nycboe.org ProxyPort=8002
+
+It worked! Susan, you're the best. Thanks so much
+
+great! Are you coming today to the 4-7 at Teachers College? I am! Hope to meet you!
+
+Eeek - I'm having the same problem. I added our local proxy settings to the .ini file and it doesn't stall now, but it seems to upload and then returns a Failed:Unknown Reason message in red. I'll keep trying..
+
+Figured it out! Had to add the word PROXY. haha! Now to change the .ini files on all the lab computers... arg.
+

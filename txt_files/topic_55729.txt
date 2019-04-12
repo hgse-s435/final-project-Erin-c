@@ -1,0 +1,6 @@
+Hello Although there are many books and cards to learn Scratch, almost of it are written by English. I have found some posted resource (like this) which was translated to other language. So, in a similar way, I want to make translated documents and cards by Japanese. How did they make translated documents ( or cards) ? I can get editable documents (like .pptx or .docx ?) in somewhere on this site? Or it was made by editing pdf file directly ? If there are resource or guidline for making translated document and card, please tell me it. thank you.
+
+Hi Shinsuke! Which particular artifact are you looking to translate? You can download the Creative Computing Curriculum Guide here, as a PDF or editable Powerpoint. Let me know your thoughts! Best, Alexa
+
+Hi Shinsuke, Activity cards and educator guide are already translated, Go to https://scratch.mit.edu/tips, then swich language to Japanese. Also, Scratch coding card(Japanese version) is published from Nikkei BP. When do you want to translate other documents, I can assist you. Thnaks, DobbsBigbear
+

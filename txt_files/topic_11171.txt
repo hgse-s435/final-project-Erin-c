@@ -1,0 +1,12 @@
+It would be great if it were possible to modify variables from local to global or the other direction. I make my variables local by default, because I'm neurotic and like to limit the scope of things. But then, as I'm working, I realize I want to share the variable among my various sprites. The only thing I can do is delete the variable, and then make the variable again, but this time with the other scope. This is especially painful, because the old variable is still referenced in my scripts. I have to go and manually remove the old variable from my scripts and then replace it with the new variable of the same name.
+
+I totally agree that this would be very useful. (I recently had a similar experience...) It's on my wishlist for Scratch 2.0. Thanks! K P.S. Have you seen Scratch Suggestions? It's another place where you can make suggestions for the next iteration of Scratch.
+
+Hi! Thanks for adding your vote. Scratch is kind of wierd to me because there isn't any facility of the usual bug tracking sort so I'm not quite sure where to post actual issues. This is just an enhancement suggestion, of course, but it seems both doable and useful. Do you think they'll ever set up a more official means to receive and process bug reports and serious implementation suggestions? I can't imagine they don't have a private bug tracking system, but it would be nice if it would be more accessible to serious users. - mulhern
+
+Hi Anne, We have an internal bug tracking system, which we populate from forum reports and fromScratch Suggestions. We definitely welcome bug reports! Thanks, K
+
+OK, then I'll keep mentioning anything significant that I notice. Btw, call me "mulhern", everyone does except my Mom. - mulhern
+
+OK! :)
+

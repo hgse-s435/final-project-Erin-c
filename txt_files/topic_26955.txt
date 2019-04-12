@@ -1,0 +1,4 @@
+Any ideas on how to organize My Project area under My Stuff? I was hoping to be able to create folders where I can store my lesson files like WIP, Future ideas, Lessons on Variables, Lessons on Movement and such. Right now, I have about 50 Projects under the My Project area and it makes it hard to find. Thanks
+
+Hi Paul, You could organize your projects in Studios, which work similarly to folders. Click on "My Stuff" and then "New Studio". You can group and collect specific types of projects together, and you can easily access your studios from our profile page. I hope that helps. Sincerely, Michelle, on behalf of the ScratchEd Team
+

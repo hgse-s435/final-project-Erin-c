@@ -1,0 +1,26 @@
+Hi everyone, I just received this update from Mitch Resnick of the MIT Scratch Team -- We will be making a preliminary version of the Scratch 2.0 "offline editor" publicly available sometime next week. The version is still missing a few features, but it should be robust and ready for classroom use. We'll post an announcement here on ScratchEd when the editor is available. Sincerely, K
+
+That's great news. Thank you for sharing it!
+
+Is this a standalone client or is it similar to Offline Gmail with editing within a browser? Looking forward to it as we get our school's (Hong Kong International School) programming group formed.
+
+Hi Brian, The offline editor is now available! It is a standalone client that allows upload and download from/to the Scratch online community. Find out how to download it at http://scratched.media.mit.edu/node/21730. Thanks, Michelle
+
+The upload feature isn't currently working (it's greyed out in the File menu), but you can open files from the website using it, and upload saved files from the web too. I couldn't find Picoboard support either, but the client seems otherwise pretty complete.
+
+Is the Scratch 2.0 offline editor out of its beta version yet? The new curriculum projects for the UK's Code Club: http://www.codeclub.org.uk are all written for Scratch 2.0. I'm reluctant to ask the teachers at the school, where I volunteer, to download Scratch 2.0 until it is out of the beta version. By the way, I've been usingthe offline Scratch 2.0editor for my lesson preparation and I am very happy with it and its new features.
+
+Hi Anne, It's been out of beta for some time, I believe:http://scratch.mit.edu/scratch2download/ Hope that helps! K
+
+Hi Karen, Thanks, Karen.Its just that it stated thatit's still Beta on the 'For Educators' page of the Scratch website. Cheers, Anne
+
+Thanks for the clarification. What's the link of the page you're looking at? I can't see anything about beta on the "For Educators" page. Thanks! K
+
+Hi Karen, Sorry, I didn't get back to you earlier. I think I've got it wrong. You go to this help page http://scratch.mit.edu/help/ and there's a column down the right hand side where it states it is still in Beta. Thanks for your help, Anne
+
+Hi Karen, I posted this as a 'Reply' but perhaps it didn't get to the correct place. Or perhaps you are all busy with the wintry weather.Getting aboutcertainly uses up time in winter! I think I had got it wrong about the 'For educators' page. You go to this help page http://scratch.mit.edu/help/ and there's a column down the right hand side where it statesthat Scratch 2.0 isstill in Beta. Thanks for your help, Anne
+
+Thanks.
+
+Thanks. I see that the scratch.mit.edu Help page has been altered now to show that Scratch 2.0 Offline Editor is no longer in Beta version. Looking forward to using it in our school in the UK. Bishopthorpe Primary School, York.
+

@@ -1,0 +1,12 @@
+I actually have 2 questions. 1) Is the new Lego WeDo 2.0 set compatible with Scratch? I was recently awarded a grant to order Lego WeDo bots for my elementary technology classes and need to know if I should order the original WeDo kits or the newer 2.0. 2) Is it possible to use a Chromebook to use Scratch with Lego WeDo? I have a few Windows run laptops but I have a class set of Chromebooks and it would be easier to use those if at all possible. Thanks in advance.
+
+LEGO Education says that WeDo 2.0 will have a Scratch 2.0 interface, to be released in late January/February 2016 for Mac OS X and later in 2016 for Windows. Generally, I'm impressed with WeDo 2.0. Lots of very useful parts, easy connection, and some good projects. I haven't yet worked with students on WeDo 2.0 but it looks like it is open-ended enough to invite improvisation and not just rote replication of pre-existing projects. Sorry to say, I don't have an answer to your Chromebook question.
+
+Unfortunately, none of the hardware extensions work - or will work - on Chromebooks. Sorry I don't have better news, Willa
+
+Good news, I have gotten WeDo 1.4's to work with Scratch 2.0 on Chromebooks. http://www.picaxe.com/Teaching/Other-Software/Scratch-Helper-Apps/ http://www.picaxe.com/docs/s2bot.pdf http://workshops.sjcoe.org/Uploads/71520156592239808.pdf
+
+The awesome Scratch team has released its extensions for WeDo 2.0: http://scratch.mit.edu/wedo? Check it out! I have been able to connect my Mac OSX computer to the WeDo 2.0 and used the Scratch extension blocks.
+
+It must to work with chromebooks, extension works with any explorer, isn't it?
+

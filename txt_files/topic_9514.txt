@@ -1,0 +1,8 @@
+Does anyone know what the maximum list length is?
+
+I tried a loop with random numbers... More than 8300 and still counting... No limit? But CPU load was 40-50% on my old Acer Aspire 5110, where are the values stored? No increasing memory allocation... magic :) /Anders
+
+The practicle answer is that longer lists create longer wait times when opening or saving a Scratch project. How long do you or others want to wait? Usually, not very long at all. Here is a link to one of my projects that uses several large lists. Download it, then open it in Scratch to see whatI mean about slow loading. I split the data into several big lists instead of one huge list to make it easier to deal with whenm coding.
+
+Never used squeak but imagine its memory management is similar to other languages in which case your limit is the memory limits of the machine. Modern machines have gigabytes of memory and 8300 numbers would only be kilobytes of space. The reason the memory allocation isn't increasing is becasue the memory manager would allocate blocks of memory. If you carried going you'd evenually see the memory usage increase but in large increments.
+

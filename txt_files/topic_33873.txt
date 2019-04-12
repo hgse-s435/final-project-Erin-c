@@ -1,0 +1,6 @@
+In an older version of Scratch I could "lock" a sprite's costume so that if he changed direction, the costume did not change direction. I can't figure out how to do that now. Can someone help me? Here's the exact situation. A student has a script that makes a soccer player jump up to head a ball. He's using set direction 0 and move and  set direction 180 and move. For both of these movements, the soccer player needs to "stay on her feet." Thanks, Kathy
+
+Hi Kathy You can do this with the 'set rotation style' block (in the Motion category). There are 3 'styles': rotate all around, left-right (which means the player will look left or right but not turn upside down) and don't rotate. You can also change the rotation style by clicking the blue 'i' on your sprite and choosing your 'rotation style' from the options that appear. Chris
+
+Thank you!!! I knew there had to be capability somewhere, but I could not find it.
+

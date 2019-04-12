@@ -1,0 +1,8 @@
+Hello, I am not sure if this has been addressed previously, but here is our problem. One of my students is encountering an error message as he is building a RISKgame that reads: "Warning! Squeak is almost out of memory! Low space detection is now disabled.It will be restored when you close or proceed with this error modifier. Don't panic, but proceed with caution..." The student is unable to proceed and must close out of the program at the point the message is received. I assumed this was an internal glitch on our school network but he tells me that he recieves the same warning on his home computer. Any feedback you can provide to me on this would be much appreciated. -Betty P.
+
+Hi, Betty. I'm sorry your student is having a problem with Scratch. This error message means that Scratch is running out of memory. It's rare for Scratch to get this error, so I'm curious what's happening.Does the student know which script causes the error? Does his project use a lot of long sound recordings or large images? If you have the student post his project on the Scratch website and send me a link to the project, along with some instructions for how to reproduce the error, I'd be happy to look at it. -- John
+
+Thanks very much. I will see him twice more before we break for summer- I will ask him to post his projectand I will post a link once he has done that. Thank you ,again, B.Pickett
+
+http://scratch.mit.edu/projects/Kkorverfan/2494431 Thanks much-here is the link to his RISK game.
+

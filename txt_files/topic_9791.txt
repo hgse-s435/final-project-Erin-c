@@ -1,0 +1,6 @@
+I'm looking for advice about how to get started with sensors for a high school class. Which ones - what context?
+
+Susan, I think you should start by using the existing sensors in the Scratch board (light, sound, slider and button). I wrote a few one-page documents to get people started with sensors. You may find the useful: -http://scratched.media.mit.edu/resources/make-car-go-faster -http://scratched.media.mit.edu/resources/make-your-own-puppet I also recommend the getting started with Pico Boards document (available in this linkhttp://www.picocricket.com/pdfs/Getting_Started_With_PicoBoards.pdf) Best of luck! Claudia
+
+In addition to Claudia's suggestions, as mentioned in last night's webinar, the loudness block can be pretty satisfying to play with. :) No additional hardware is required if you have access to a microphone. (Most laptops seem to have microphones built in.) The last Scratch Design Studio --Loudness Lollapalooza -- might give you some ideas. K
+

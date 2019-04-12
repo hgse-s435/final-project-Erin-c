@@ -1,0 +1,6 @@
+I have a student who is trying to get a stage to change background when 2 sprites touch. Any suggestions?
+
+Hi Marilyn, Does this example help? http://scratch.mit.edu/projects/karenb/1339540 -- this is just one way to do it. Thanks, K
+
+Thanks!! That should do it.
+

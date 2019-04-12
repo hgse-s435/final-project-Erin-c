@@ -1,0 +1,6 @@
+Mitch mentioned at a workshop that this could be done. It would be helpful to be able to do this for different groups of people. :) Peter
+
+Agreed. :) The process is defined in the appendix of the reference guide athttp://info.scratch.mit.edu/Network_Installation Customizing the default sprite You can replace the default cat sprite with a sprite of your own. Your default sprite can include multiple costumes, sounds, and even scripts. To set this up, just create your sprite and export it. (To export, right-click on the sprite and choose "export this sprite."). Then rename it "default.sprite" and place it in the Costumes folder. Hope that helps, K
+
+Thanks!
+

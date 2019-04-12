@@ -1,0 +1,2 @@
+We have just kickstarted https://www.kickstarter.com/projects/robosnap/robosnap-vision-for-your-robot a new product called RoboSnap that we will be demonstrating at the Scratch Conference in Amsterdam this summer. This is a camera that is used with the LEGO Mindstorms EV3 or the Rasbperry Pi + BrickPi that you can program with Scratch and Snap! Here an example of a demo programmed in Snap! https://github.com/10Imaging/RoboSnap/wiki/Snap!-Spider-example. For more info see www.robosnap.net.
+

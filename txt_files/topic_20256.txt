@@ -1,0 +1,6 @@
+I don't know if this has been discussed already (I did search) but as a teacher I would really like a way to have control over the account of pupils in my class incase they forget passwords (this is inevitable) or usernames. Allowing login though Google Apps would solve this for us but not everyone. I would also like to be able to track projects by my pupils, e.g. see alerts when projects are updated, see total number of hours working on a project, see comments made etc. Do we know if these have been planned, and if so when could we expect them?
+
+Hi Graham, You have great timing, as the MIT Scratch Team is currently trying to develop "educator accounts" for Scratch 2.0, hopefully to be implemented by the end of this summer. You can read more about what the feature might include in a comment I posted in a similar discussion post. Sincerely, Michelle, on behalf of the ScratchEd Team
+
+That's great to hear, it will make the classroom experience much smoother. Thanks for the update!
+

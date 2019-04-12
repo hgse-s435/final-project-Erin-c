@@ -1,0 +1,4 @@
+I've been introducing Scratch to three different classes of 5th grade students. For each class, I created one account that I'm having the students share to create and save their files. However, many of the students are getting automatically logged out of the account. Is there a maximum number of people who can be logged in to an account at a time? Is there a way to get around this? Do I need to have each student have their own account? If so, is there an easy way for met to set up and manage that? Thanks for your assistance!
+
+Hi Julie, I've heard from other educators that if you have more than 15 or 20 students logged in simultaneously to one account, the Scratch website will automatically log you out. You might want to check out this discussion thread for other options for creating student accounts. -http://scratched.media.mit.edu/discussions/how-do-i/scratch-accounts-classroom-use I hope that helps. M
+

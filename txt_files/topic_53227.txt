@@ -1,0 +1,4 @@
+Hi all, I am teaching following the curriculum laid out in Creative Computing (CreativeComputing20141015.pdf) In each unit there is a section called Resources and one of the resources is usually handout. For example in Unit 1 activity, there is Step-by-step handout and 10 blocks handout. I don't seem to be able to locate these handouts. Are they provided or I need to create my own handouts? Thanks.
+
+Hi Hari! The handouts are a part of the guide itself :). For example- for the 10 blocks activity, the description of the activity is on page 30, and the handout itself is on 31. You could print out individual copies of that page if you'd like! You can also find more handouts in the workbook:http://scratched.gse.harvard.edu/guide/files/CreativeComputing20140820_LearnerWorkbook.pdf Is this helpful? Best, Alexa from the ScratchEd team
+

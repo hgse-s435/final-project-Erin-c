@@ -1,0 +1,8 @@
+Hi, I will be doing a six-session "coder camp" this summer and am thinking of using Scratch. It will be for middle schoolers and will be about 18 hours in total (6 sessions, 3 hours each). I have looked at code.org as well as ScratchEd and am wondering which would be better for the time allotment, as well as student ages. Thanks in advance!
+
+You can defiintely do a lot with SCRATCH - more than CODE.org. Code is good for basic introduction but for middle school students scratch has a lot more to offer. we teach scratch to students in grade 2-5 with our curriculum and there are many times that we wish we could do more advanced projects because scratch has the capability but the students are quite young and we don't have the time. Middle school students with a 3 hour block can ramp up faster and will be able to create more complex programs. Vrinda
+
+I highly recommend checking out the free Creative Computing Curriculum Guide for a wide variety of lesson plans and activities which would be great for middle school students. http://scratched.gse.harvard.edu/guide/
+
+Ucodemy has several scratch courses available as well that you could use along with an integrated LMS for video instruction and directions here:http://courses.ucodemy.com/ Try out our starter project for making a breakout game.
+

@@ -1,0 +1,16 @@
+hello, i cannot do the proper formatting of my posts, as you have already realized ...; i'd like to insert itemized lists, links and wraps etc., the way i see you do; but how ??? i am very sorry for the bad appearance of my posts; thanks
+
+Do you see tools above the post editor window? (Like bold, italics, un/ordered lists) What browser are you using?
+
+I don't see any tools; the browser is Opera 9.10 on Xp; thank you
+
+I'm sorry to hear that you're having problems with the editor. I've added a bug report, so that I can follow up on why that might be happening. A short term fix, though, would be to use a different web browser, like Firefox.
+
+that's fine, i am using firefox 3.0.11 and i think it works better since i can see the toolbar you were pointing me to; for example this is an item and this another one thank you !
+
+Would it be possible to add a functionality like "quote" ? Some forums allow to report automatically in a reply some parts of another post a user want to reply to, exactely. In my opinion, it would be useful to understand what one is referring to, and what not. Thank you again.
+
+That looks good...thanks for being willing to experiment! :)
+
+I've added a quote-back feature to my development list. Thanks for the suggestion! K
+

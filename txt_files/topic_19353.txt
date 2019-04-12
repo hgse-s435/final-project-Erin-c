@@ -1,0 +1,6 @@
+I am keen to hear what strategies teachers have been using to setup and track new classes on Scratch 2.0? We've been introducing Scratch to 4th graders for 4-5 years now. Students save their work to network shares, on which teachers have read-write privileges. That makes it easy for me to track and evaluate student work. For 2013-2014 I'd like to start using Scratch 2.0. I am NOT keen to have 4th graders choosing new usernames and passwords for every web-based app they go to.  And even if I could swing that, I am not sure how to track student work. All our students have Google Apps accounts, so using Google Authentication would certainly be a plus for us. Thanks Santosh
+
+Great question. I'm wondering the same thing. Have you learning anything more about this since you posted? Tynker, a rival service that is very similar to Scratch, has Google Apps integration....
+
+There is a plan to implement "educator accounts", hopefully by the end of this summer. Check out this similar discussion where I posted more information about it. Sincerely, Michelle, on behalf of the ScratchEd Team
+

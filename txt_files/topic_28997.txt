@@ -1,0 +1,8 @@
+We are pleased to announce Pyonkee. The world's first real Scratch 1.4 environment on iPad. Anyone can download it from App Store for free now. https://itunes.apple.com/en/app/pyonki/id905012686 Pyonkee is written by Masashi Umezawa and it is based on Scratch 1.4 Source Code from MIT Media Lab. So there is no Scratch cat, logo and project sharing feature (except emailing projects). Some Scratchers might remember John M. McIntosh's Scratch Viewer for iOS. That was removed from App Store by Apple four years ago. Pyonkee refers to JMM and other pioneers great works. Pyonkee's source code is available on GitHub. https://github.com/SoftUmeYa/Pyonkee Enjoy! Kazuhiro Abe Fellow, SoftUmeYa, LLC.
+
+Apps Playground ran an article about Pyonkee. Kids can get coding with Scratch-based Pyonkee iPad app
+
+Pyonkee 1.7 is released! https://itunes.apple.com/en/app/pyonki/id905012686 What's New in Version 1.7 - iOS 8 support - Added new Pyonkee characters - Pyonko and Chamekame - Added PeKay-series costumes donated from Tamie Asakura (Good Grief Inc.) - Added video tutorial - Fixed a draggable ToolTip bug - Improved FileDialog And the rating is changed to 4+ now! Enjoy!
+
+This is so exciting! Thanks for sharing the annoucement. M
+

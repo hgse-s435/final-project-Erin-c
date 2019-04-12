@@ -1,0 +1,4 @@
+Have you ever wondered which blocks are used the least/most in Scratch? Visit the interactive blocks usage chart: http://scratch.mit.edu/statistics/.
+
+Hadn't seen this. It's helpful, thanks.
+

@@ -1,0 +1,6 @@
+Al Gifford pasted some script into his reply when hereplied to my Colour Codequestion. I've been trying to dosimilar (paste in some script)in several ways myself but everytime I try the screen freezes or when I paste in my Word document (a Project Summary producedwhen I'm using Sense which is sort of the little sister of Scratch)I can't get it to 'clean' whatever that means so it doesn't appear. Please give me some tips as to what might be wrong. By the way, I tried using the right click on the scripting pane to get 'Save picture of scripts' but although I could insert that into a Word document it wouldn't insert here. That was the first thing I tried. I've also tried insertinga pdf of my Project Summary text too. Help!
+
+Do the save picture of scripts and then open the file you saved in"paint".... From there you can crop it, upload it,or whatever suits your fancy...
+
+Thanks, Al. So simple once you know how!
+

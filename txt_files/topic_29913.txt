@@ -1,0 +1,2 @@
+hello. I am using Scratch 2.0. I want to change the block font to another. for example, Times New Roman. Actually I want to show the blocks to students in a large screen. but this font of blocks is not good to show. It's really hard to find the way to change it. I already tried at Setting menu of Chrome and Explorer, but it's not. I knew that block fonts of Chrome and Explorer are different. that means there will be some way to change it. plz. help me!
+

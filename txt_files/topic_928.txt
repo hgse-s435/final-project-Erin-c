@@ -1,0 +1,6 @@
+Is it possible to change the sprite rotation style from a program?
+
+The only way I know of changing the sprite rotation style is by clicking the sprite rotation style buttons that are next to the current sprite information area. I don't think you can programmatically control the rotation style (i.e. change the rotation style via a block), if I'm understanding your question... Is that what you were thinking of?
+
+Yes....Thanks..
+

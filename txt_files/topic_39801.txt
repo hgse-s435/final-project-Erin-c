@@ -1,0 +1,12 @@
+Hi, I'm new to ScratchEd but not new to Scratch. I would like to download the PacMan.sb file to my laptop to teach in a School but dont seem to be able to do this. Any help would be much appreciated. I do have the .pdf document, think the game is great and would really challenge my pupils. ?Thanks Mike
+
+Hi Mike, It looks like the file wasn't named correctly. I've attached a new file and renamed it (sb2 is the extension for Scratch projects). http://scratched.gse.harvard.edu/resources/how-build-simple-pac-man-game#comment-5267 I hope this works! Best, Willa
+
+Dear Wilhelmina, Thanks for such a quick response and the change you have made. But, I'm afraid you didn't mention how to actually download the file. I've just done a 'Save Target As' (is this correct?) which does allow me to download the file as an HTML but quite a bit of the maze is missing. Is this as it should be or is there a better option? Kind Regards Mike
+
+Hi Mike, Sorry for the lack of explanation. If you download and save the file and then upload the file into Scratch, it should work. (In Scratch, click "create" > "file" > "upload from your computer") Let me know if that works. Best, Willa
+
+Dear Wilhelmina, Sorry it must be me not explaining myself very well. How do you download the file, in simple steps please? Kind Regards Mike
+
+Hi Mike, Apologies for misunderstanding your question. I'm not sure if this will help, but here's what I see when I click on the pacman.sb2 file: If I click "save file" it automatically dowloads. Let me know if this helps. Best, Willa
+

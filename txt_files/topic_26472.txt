@@ -1,0 +1,4 @@
+Hi All, I need to download and run scratch application in local system server,I am new to this please any explain me how to do the same? Thanks in advance, Gajendra Ganiga
+
+Hello see this post ... http://scratch.mit.edu/discuss/topic/16167/ Cordialement Alain
+

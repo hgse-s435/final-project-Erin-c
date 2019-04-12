@@ -1,0 +1,4 @@
+Hello all, I recently uploaded part one of a two part slide set. It's aimed at advanced students and motivated teachers, mantors, parents who want to learn more about making Scratch extensions. It supplements the ScratchX wiki by reverse engineering an extension project. http://www.slideshare.net/DarrenAdkinson/understanding-scratchx-extensions-with-javascript Comments, corrections, etc welcomed. Darren (I live in San Mateo, Ca, and I'm hopefully setting up some free programs with local agencies for underserved youth. Feel free to contact me if you'd like to hear more. Note: the slides above are kind of a side project of mine. The programs I'm setting up are for regular Scratch etc teaching).
+
+Added part 2 of the slides yesterday. These go into depth for each function in the extension: http://www.slideshare.net/DarrenAdkinson/understanding-scratch-extensions-with-javascript-part-2-of-2
+

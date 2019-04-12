@@ -1,0 +1,24 @@
+Hi, The ScratchEd Team is currently researching how Scratch is being implemented across K-12 curriculum. We are interested in hearing about teachers' experiences of using Scratch to teach Science and Social Science subjects. If you are a Science or Social Science teacher using Scratch in your classes, we would love to talk to you! If you'd like to share your experiences with us, please leave a comment below or contact us at scratched@scratch.mit.edu. Sincerely, Michelle Chung, on behalf of the ScratchEd Team
+
+Hi, I'm a chemistry teacher just starting with Scratch.I'm going to be using it in class this week. I'll let you know how it goes.
+
+Thanks, Elizabeth! Looking forward to hearing more. -Michelle
+
+I have used scratch to create a bouncing ball project in my IT class, but as I also teach Physics, I am thinking to let my physics students to create a similar project using gravity simulate projectile motion. my IT students also did a division project, all the dividend and divisor and result must be displayed using sprites, and the result must be in faction form. most IT students who are not strong in academics feel challenging, so I am not continuing to push on more complicated projects such as adding fractions and expressing result as a fraction at lowest terms, etc.
+
+I showed two projects to two different classes. It worked really well. I got a lot of positive feedback from my students that the animation helped them understand difficult concepts. I'll be using Scratch more in my classes, definitely. If we have a snow day tomorrow, I'm going to email one of my Scratch projects to my students so they can practice. :)
+
+Hi Jerry, I really like the idea of using Scratch across both your Physics and IT classes.?I'd love to hear how the projectile motion project goes if you decide to do it. Thanks for sharing! Michelle, on behalf of the ScratchEd team
+
+Hi Michelle, I will certainly let you know, thanks.
+
+Hi Elizabeth, I love the Chemistry sample projects you posted. I shared them on the ScratchEd Facebook and Twitter feeds as well and they were very well received. Thanks again for sharing the project ideas! M
+
+I'm glad you liked them. I'll be making more, which I will share.
+
+I am a teacher in Calgary, Canada; I am doing a collaborative Scratch project with my students and South Fayette Elementary School students in Pittsburgh, Pensylvania.  It is tremendous how communicating with students in another country has motivated my students to make this class project so fun!  We are doing a Social Studies/ Language Arts project using Flat Scratchy as a tour guide for the features and history of where we live. Flat Scratchy wears a cowboy hat, runs from dinosaurs, goes to school and shows the Pittsburgh students how we live.  My students are 8 or 9 years old and they begged me to assign homework so they could work on their Scratch projects at home. Flat Scratchy is in each students' project and goes from backdrop to backdrop. I just need to figure out how to make all the projects run continuously to make it a real 'tour'.
+
+While I teach at community college and most of my applications are for my community college students I have some applications that I have used at outreach events at Lansing Community College and Michigan State University . Here are a couple that I have used with some success. http://scratch.mit.edu/projects/16282046/ While this is just a test of simple deductive logic, I have also used it with my community college students and I ask them not only to solve the problem, but to articulate their logic as if they were writing a scientific report (The exercise involves a series of "experiments" and the students have to say what the results and conclusions for each "experiment" is. http://scratch.mit.edu/projects/11894696/ This project is an introduction to genetics and asks students to predict what children would look like from varying parents. I have used these ones to help teach meiosis http://scratch.mit.edu/projects/11743273/ http://scratch.mit.edu/projects/12254489/
+
+Hello! Can you put up a summary of all the responses you received? That will be a very helpful resource! Thanks
+

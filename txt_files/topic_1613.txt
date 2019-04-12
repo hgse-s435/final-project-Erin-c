@@ -1,0 +1,4 @@
+My class is trying to recreate a story with animations on each page. The students started out with scanned story pages - one page per student. Next, they create sprites and stages from these scanned pages, along with scripts for each of their pages (one project per student now). We are now ready to put all the pages (projects)together into one animated story. Is there an easy way to do this - or at least a favorable way?
+
+Hmmm...I don't have a lot of experience with this, but I've tried Import Project...in the Filemenu and it has helped me with merging projects. Let me know how it goes!
+

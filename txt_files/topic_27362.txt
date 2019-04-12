@@ -1,0 +1,4 @@
+Hi All, I would like to have my own local scratch server. I have set up the server according the steps given in the url "http://svn.assembla.com/svn/scratchr/", But i am not getting where to upload the project in my server. 1. I have set-up scratchR(1.4) in our local server. Login and registration is only working. 2. I am not getting how to upload/share the projects to our local server instead of mit.scratch website. 3. we read the link http://scratched.media.mit.edu/discussions/how-do-i/uploading-project-local-scratchr-server which is posted by karen brenn 4. We need scratch team permission and also the instructions(server.txt as mentioned by karen) to configure for sharing our project in our own local server. Please help me. Regards Raj
+
+I'd recommend posting to the Scratch forums or writing to the MIT Scratch Team at help@scratch.mit.edu.
+
